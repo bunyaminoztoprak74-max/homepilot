@@ -100,7 +100,7 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Quick comparison</h2>
             <div className="mt-5">
-              <AffiliateDisclosure />
+              <AffiliateDisclosure compact />
             </div>
             <div className="mt-5">
               <ProductComparisonTable products={categoryProducts} />
@@ -108,7 +108,9 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
           </section>
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Best picks</h2>
-            <AffiliateDisclosure />
+            <div className="mt-3">
+              <AffiliateDisclosure compact />
+            </div>
             <ProductGrid products={categoryProducts} />
           </section>
           <section>

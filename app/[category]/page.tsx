@@ -118,7 +118,7 @@ export default async function CategoryPage({ params }: Props) {
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Comparison table</h2>
             <div className="mt-5">
-              <AffiliateDisclosure />
+              <AffiliateDisclosure compact />
             </div>
             <div className="mt-5">
               <ProductComparisonTable products={categoryProducts} />
@@ -126,7 +126,9 @@ export default async function CategoryPage({ params }: Props) {
           </section>
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Featured products</h2>
-            <AffiliateDisclosure />
+            <div className="mt-3">
+              <AffiliateDisclosure compact />
+            </div>
             <ProductGrid products={categoryProducts} />
           </section>
           <section>

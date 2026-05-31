@@ -129,14 +129,16 @@ export default async function GuidePage({ params }: Props) {
 
           <section id="top-picks">
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Top picks</h2>
-            <AffiliateDisclosure />
+            <div className="mt-3">
+              <AffiliateDisclosure compact />
+            </div>
             <ProductGrid products={guideProducts} />
           </section>
 
           <section id="comparison">
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Comparison table</h2>
             <div className="mt-5">
-              <AffiliateDisclosure />
+              <AffiliateDisclosure compact />
             </div>
             <div className="mt-5">
               <ProductComparisonTable products={guideProducts} />
@@ -203,12 +205,6 @@ export default async function GuidePage({ params }: Props) {
                 </Link>
               ))}
             </div>
-          </div>
-          <div className="rounded-lg bg-neutral-950 p-5 text-white">
-            <h2 className="font-semibold">Affiliate disclosure</h2>
-            <p className="mt-2 text-sm leading-6 text-neutral-300">
-              HomePilot may earn from qualifying purchases through Amazon Associates links.
-            </p>
           </div>
         </aside>
       </div>

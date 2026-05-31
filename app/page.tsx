@@ -174,7 +174,7 @@ export default function Home() {
       <section className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
         <SectionHeader eyebrow="Fast comparison" title="A cleaner way to compare the top HomePilot picks." />
         <div className="mt-5">
-          <AffiliateDisclosure />
+          <AffiliateDisclosure compact />
         </div>
         <div className="mt-5">
           <ProductComparisonTable products={editorPicks} />
