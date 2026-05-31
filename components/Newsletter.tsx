@@ -6,7 +6,7 @@ export function Newsletter() {
           <p className="text-sm font-semibold uppercase tracking-[0.18em] text-neutral-400">Newsletter</p>
           <h2 className="mt-3 text-3xl font-semibold tracking-tight">Get cleaner buying decisions.</h2>
           <p className="mt-3 max-w-2xl text-sm leading-6 text-neutral-300">
-            Placeholder signup for future automation, product updates, and seasonal buying guides.
+            Join occasional updates for new buying guides, product category refreshes, and practical home research notes.
           </p>
         </div>
         <form className="flex w-full max-w-md gap-2" action="#">
