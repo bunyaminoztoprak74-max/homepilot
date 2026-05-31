@@ -1,6 +1,5 @@
 import Image from "next/image";
 import type { Product } from "@/lib/types";
-import { getAffiliateUrl } from "@/lib/content";
 
 export function ProductGrid({ products }: { products: Product[] }) {
   return (
@@ -33,7 +32,7 @@ export function ProductGrid({ products }: { products: Product[] }) {
           <p className="mt-4 text-xs text-neutral-500">Amazon data last checked {product.lastChecked}.</p>
           <a
             className="mt-5 inline-flex w-full justify-center rounded-full bg-neutral-950 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-neutral-700"
-            href={getAffiliateUrl(product.asin)}
+            href={product.affiliateUrl}
             target="_blank"
             rel="nofollow sponsored noopener noreferrer"
           >

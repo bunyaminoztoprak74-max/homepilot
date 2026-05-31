@@ -13,6 +13,7 @@ export type Product = {
   category: string;
   name: string;
   asin: string;
+  affiliateUrl: string;
   image: string;
   price: string | null;
   rating: number | null;

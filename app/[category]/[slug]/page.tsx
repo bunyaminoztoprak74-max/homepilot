@@ -12,7 +12,7 @@ import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
-import { getAffiliateUrl, getCategory, getGuide, getGuideProducts, siteUrl } from "@/lib/content";
+import { getCategory, getGuide, getGuideProducts, siteUrl } from "@/lib/content";
 
 type Props = {
   params: Promise<{ category: string; slug: string }>;
@@ -167,7 +167,9 @@ export default async function GuidePage({ params }: Props) {
             </div>
           </section>
 
-          <CTA title="Check current Amazon options" href={getAffiliateUrl(guideProducts[0]?.asin ?? "ASIN")} external />
+          {guideProducts[0] ? (
+            <CTA title="Check current Amazon options" href={guideProducts[0].affiliateUrl} external />
+          ) : null}
 
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Internal links</h2>

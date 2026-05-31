@@ -1,5 +1,4 @@
 import { JsonLd } from "@/components/JsonLd";
-import { getAffiliateUrl } from "@/lib/content";
 import type { Product } from "@/lib/types";
 
 export function ProductSchema({ products }: { products: Product[] }) {
@@ -16,7 +15,7 @@ export function ProductSchema({ products }: { products: Product[] }) {
             name: product.name,
             image: product.image,
             sku: product.asin,
-            url: getAffiliateUrl(product.asin),
+            url: product.affiliateUrl,
             brand: product.name.split(" ")[0],
             ...(product.rating && product.reviewCount
               ? {
@@ -34,7 +33,7 @@ export function ProductSchema({ products }: { products: Product[] }) {
                     price: product.price.replace("$", ""),
                     priceCurrency: "USD",
                     availability: "https://schema.org/InStock",
-                    url: getAffiliateUrl(product.asin)
+                    url: product.affiliateUrl
                   }
                 }
               : {})

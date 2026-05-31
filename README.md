@@ -20,13 +20,7 @@ Product administration is JSON-only:
 - `data/guides.json`
 - `data/comparisons.json`
 
-Affiliate URLs use:
-
-```text
-https://www.amazon.com/dp/ASIN?tag=affiliater07c-20
-```
-
-Amazon affiliate links use the `affiliater07c-20` Associates tracking ID.
+Affiliate URLs are stored per product in `data/products.json` and use the `affiliater07c-20` Associates tracking ID.
 
 ## Deploy
 
