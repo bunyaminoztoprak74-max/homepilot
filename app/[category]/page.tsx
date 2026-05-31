@@ -13,6 +13,7 @@ import { FAQ } from "@/components/FAQ";
 import { GuideCard } from "@/components/GuideCard";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductGrid } from "@/components/ProductGrid";
+import { ProductSchema } from "@/components/ProductSchema";
 import { getCategory, siteUrl } from "@/lib/content";
 
 type Props = {
@@ -52,6 +53,7 @@ export default async function CategoryPage({ params }: Props) {
 
   return (
     <main>
+      <ProductSchema products={categoryProducts} />
       <JsonLd
         data={{
           "@context": "https://schema.org",

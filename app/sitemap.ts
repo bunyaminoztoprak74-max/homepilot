@@ -7,6 +7,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
   return [
     { url: siteUrl, lastModified: now, changeFrequency: "weekly", priority: 1 },
+    { url: `${siteUrl}/best-robot-vacuums`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
+    { url: `${siteUrl}/best-air-fryers`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
+    { url: `${siteUrl}/best-espresso-machines`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
     ...categories.map((category) => ({
       url: `${siteUrl}/${category.slug}`,
       lastModified: now,

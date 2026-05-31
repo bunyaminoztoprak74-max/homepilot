@@ -7,7 +7,15 @@ const withMDX = createMDX({
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ["ts", "tsx", "md", "mdx"],
-  typedRoutes: false
+  typedRoutes: false,
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "m.media-amazon.com"
+      }
+    ]
+  }
 };
 
 export default withMDX(nextConfig);

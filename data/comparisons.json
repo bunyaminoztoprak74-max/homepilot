@@ -1,5 +1,26 @@
 [
-  { "category": "robot-vacuums", "rows": [["LiDAR Pet Hair Robot Vacuum", "Pet homes", "Mapping, anti-tangle brush", "Pet hair control"], ["Budget Smart Robot Vacuum", "Apartments", "Slim body, scheduling", "Lower-cost daily cleaning"], ["Self-Empty Mapping Robot Vacuum", "Busy homes", "Auto-empty dock, room maps", "Less maintenance"]] },
-  { "category": "air-fryers", "rows": [["Compact Basket Air Fryer", "Small kitchens", "Compact basket, quick preheat", "Snacks and sides"], ["Family Size Air Fryer", "Families", "Large basket, easy cleanup", "Dinner portions"], ["Dual Basket Air Fryer", "Meal timing", "Two baskets, sync finish", "Mains plus sides"]] },
-  { "category": "espresso-machines", "rows": [["Beginner Semi-Automatic Espresso Machine", "New hobbyists", "Portafilter, steam wand", "Learning espresso"], ["Entry Espresso Grinder", "Shot consistency", "Fine adjustment", "Better extraction"], ["Compact Thermoblock Espresso Machine", "Fast mornings", "Quick heat-up", "Milk drinks"]] }
+  {
+    "category": "robot-vacuums",
+    "rows": [
+      ["Shark Matrix Clean AV2511AE", "Self-empty value", "LiDAR, bagless base", "Best balance of features and price visibility"],
+      ["roborock Q5 Pro", "Mapping control", "5500Pa suction, no-go zones", "Best for large layouts and pet hair routines"],
+      ["iRobot Roomba Combo j5+", "Roomba ecosystem", "Vacuum, mop, Clean Base", "Best Roomba-style alternative"]
+    ]
+  },
+  {
+    "category": "air-fryers",
+    "rows": [
+      ["COSORI TurboBlaze 6 Qt", "Most kitchens", "9 functions, ceramic basket", "Best overall air fryer pick"],
+      ["Ninja AF101 4 Qt", "Small kitchens", "4 functions, compact basket", "Best compact proven model"],
+      ["Ninja DZ201 DualZone", "Families", "Two baskets, Smart Finish", "Best for mains and sides"]
+    ]
+  },
+  {
+    "category": "espresso-machines",
+    "rows": [
+      ["Breville Bambino BES450BSS", "Beginners", "Compact machine, steam wand", "Best first real espresso machine"],
+      ["Breville Barista Express BES870XL", "All-in-one workflow", "Built-in grinder, PID", "Best machine plus grinder setup"],
+      ["Baratza Encore ESP", "Grinding upgrade", "Espresso-focused burr grinder", "Best grinder pairing for beginners"]
+    ]
+  }
 ]

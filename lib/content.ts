@@ -4,7 +4,7 @@ import productsJson from "@/data/products.json";
 import type { Category, Guide, Product } from "@/lib/types";
 
 export const siteUrl = "https://homepilot.vercel.app";
-export const affiliateTag = "YOURTAG-20";
+export const affiliateTag = "affiliater07c-20";
 
 export const categories = categoriesJson as Category[];
 export const guides = guidesJson as Guide[];

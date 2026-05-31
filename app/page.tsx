@@ -8,12 +8,22 @@ import { FAQ } from "@/components/FAQ";
 import { GuideCard } from "@/components/GuideCard";
 import { JsonLd } from "@/components/JsonLd";
 import { Newsletter } from "@/components/Newsletter";
+import { ProductGrid } from "@/components/ProductGrid";
+import { ProductSchema } from "@/components/ProductSchema";
+import { products } from "@/lib/content";
+import type { Product } from "@/lib/types";
 
 const featuredGuides = guides.slice(0, 6);
+const editorPicks = [
+  products.find((product) => product.id === "cosori-turboblaze-6qt"),
+  products.find((product) => product.id === "shark-av2511ae"),
+  products.find((product) => product.id === "breville-bambino")
+].filter((product): product is Product => Boolean(product));
 
 export default function Home() {
   return (
     <main>
+      <ProductSchema products={editorPicks} />
       <JsonLd
         data={{
           "@context": "https://schema.org",
@@ -67,6 +77,24 @@ export default function Home() {
 
       <section className="border-y border-neutral-200 bg-neutral-50">
         <div className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
+          <SectionHeader eyebrow="Editor picks" title="Real Amazon listings with transparent metadata." />
+          <ProductGrid products={editorPicks} />
+          <div className="mt-8 flex flex-wrap gap-3">
+            <Link className="rounded-full border border-neutral-300 px-4 py-2 text-sm font-semibold text-neutral-950 hover:border-neutral-950" href="/best-robot-vacuums">
+              Best robot vacuums
+            </Link>
+            <Link className="rounded-full border border-neutral-300 px-4 py-2 text-sm font-semibold text-neutral-950 hover:border-neutral-950" href="/best-air-fryers">
+              Best air fryers
+            </Link>
+            <Link className="rounded-full border border-neutral-300 px-4 py-2 text-sm font-semibold text-neutral-950 hover:border-neutral-950" href="/best-espresso-machines">
+              Best espresso machines
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="border-b border-neutral-200 bg-white">
+        <div className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
           <SectionHeader eyebrow="Latest buying guides" title="Built to convert without feeling noisy." />
           <div className="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             {featuredGuides.map((guide) => (
@@ -86,11 +114,11 @@ export default function Home() {
           </h2>
         </div>
         <div className="grid gap-4 sm:grid-cols-3">
-          {["No fake ratings", "No hardcoded prices", "JSON-first updates"].map((item) => (
+          {["Fetched Amazon metadata", "Affiliate disclosure", "JSON-first updates"].map((item) => (
             <div key={item} className="rounded-lg border border-neutral-200 p-5">
               <h3 className="font-semibold text-neutral-950">{item}</h3>
               <p className="mt-2 text-sm leading-6 text-neutral-600">
-                Recommendations stay useful because the templates separate claims, products, and editorial copy.
+                Product data is stored separately from editorial copy so listings can be refreshed without redesigning pages.
               </p>
             </div>
           ))}
@@ -102,8 +130,8 @@ export default function Home() {
       <section className="mx-auto max-w-3xl px-5 py-14 sm:px-6 lg:px-8">
         <FAQ
           items={[
-            { question: "Does HomePilot show live prices?", answer: "No. Prices change frequently, so every CTA sends readers to Amazon to check the current listing." },
-            { question: "Are the affiliate links real?", answer: "They use placeholder Amazon affiliate URLs with YOURTAG-20 so you can replace the tag before launch." },
+            { question: "Does HomePilot show live prices?", answer: "HomePilot stores fetched Amazon listing snapshots with a last-checked date. Readers should always confirm the current price on Amazon." },
+            { question: "Are the affiliate links real?", answer: "Yes. Amazon links use the configured HomePilot Associates tracking ID." },
             { question: "How do I add products?", answer: "Edit data/products.json. Page templates read from JSON and update automatically at build time." }
           ]}
         />

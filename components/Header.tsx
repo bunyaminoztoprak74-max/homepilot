@@ -15,7 +15,7 @@ export function Header() {
             </Link>
           ))}
         </nav>
-        <Link className="rounded-full border border-neutral-300 px-4 py-2 text-sm font-semibold text-neutral-950 transition hover:border-neutral-950" href="/robot-vacuums">
+        <Link className="rounded-full border border-neutral-300 px-4 py-2 text-sm font-semibold text-neutral-950 transition hover:border-neutral-950" href="/best-air-fryers">
           Compare
         </Link>
       </div>

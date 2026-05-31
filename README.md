@@ -23,10 +23,10 @@ Product administration is JSON-only:
 Affiliate URLs use:
 
 ```text
-https://www.amazon.com/dp/ASIN?tag=YOURTAG-20
+https://www.amazon.com/dp/ASIN?tag=affiliater07c-20
 ```
 
-Replace `YOURTAG-20` before production deployment.
+Amazon affiliate links use the `affiliater07c-20` Associates tracking ID.
 
 ## Deploy
 

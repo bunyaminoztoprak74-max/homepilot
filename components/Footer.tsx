@@ -20,12 +20,15 @@ export function Footer() {
               <Link className="mt-3 block text-sm text-neutral-300 hover:text-white" href={`/${category.slug}`}>
                 Buying guides
               </Link>
+              <Link className="mt-2 block text-sm text-neutral-300 hover:text-white" href={`/best-${category.slug}`}>
+                Best picks
+              </Link>
             </div>
           ))}
         </div>
       </div>
       <div className="border-t border-white/10 px-5 py-5 text-center text-xs text-neutral-400">
-        HomePilot uses placeholder Amazon affiliate links. Replace YOURTAG-20 before publishing.
+        HomePilot uses Amazon Associates affiliate links with transparent disclosure.
       </div>
     </footer>
   );

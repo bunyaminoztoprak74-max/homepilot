@@ -11,6 +11,7 @@ import { ComparisonTable } from "@/components/ComparisonTable";
 import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductGrid } from "@/components/ProductGrid";
+import { ProductSchema } from "@/components/ProductSchema";
 import { getAffiliateUrl, getCategory, getGuide, getGuideProducts, siteUrl } from "@/lib/content";
 
 type Props = {
@@ -56,6 +57,7 @@ export default async function GuidePage({ params }: Props) {
 
   return (
     <main>
+      <ProductSchema products={guideProducts} />
       <JsonLd
         data={[
           {
@@ -201,7 +203,7 @@ export default async function GuidePage({ params }: Props) {
           <div className="rounded-lg bg-neutral-950 p-5 text-white">
             <h2 className="font-semibold">Affiliate disclosure</h2>
             <p className="mt-2 text-sm leading-6 text-neutral-300">
-              HomePilot may earn from qualifying purchases through placeholder Amazon links.
+              HomePilot may earn from qualifying purchases through Amazon Associates links.
             </p>
           </div>
         </aside>

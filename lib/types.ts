@@ -14,6 +14,11 @@ export type Product = {
   name: string;
   asin: string;
   image: string;
+  price: string | null;
+  rating: number | null;
+  reviewCount: number | null;
+  lastChecked: string;
+  comparisonBadge: string;
   bestFor: string;
   features: string[];
   pros: string[];
