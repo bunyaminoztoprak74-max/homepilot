@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Air fryer">
+  <rect width="640" height="480" fill="#f5f5f5"/>
+  <rect x="210" y="82" width="220" height="316" rx="42" fill="#fff" stroke="#111" stroke-width="12"/>
+  <rect x="244" y="158" width="152" height="124" rx="18" fill="#e5e5e5"/>
+  <circle cx="282" cy="124" r="14" fill="#111"/>
+  <circle cx="358" cy="124" r="14" fill="#737373"/>
+  <path d="M270 326h100" stroke="#111" stroke-width="16" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,5 @@
+[
+  { "category": "robot-vacuums", "rows": [["LiDAR Pet Hair Robot Vacuum", "Pet homes", "Mapping, anti-tangle brush", "Pet hair control"], ["Budget Smart Robot Vacuum", "Apartments", "Slim body, scheduling", "Lower-cost daily cleaning"], ["Self-Empty Mapping Robot Vacuum", "Busy homes", "Auto-empty dock, room maps", "Less maintenance"]] },
+  { "category": "air-fryers", "rows": [["Compact Basket Air Fryer", "Small kitchens", "Compact basket, quick preheat", "Snacks and sides"], ["Family Size Air Fryer", "Families", "Large basket, easy cleanup", "Dinner portions"], ["Dual Basket Air Fryer", "Meal timing", "Two baskets, sync finish", "Mains plus sides"]] },
+  { "category": "espresso-machines", "rows": [["Beginner Semi-Automatic Espresso Machine", "New hobbyists", "Portafilter, steam wand", "Learning espresso"], ["Entry Espresso Grinder", "Shot consistency", "Fine adjustment", "Better extraction"], ["Compact Thermoblock Espresso Machine", "Fast mornings", "Quick heat-up", "Milk drinks"]] }
+]

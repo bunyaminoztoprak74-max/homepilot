@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "robot-vacuums",
+    "name": "Robot Vacuums",
+    "headline": "Cleaner floors with less daily effort",
+    "description": "Compare robot vacuums for pet hair, self-empty docks, mapping, hard floors, and apartments.",
+    "intro": "Robot vacuums are best when the right navigation, suction, brush design, and dock features match your home. HomePilot prioritizes practical fit over hype.",
+    "buyingGuide": ["Choose LiDAR or camera mapping for complex layouts.", "Look for anti-tangle brush systems if you have pets.", "Self-empty docks reduce maintenance but need more space.", "Check app controls, room zones, and replacement part availability."],
+    "faq": [
+      { "question": "Are robot vacuums worth it?", "answer": "They are worth it for daily maintenance cleaning, especially on hard floors and low-pile rugs. They do not fully replace deep cleaning." },
+      { "question": "Do robot vacuums work with pet hair?", "answer": "Yes, but homes with shedding pets should prioritize strong pickup, anti-tangle rollers, and a larger bin or self-empty dock." },
+      { "question": "Should I buy a robot vacuum with mopping?", "answer": "Mopping can help with light dust and footprints, but it is not a substitute for manual mopping on sticky spills." }
+    ]
+  },
+  {
+    "slug": "air-fryers",
+    "name": "Air Fryers",
+    "headline": "Crispier weeknight cooking without the guesswork",
+    "description": "Find compact, family-size, dual-basket, and budget air fryers for practical everyday meals.",
+    "intro": "A good air fryer should fit your counter, cook evenly, and make cleanup painless. Capacity and basket design matter more than flashy presets.",
+    "buyingGuide": ["Pick capacity based on real portions, not only quart size.", "Square baskets usually use space better than round baskets.", "Dual baskets are useful for families cooking mains and sides.", "Dishwasher-safe baskets and simple controls make everyday use easier."],
+    "faq": [
+      { "question": "What size air fryer should I buy?", "answer": "Singles and couples can often use 3 to 5 quarts. Families usually benefit from 6 quarts or more, or a dual-basket model." },
+      { "question": "Is an air fryer better than an oven?", "answer": "An air fryer preheats faster and crisps small batches well. An oven is still better for large trays and baking." },
+      { "question": "Do air fryers use a lot of oil?", "answer": "No. Most recipes need little or no added oil compared with deep frying." }
+    ]
+  },
+  {
+    "slug": "espresso-machines",
+    "name": "Espresso Machines",
+    "headline": "Better coffee at home, one upgrade at a time",
+    "description": "Compare beginner espresso machines, grinders, semi-automatic models, and pod alternatives.",
+    "intro": "Home espresso is a system: machine, grinder, water, beans, and workflow. The right pick depends on how much control you want each morning.",
+    "buyingGuide": ["Budget for a capable grinder if choosing a semi-automatic machine.", "Beginners should look for stable pressure and forgiving controls.", "Thermoblock machines heat quickly; boiler machines can offer more consistency.", "Milk drinkers should compare steam power and wand ergonomics."],
+    "faq": [
+      { "question": "Do I need a grinder for espresso?", "answer": "For semi-automatic espresso, yes. Fresh, fine, consistent grinding is one of the biggest quality factors." },
+      { "question": "Is Nespresso the same as espresso?", "answer": "Nespresso is convenient and espresso-like, but it does not offer the same control or texture as a traditional espresso setup." },
+      { "question": "What should beginners buy first?", "answer": "A forgiving machine and a good grinder. Consistency matters more than advanced features at the start." }
+    ]
+  }
+]

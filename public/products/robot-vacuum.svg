@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Robot vacuum">
+  <rect width="640" height="480" fill="#f5f5f5"/>
+  <circle cx="320" cy="240" r="138" fill="#fff" stroke="#111" stroke-width="12"/>
+  <circle cx="320" cy="240" r="92" fill="#e5e5e5"/>
+  <circle cx="320" cy="240" r="34" fill="#111"/>
+  <path d="M236 156c48-38 120-38 168 0" fill="none" stroke="#737373" stroke-width="16" stroke-linecap="round"/>
+  <path d="M230 333h180" stroke="#111" stroke-width="12" stroke-linecap="round"/>
+</svg>
