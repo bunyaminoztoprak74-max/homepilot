@@ -131,11 +131,15 @@ export default async function GuidePage({ params }: Props) {
 
           <section id="top-picks">
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Top picks</h2>
+            <AffiliateDisclosure />
             <ProductGrid products={guideProducts} />
           </section>
 
           <section id="comparison">
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Comparison table</h2>
+            <div className="mt-5">
+              <AffiliateDisclosure />
+            </div>
             <div className="mt-5">
               <ComparisonTable rows={rows} />
             </div>

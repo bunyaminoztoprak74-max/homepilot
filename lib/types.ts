@@ -15,10 +15,7 @@ export type Product = {
   asin: string;
   affiliateUrl: string;
   image: string;
-  price: string | null;
-  rating: number | null;
-  reviewCount: number | null;
-  lastChecked: string;
+  priceText: string;
   comparisonBadge: string;
   bestFor: string;
   features: string[];

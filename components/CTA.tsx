@@ -19,7 +19,7 @@ export function CTA({
         Compare current product listings, check availability, and choose the option that fits your home.
       </p>
       {external ? (
-        <a className={`${className} mt-5`} href={href} target="_blank" rel="nofollow sponsored noopener noreferrer">
+        <a className={`${className} mt-5`} href={href} target="_blank" rel="nofollow sponsored noopener">
           View on Amazon
         </a>
       ) : (

@@ -41,8 +41,8 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
   const rows = categoryProducts.map((product) => [
     product.name,
     product.comparisonBadge,
-    product.rating ? `${product.rating.toFixed(1)} stars` : "Check Amazon",
-    product.price ?? "Check Amazon"
+    product.features.slice(0, 2).join(", "),
+    product.priceText
   ]);
 
   return (
@@ -88,11 +88,15 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Quick comparison</h2>
             <div className="mt-5">
+              <AffiliateDisclosure />
+            </div>
+            <div className="mt-5">
               <ComparisonTable rows={rows} />
             </div>
           </section>
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Best picks</h2>
+            <AffiliateDisclosure />
             <ProductGrid products={categoryProducts} />
           </section>
           <section>

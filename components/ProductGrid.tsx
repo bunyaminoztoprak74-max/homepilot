@@ -16,25 +16,21 @@ export function ProductGrid({ products }: { products: Product[] }) {
           <p className="mt-2 text-sm leading-6 text-neutral-600">{product.bestFor}</p>
           <div className="mt-4 flex flex-wrap gap-2 text-xs font-medium text-neutral-700">
             <span className="rounded-full bg-neutral-100 px-3 py-1">
-              {product.price ?? "Check Amazon"}
-            </span>
-            <span className="rounded-full bg-neutral-100 px-3 py-1">
-              {product.rating ? `${product.rating.toFixed(1)} stars` : "Rating varies"}
-            </span>
-            <span className="rounded-full bg-neutral-100 px-3 py-1">
-              {product.reviewCount ? `${product.reviewCount.toLocaleString()} reviews` : "Review count varies"}
+              {product.priceText}
             </span>
           </div>
           <div className="mt-4 grid gap-4 text-sm text-neutral-600">
             <FeatureList title="Pros" items={product.pros.slice(0, 3)} />
             <FeatureList title="Cons" items={product.cons.slice(0, 3)} />
           </div>
-          <p className="mt-4 text-xs text-neutral-500">Amazon data last checked {product.lastChecked}.</p>
+          <p className="mt-4 text-xs text-neutral-500">
+            Prices, ratings, availability, and reviews can change. Confirm details on Amazon.
+          </p>
           <a
             className="mt-5 inline-flex w-full justify-center rounded-full bg-neutral-950 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-neutral-700"
             href={product.affiliateUrl}
             target="_blank"
-            rel="nofollow sponsored noopener noreferrer"
+            rel="nofollow sponsored noopener"
           >
             Check current price
           </a>

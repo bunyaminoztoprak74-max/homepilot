@@ -16,27 +16,7 @@ export function ProductSchema({ products }: { products: Product[] }) {
             image: product.image,
             sku: product.asin,
             url: product.affiliateUrl,
-            brand: product.name.split(" ")[0],
-            ...(product.rating && product.reviewCount
-              ? {
-                  aggregateRating: {
-                    "@type": "AggregateRating",
-                    ratingValue: product.rating,
-                    reviewCount: product.reviewCount
-                  }
-                }
-              : {}),
-            ...(product.price
-              ? {
-                  offers: {
-                    "@type": "Offer",
-                    price: product.price.replace("$", ""),
-                    priceCurrency: "USD",
-                    availability: "https://schema.org/InStock",
-                    url: product.affiliateUrl
-                  }
-                }
-              : {})
+            brand: product.name.split(" ")[0]
           }
         }))
       }}
