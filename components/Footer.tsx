@@ -10,10 +10,10 @@ export function Footer() {
             HomePilot
           </Link>
           <p className="mt-3 max-w-sm text-sm leading-6 text-neutral-300">
-            Find Better Home Products. Transparent affiliate guides for practical home upgrades.
+            Expert buying guides for home products. Transparent Amazon Associates recommendations for practical home upgrades.
           </p>
         </div>
-        <div className="grid gap-6 sm:grid-cols-3">
+        <div className="grid gap-6 sm:grid-cols-4">
           {categories.map((category) => (
             <div key={category.slug}>
               <h2 className="text-sm font-semibold">{category.name}</h2>
@@ -25,6 +25,21 @@ export function Footer() {
               </Link>
             </div>
           ))}
+          <div>
+            <h2 className="text-sm font-semibold">Company</h2>
+            {[
+              ["About", "/about"],
+              ["Editorial Process", "/editorial-process"],
+              ["How We Test", "/how-we-test"],
+              ["Privacy", "/privacy"],
+              ["Terms", "/terms"],
+              ["Contact", "/contact"]
+            ].map(([label, href]) => (
+              <Link key={href} className="mt-2 block text-sm text-neutral-300 hover:text-white" href={href}>
+                {label}
+              </Link>
+            ))}
+          </div>
         </div>
       </div>
       <div className="border-t border-white/10 px-5 py-5 text-center text-xs text-neutral-400">

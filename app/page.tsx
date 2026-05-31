@@ -1,9 +1,9 @@
 import Link from "next/link";
+import Image from "next/image";
+import type { Metadata } from "next";
 import categories from "@/data/categories.json";
 import guides from "@/data/guides.json";
-import comparisons from "@/data/comparisons.json";
 import { CategoryCard } from "@/components/CategoryCard";
-import { ComparisonTable } from "@/components/ComparisonTable";
 import { FAQ } from "@/components/FAQ";
 import { GuideCard } from "@/components/GuideCard";
 import { JsonLd } from "@/components/JsonLd";
@@ -20,6 +20,23 @@ const editorPicks = [
   products.find((product) => product.id === "shark-av2511ae"),
   products.find((product) => product.id === "breville-bambino")
 ].filter((product): product is Product => Boolean(product));
+
+export const metadata: Metadata = {
+  title: "Best Robot Vacuums, Air Fryers & Espresso Machines Compared",
+  description: "Compare real products, discover expert buying guides, and check current Amazon pricing for robot vacuums, air fryers, and espresso machines.",
+  alternates: { canonical: "/" },
+  openGraph: {
+    title: "Best Robot Vacuums, Air Fryers & Espresso Machines Compared",
+    description: "Expert buying guides for home products.",
+    url: "https://homepilot.vercel.app",
+    type: "website"
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Best Robot Vacuums, Air Fryers & Espresso Machines Compared",
+    description: "Expert buying guides for home products."
+  }
+};
 
 export default function Home() {
   return (
@@ -48,21 +65,54 @@ export default function Home() {
               Best Robot Vacuums, Air Fryers & Espresso Machines Compared
             </h1>
             <p className="mt-6 max-w-2xl text-lg leading-8 text-neutral-600">
-              HomePilot compares robot vacuums, air fryers, and espresso gear with clear criteria,
-              clean layouts, real Amazon product links, and no static Amazon prices or star ratings.
+              Compare real products, discover expert buying guides, and check current Amazon pricing.
             </p>
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <Link className="rounded-full bg-neutral-950 px-6 py-3 text-center text-sm font-semibold text-white transition hover:bg-neutral-700" href="/robot-vacuums">
-                Explore comparisons
+              <Link className="rounded-full bg-neutral-950 px-6 py-3 text-center text-sm font-semibold text-white transition hover:-translate-y-0.5 hover:bg-neutral-700" href="/best-robot-vacuums">
+                Compare Top Picks →
               </Link>
-              <Link className="rounded-full border border-neutral-300 px-6 py-3 text-center text-sm font-semibold text-neutral-950 transition hover:border-neutral-950" href="/espresso-machines/espresso-machine-buying-guide">
-                Read a buying guide
+              <Link className="rounded-full border border-neutral-300 px-6 py-3 text-center text-sm font-semibold text-neutral-950 transition hover:-translate-y-0.5 hover:border-neutral-950" href="/espresso-machines/espresso-machine-buying-guide">
+                Read Buying Guides
               </Link>
             </div>
+            <div className="mt-8 flex flex-wrap gap-3 text-sm font-semibold text-neutral-700">
+              {["✓ Updated Monthly", "✓ Independent Research", "✓ Amazon Pricing"].map((badge) => (
+                <span key={badge} className="rounded-full border border-neutral-200 bg-white px-4 py-2 shadow-sm">
+                  {badge}
+                </span>
+              ))}
+            </div>
           </div>
-          <div className="grid content-center gap-4 rounded-lg border border-neutral-200 bg-neutral-50 p-5">
-            <p className="text-sm font-medium text-neutral-500">Featured comparison</p>
-            <ComparisonTable rows={comparisons[0].rows} />
+          <div className="relative min-h-[420px] overflow-hidden rounded-lg border border-white/70 bg-white/70 p-5 shadow-xl shadow-neutral-200/60 backdrop-blur">
+            <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,#eeeeee,transparent_45%)]" />
+            <div className="relative grid h-full gap-4">
+              {editorPicks.map((product, index) => (
+                <div
+                  key={product.id}
+                  className={`flex items-center gap-4 rounded-lg border border-neutral-200 bg-white/90 p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md ${
+                    index === 1 ? "ml-8" : index === 2 ? "ml-16" : ""
+                  }`}
+                >
+                  <div className="relative h-24 w-24 shrink-0 overflow-hidden rounded-lg bg-neutral-100">
+                    <Image
+                      src={product.image}
+                      alt={product.name}
+                      fill
+                      priority={index === 0}
+                      sizes="96px"
+                      className="object-contain p-2"
+                    />
+                  </div>
+                  <div>
+                    <p className="text-xs font-semibold uppercase tracking-[0.16em] text-neutral-500">
+                      {product.comparisonBadge}
+                    </p>
+                    <h2 className="mt-1 text-base font-semibold text-neutral-950">{product.name}</h2>
+                    <p className="mt-1 text-sm text-neutral-600">{product.bestFor}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </section>

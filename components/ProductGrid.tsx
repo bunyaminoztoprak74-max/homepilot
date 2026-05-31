@@ -5,7 +5,7 @@ export function ProductGrid({ products }: { products: Product[] }) {
   return (
     <div className="mt-5 grid gap-4 md:grid-cols-3">
       {products.map((product) => (
-        <article key={product.id} className="rounded-lg border border-neutral-200 bg-white p-5">
+        <article key={product.id} className="rounded-lg border border-neutral-200 bg-white p-5 shadow-sm transition duration-200 hover:-translate-y-1 hover:shadow-lg">
           <div className="relative aspect-[4/3] overflow-hidden rounded-lg bg-neutral-100">
             <Image src={product.image} alt={product.name} fill className="object-contain p-6" sizes="(min-width: 768px) 33vw, 100vw" />
           </div>
@@ -32,7 +32,7 @@ export function ProductGrid({ products }: { products: Product[] }) {
             target="_blank"
             rel="nofollow sponsored noopener"
           >
-            Check current price
+            Check Current Price on Amazon →
           </a>
         </article>
       ))}

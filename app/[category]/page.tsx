@@ -2,16 +2,16 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import categories from "@/data/categories.json";
-import comparisons from "@/data/comparisons.json";
 import guides from "@/data/guides.json";
 import products from "@/data/products.json";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CTA } from "@/components/CTA";
-import { ComparisonTable } from "@/components/ComparisonTable";
+import { CategoryEditorial } from "@/components/CategoryEditorial";
 import { FAQ } from "@/components/FAQ";
 import { GuideCard } from "@/components/GuideCard";
 import { JsonLd } from "@/components/JsonLd";
+import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
 import { getCategory, siteUrl } from "@/lib/content";
@@ -38,6 +38,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: category.description,
       url: `${siteUrl}/${category.slug}`,
       type: "website"
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${category.name} Buying Guides | HomePilot`,
+      description: category.description
     }
   };
 }
@@ -49,8 +54,6 @@ export default async function CategoryPage({ params }: Props) {
 
   const categoryGuides = guides.filter((guide) => guide.category === category.slug);
   const categoryProducts = products.filter((product) => product.category === category.slug);
-  const comparison = comparisons.find((item) => item.category === category.slug);
-
   return (
     <main>
       <ProductSchema products={categoryProducts} />
@@ -87,7 +90,7 @@ export default async function CategoryPage({ params }: Props) {
               <AffiliateDisclosure />
             </div>
             <div className="mt-5">
-              <ComparisonTable rows={comparison?.rows ?? []} />
+              <ProductComparisonTable products={categoryProducts} />
             </div>
           </section>
           <section>
@@ -105,6 +108,7 @@ export default async function CategoryPage({ params }: Props) {
               ))}
             </div>
           </section>
+          <CategoryEditorial category={category} />
           <CTA title={`Compare more ${category.name.toLowerCase()}`} href={`/${category.slug}/${categoryGuides[0]?.slug ?? ""}`} />
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Latest {category.name.toLowerCase()} guides</h2>

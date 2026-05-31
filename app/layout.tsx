@@ -6,18 +6,23 @@ import { Header } from "@/components/Header";
 export const metadata: Metadata = {
   metadataBase: new URL("https://homepilot.vercel.app"),
   title: {
-    default: "HomePilot | Find Better Home Products",
+    default: "HomePilot | Expert buying guides for home products",
     template: "%s | HomePilot"
   },
   description:
-    "Premium buying guides and comparisons for robot vacuums, air fryers, and espresso machines.",
+    "Expert buying guides for robot vacuums, air fryers, and espresso machines with compliant Amazon Associates links.",
   applicationName: "HomePilot",
   openGraph: {
     title: "HomePilot",
-    description: "Find Better Home Products",
+    description: "Expert buying guides for home products.",
     url: "https://homepilot.vercel.app",
     siteName: "HomePilot",
     type: "website"
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "HomePilot",
+    description: "Expert buying guides for home products."
   },
   alternates: {
     canonical: "/"

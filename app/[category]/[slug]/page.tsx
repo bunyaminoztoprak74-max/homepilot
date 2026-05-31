@@ -7,9 +7,9 @@ import products from "@/data/products.json";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CTA } from "@/components/CTA";
-import { ComparisonTable } from "@/components/ComparisonTable";
 import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
+import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
 import { getCategory, getGuide, getGuideProducts, siteUrl } from "@/lib/content";
@@ -36,6 +36,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: guide.description,
       url: `${siteUrl}/${guide.category}/${guide.slug}`,
       type: "article"
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${guide.title} | HomePilot`,
+      description: guide.description
     }
   };
 }
@@ -48,13 +53,6 @@ export default async function GuidePage({ params }: Props) {
 
   const guideProducts = getGuideProducts(guide);
   const relatedGuides = guides.filter((item) => item.category === category.slug && item.slug !== guide.slug).slice(0, 4);
-  const rows = guideProducts.map((product) => [
-    product.name,
-    product.bestFor,
-    product.features.slice(0, 2).join(", "),
-    product.affiliateNote
-  ]);
-
   return (
     <main>
       <ProductSchema products={guideProducts} />
@@ -141,7 +139,7 @@ export default async function GuidePage({ params }: Props) {
               <AffiliateDisclosure />
             </div>
             <div className="mt-5">
-              <ComparisonTable rows={rows} />
+              <ProductComparisonTable products={guideProducts} />
             </div>
           </section>
 

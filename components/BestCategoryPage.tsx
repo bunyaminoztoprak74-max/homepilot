@@ -5,9 +5,10 @@ import guides from "@/data/guides.json";
 import products from "@/data/products.json";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
-import { ComparisonTable } from "@/components/ComparisonTable";
+import { CategoryEditorial } from "@/components/CategoryEditorial";
 import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
+import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
 import { getCategory, siteUrl } from "@/lib/content";
@@ -30,6 +31,11 @@ export function bestCategoryMetadata(config: BestCategoryConfig): Metadata {
       description: config.description,
       url: `${siteUrl}${config.path}`,
       type: "article"
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${config.title} | HomePilot`,
+      description: config.description
     }
   };
 }
@@ -38,12 +44,6 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
   const category = getCategory(config.categorySlug) as Category;
   const categoryProducts = products.filter((product) => product.category === config.categorySlug) as Product[];
   const categoryGuides = guides.filter((guide) => guide.category === config.categorySlug) as Guide[];
-  const rows = categoryProducts.map((product) => [
-    product.name,
-    product.comparisonBadge,
-    product.features.slice(0, 2).join(", "),
-    product.priceText
-  ]);
 
   return (
     <main>
@@ -57,6 +57,18 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
               { "@type": "ListItem", position: 2, name: category.name, item: `${siteUrl}/${category.slug}` },
               { "@type": "ListItem", position: 3, name: config.title, item: `${siteUrl}${config.path}` }
             ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            headline: config.title,
+            description: config.description,
+            url: `${siteUrl}${config.path}`,
+            publisher: {
+              "@type": "Organization",
+              name: "HomePilot"
+            },
+            mainEntityOfPage: `${siteUrl}${config.path}`
           },
           {
             "@context": "https://schema.org",
@@ -91,7 +103,7 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
               <AffiliateDisclosure />
             </div>
             <div className="mt-5">
-              <ComparisonTable rows={rows} />
+              <ProductComparisonTable products={categoryProducts} />
             </div>
           </section>
           <section>
@@ -109,6 +121,7 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
               ))}
             </div>
           </section>
+          <CategoryEditorial category={category} />
           <FAQ items={category.faq} />
         </article>
         <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">
