@@ -8,6 +8,7 @@ import { FAQ } from "@/components/FAQ";
 import { GuideCard } from "@/components/GuideCard";
 import { JsonLd } from "@/components/JsonLd";
 import { Newsletter } from "@/components/Newsletter";
+import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
@@ -20,6 +21,20 @@ const editorPicks = [
   products.find((product) => product.id === "shark-av2511ae"),
   products.find((product) => product.id === "breville-bambino")
 ].filter((product): product is Product => Boolean(product));
+const homeFaq = [
+  {
+    question: "Does HomePilot show live prices?",
+    answer: "No. HomePilot avoids static Amazon prices and sends readers to Amazon to confirm current pricing, availability, ratings, and seller terms."
+  },
+  {
+    question: "Are the affiliate links real?",
+    answer: "Yes. Amazon links use the configured HomePilot Associates tracking ID."
+  },
+  {
+    question: "How do I add products?",
+    answer: "Edit data/products.json. Page templates read from JSON and update automatically at build time."
+  }
+];
 
 export const metadata: Metadata = {
   title: "Best Robot Vacuums, Air Fryers & Espresso Machines Compared",
@@ -43,17 +58,28 @@ export default function Home() {
     <main>
       <ProductSchema products={editorPicks} />
       <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "WebSite",
-          name: "HomePilot",
-          url: "https://homepilot.vercel.app",
-          potentialAction: {
-            "@type": "SearchAction",
-            target: "https://homepilot.vercel.app/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
+        data={[
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: "HomePilot",
+            url: "https://homepilot.vercel.app",
+            potentialAction: {
+              "@type": "SearchAction",
+              target: "https://homepilot.vercel.app/search?q={search_term_string}",
+              "query-input": "required name=search_term_string"
+            }
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: homeFaq.map((item) => ({
+              "@type": "Question",
+              name: item.question,
+              acceptedAnswer: { "@type": "Answer", text: item.answer }
+            }))
           }
-        }}
+        ]}
       />
       <section className="border-b border-neutral-200 bg-white">
         <div className="mx-auto grid max-w-7xl gap-10 px-5 py-16 sm:px-6 lg:grid-cols-[1.05fr_0.95fr] lg:px-8 lg:py-24">
@@ -145,6 +171,16 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
+        <SectionHeader eyebrow="Fast comparison" title="A cleaner way to compare the top HomePilot picks." />
+        <div className="mt-5">
+          <AffiliateDisclosure />
+        </div>
+        <div className="mt-5">
+          <ProductComparisonTable products={editorPicks} />
+        </div>
+      </section>
+
       <section className="border-b border-neutral-200 bg-white">
         <div className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
           <SectionHeader eyebrow="Latest buying guides" title="Built to convert without feeling noisy." />
@@ -193,13 +229,7 @@ export default function Home() {
       <Newsletter />
 
       <section className="mx-auto max-w-3xl px-5 py-14 sm:px-6 lg:px-8">
-        <FAQ
-          items={[
-            { question: "Does HomePilot show live prices?", answer: "No. HomePilot avoids static Amazon prices and sends readers to Amazon to confirm current pricing, availability, ratings, and seller terms." },
-            { question: "Are the affiliate links real?", answer: "Yes. Amazon links use the configured HomePilot Associates tracking ID." },
-            { question: "How do I add products?", answer: "Edit data/products.json. Page templates read from JSON and update automatically at build time." }
-          ]}
-        />
+        <FAQ items={homeFaq} />
       </section>
     </main>
   );

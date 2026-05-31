@@ -58,13 +58,44 @@ export default async function CategoryPage({ params }: Props) {
     <main>
       <ProductSchema products={categoryProducts} />
       <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@type": "CollectionPage",
-          name: `${category.name} Buying Guides`,
-          description: category.description,
-          url: `${siteUrl}/${category.slug}`
-        }}
+        data={[
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              { "@type": "ListItem", position: 1, name: "Home", item: siteUrl },
+              { "@type": "ListItem", position: 2, name: category.name, item: `${siteUrl}/${category.slug}` }
+            ]
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            name: `${category.name} Buying Guides`,
+            description: category.description,
+            url: `${siteUrl}/${category.slug}`
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            headline: `${category.name} Buying Guides`,
+            description: category.description,
+            url: `${siteUrl}/${category.slug}`,
+            publisher: {
+              "@type": "Organization",
+              name: "HomePilot"
+            },
+            mainEntityOfPage: `${siteUrl}/${category.slug}`
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            mainEntity: category.faq.map((item) => ({
+              "@type": "Question",
+              name: item.question,
+              acceptedAnswer: { "@type": "Answer", text: item.answer }
+            }))
+          }
+        ]}
       />
       <section className="border-b border-neutral-200 bg-neutral-50">
         <div className="mx-auto max-w-7xl px-5 py-10 sm:px-6 lg:px-8">
