@@ -9,9 +9,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best self-empty value",
     "bestFor": "Pet hair, LiDAR mapping, and hands-off emptying",
-    "features": ["Self-empty base", "LiDAR navigation", "Matrix Clean passes", "Voice and app control"],
-    "pros": ["Bagless self-empty base", "Good fit for pet hair routines", "Room mapping for targeted cleaning"],
-    "cons": ["Dock needs floor space", "Mop function is not included", "App setup matters for best results"],
+    "features": [
+      "Self-empty base",
+      "LiDAR navigation",
+      "Matrix Clean passes",
+      "Voice and app control"
+    ],
+    "pros": [
+      "Bagless self-empty base",
+      "Good fit for pet hair routines",
+      "Room mapping for targeted cleaning"
+    ],
+    "cons": [
+      "Dock needs floor space",
+      "Mop function is not included",
+      "App setup matters for best results"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -24,9 +37,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best mapping pick",
     "bestFor": "Large homes that need LiDAR mapping and strong pickup",
-    "features": ["5500Pa suction", "DuoRoller brush", "LiDAR navigation", "No-go zones"],
-    "pros": ["Strong mapping controls", "Long advertised runtime", "Useful no-go zones"],
-    "cons": ["Mopping is light maintenance only", "No auto-empty dock on this listing", "Needs app setup"],
+    "features": [
+      "5500Pa suction",
+      "DuoRoller brush",
+      "LiDAR navigation",
+      "No-go zones"
+    ],
+    "pros": [
+      "Strong mapping controls",
+      "Long advertised runtime",
+      "Useful no-go zones"
+    ],
+    "cons": [
+      "Mopping is light maintenance only",
+      "No auto-empty dock on this listing",
+      "Needs app setup"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -39,9 +65,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best self-empty pet pick",
     "bestFor": "Pet hair, bagless self-emptying, and mapped room cleaning",
-    "features": ["Bagless self-empty base", "45-day capacity", "Self-cleaning brushroll", "Precision home mapping"],
-    "pros": ["Self-empty base reduces daily maintenance", "Brushroll is designed for pet hair", "Maps rooms for focused cleaning"],
-    "cons": ["Higher upfront cost than basic robots", "Dock needs open floor space", "Not a true deep-clean replacement"],
+    "features": [
+      "Bagless self-empty base",
+      "45-day capacity",
+      "Self-cleaning brushroll",
+      "Precision home mapping"
+    ],
+    "pros": [
+      "Self-empty base reduces daily maintenance",
+      "Brushroll is designed for pet hair",
+      "Maps rooms for focused cleaning"
+    ],
+    "cons": [
+      "Higher upfront cost than basic robots",
+      "Dock needs open floor space",
+      "Not a true deep-clean replacement"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -54,9 +93,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best slim budget pick",
     "bestFor": "Apartments, hard floors, and low-profile furniture",
-    "features": ["Slim body", "BoostIQ suction", "Self-charging", "Remote control"],
-    "pros": ["Very low profile", "Simple controls", "Good starter robot for open spaces"],
-    "cons": ["No LiDAR mapping", "No self-empty dock", "Basic navigation"],
+    "features": [
+      "Slim body",
+      "BoostIQ suction",
+      "Self-charging",
+      "Remote control"
+    ],
+    "pros": [
+      "Very low profile",
+      "Simple controls",
+      "Good starter robot for open spaces"
+    ],
+    "cons": [
+      "No LiDAR mapping",
+      "No self-empty dock",
+      "Basic navigation"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -69,9 +121,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best premium Shark",
     "bestFor": "Pet homes that want a newer Shark self-empty dock",
-    "features": ["NeverStuck technology", "HEPA bagless base", "Auto carpet deep-cleaning", "Wi-Fi app control"],
-    "pros": ["Self-empty dock", "Pet-hair oriented design", "Strong feature stack"],
-    "cons": ["Large dock footprint", "Higher feature complexity", "Needs room prep for best performance"],
+    "features": [
+      "NeverStuck technology",
+      "HEPA bagless base",
+      "Auto carpet deep-cleaning",
+      "Wi-Fi app control"
+    ],
+    "pros": [
+      "Self-empty dock",
+      "Pet-hair oriented design",
+      "Strong feature stack"
+    ],
+    "cons": [
+      "Large dock footprint",
+      "Higher feature complexity",
+      "Needs room prep for best performance"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -84,9 +149,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best mop dock",
     "bestFor": "Homes that want vacuuming, mopping, and dock automation",
-    "features": ["All-in-one dock", "Spinning mops", "Smart obstacle avoidance", "8000Pa suction"],
-    "pros": ["Automated mop care", "Strong suction claim", "Good for mixed hard floors"],
-    "cons": ["Dock is bulky", "More consumables to maintain", "Premium feature set may be overkill"],
+    "features": [
+      "All-in-one dock",
+      "Spinning mops",
+      "Smart obstacle avoidance",
+      "8000Pa suction"
+    ],
+    "pros": [
+      "Automated mop care",
+      "Strong suction claim",
+      "Good for mixed hard floors"
+    ],
+    "cons": [
+      "Dock is bulky",
+      "More consumables to maintain",
+      "Premium feature set may be overkill"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -99,9 +177,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best newer Shark value",
     "bestFor": "Pet hair and everyday mapped cleaning",
-    "features": ["Bagless self-empty base", "SmartPath LiDAR", "30-day capacity", "Powerful suction"],
-    "pros": ["Self-empty base included", "LiDAR navigation", "Good category fit for pet hair"],
-    "cons": ["Newer listing may have fewer long-term owner notes", "White finish may show dust", "Dock placement matters"],
+    "features": [
+      "Bagless self-empty base",
+      "SmartPath LiDAR",
+      "30-day capacity",
+      "Powerful suction"
+    ],
+    "pros": [
+      "Self-empty base included",
+      "LiDAR navigation",
+      "Good category fit for pet hair"
+    ],
+    "cons": [
+      "Newer listing may have fewer long-term owner notes",
+      "White finish may show dust",
+      "Dock placement matters"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -114,9 +205,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best high-suction dock",
     "bestFor": "Homes that want self-emptying plus stronger suction claims",
-    "features": ["Self-empty dock", "10000Pa suction", "Sonic mopping", "Dual anti-tangle design"],
-    "pros": ["Strong spec sheet", "Self-emptying convenience", "Anti-tangle design for hair"],
-    "cons": ["Premium pricing can fluctuate", "Mop performance depends on flooring", "Large dock"],
+    "features": [
+      "Self-empty dock",
+      "10000Pa suction",
+      "Sonic mopping",
+      "Dual anti-tangle design"
+    ],
+    "pros": [
+      "Strong spec sheet",
+      "Self-emptying convenience",
+      "Anti-tangle design for hair"
+    ],
+    "cons": [
+      "Premium pricing can fluctuate",
+      "Mop performance depends on flooring",
+      "Large dock"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -129,9 +233,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best Roomba dock pick",
     "bestFor": "Roomba shoppers who want LiDAR and self-emptying",
-    "features": ["AutoEmpty dock", "LiDAR navigation", "Power-lifting suction", "Neat-row cleaning"],
-    "pros": ["Roomba ecosystem", "Self-empty dock", "Easy mainstream choice"],
-    "cons": ["Replacement parts and bags add cost", "No mop on this listing", "Best with tidy floors"],
+    "features": [
+      "AutoEmpty dock",
+      "LiDAR navigation",
+      "Power-lifting suction",
+      "Neat-row cleaning"
+    ],
+    "pros": [
+      "Roomba ecosystem",
+      "Self-empty dock",
+      "Easy mainstream choice"
+    ],
+    "cons": [
+      "Replacement parts and bags add cost",
+      "No mop on this listing",
+      "Best with tidy floors"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -144,9 +261,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best high-capacity dust bag",
     "bestFor": "Larger homes that want self-emptying and app mapping",
-    "features": ["Self-emptying dock", "LDS mapping", "DuoBrush", "App and voice control"],
-    "pros": ["Large dust bag", "Strong suction claim", "Good for pet-hair maintenance"],
-    "cons": ["Dock uses bags", "Newer model with less long-term history", "Mopping is maintenance-level"],
+    "features": [
+      "Self-emptying dock",
+      "LDS mapping",
+      "DuoBrush",
+      "App and voice control"
+    ],
+    "pros": [
+      "Large dust bag",
+      "Strong suction claim",
+      "Good for pet-hair maintenance"
+    ],
+    "cons": [
+      "Dock uses bags",
+      "Newer model with less long-term history",
+      "Mopping is maintenance-level"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -159,9 +289,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best overall air fryer",
     "bestFor": "Most kitchens that want capacity, speed, and easy controls",
-    "features": ["6-quart basket", "9 cooking functions", "Wide temperature range", "Ceramic nonstick coating"],
-    "pros": ["Useful everyday size", "Wide temperature range", "Simple countertop footprint"],
-    "cons": ["Single basket requires batches", "Basket size may be small for big families", "Needs airflow clearance"],
+    "features": [
+      "6-quart basket",
+      "9 cooking functions",
+      "Wide temperature range",
+      "Ceramic nonstick coating"
+    ],
+    "pros": [
+      "Useful everyday size",
+      "Wide temperature range",
+      "Simple countertop footprint"
+    ],
+    "cons": [
+      "Single basket requires batches",
+      "Basket size may be small for big families",
+      "Needs airflow clearance"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -174,9 +317,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best compact pick",
     "bestFor": "Small kitchens, snacks, and simple weeknight sides",
-    "features": ["4-quart basket", "Air fry", "Roast", "Dehydrate"],
-    "pros": ["Compact and proven", "Simple controls", "Good starter size"],
-    "cons": ["Not ideal for large families", "Round basket wastes some space", "Fewer modes than newer models"],
+    "features": [
+      "4-quart basket",
+      "Air fry",
+      "Roast",
+      "Dehydrate"
+    ],
+    "pros": [
+      "Compact and proven",
+      "Simple controls",
+      "Good starter size"
+    ],
+    "cons": [
+      "Not ideal for large families",
+      "Round basket wastes some space",
+      "Fewer modes than newer models"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -189,9 +345,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best dual basket",
     "bestFor": "Families cooking mains and sides at the same time",
-    "features": ["Two independent baskets", "Smart Finish", "Match Cook", "8-quart total capacity"],
-    "pros": ["Cook two foods separately", "Helpful sync controls", "Good family workflow"],
-    "cons": ["Wide footprint", "More parts to clean", "Each basket is smaller than one large basket"],
+    "features": [
+      "Two independent baskets",
+      "Smart Finish",
+      "Match Cook",
+      "8-quart total capacity"
+    ],
+    "pros": [
+      "Cook two foods separately",
+      "Helpful sync controls",
+      "Good family workflow"
+    ],
+    "cons": [
+      "Wide footprint",
+      "More parts to clean",
+      "Each basket is smaller than one large basket"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -204,9 +373,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best Instant pick",
     "bestFor": "Families that want a straightforward 6-quart basket",
-    "features": ["6-in-1 functions", "Dishwasher-safe basket", "Crisp technology", "Stainless look"],
-    "pros": ["Familiar Instant brand", "Good all-purpose capacity", "Simple cooking modes"],
-    "cons": ["Single basket", "May be bulky for tiny counters", "Controls vary by model version"],
+    "features": [
+      "6-in-1 functions",
+      "Dishwasher-safe basket",
+      "Crisp technology",
+      "Stainless look"
+    ],
+    "pros": [
+      "Familiar Instant brand",
+      "Good all-purpose capacity",
+      "Simple cooking modes"
+    ],
+    "cons": [
+      "Single basket",
+      "May be bulky for tiny counters",
+      "Controls vary by model version"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -219,9 +401,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best newer compact Ninja",
     "bestFor": "Small families that want a little more space than 4 quarts",
-    "features": ["5-quart capacity", "Air crisp", "Roast", "Reheat"],
-    "pros": ["Practical mid-size basket", "Compact for capacity", "Simple Ninja workflow"],
-    "cons": ["Still a single basket", "Not a full oven replacement", "No viewing window"],
+    "features": [
+      "5-quart capacity",
+      "Air crisp",
+      "Roast",
+      "Reheat"
+    ],
+    "pros": [
+      "Practical mid-size basket",
+      "Compact for capacity",
+      "Simple Ninja workflow"
+    ],
+    "cons": [
+      "Still a single basket",
+      "Not a full oven replacement",
+      "No viewing window"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -234,9 +429,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best 5-quart value",
     "bestFor": "Couples and small families that want presets",
-    "features": ["5-quart basket", "Ceramic coating", "7 presets", "Shake reminder"],
-    "pros": ["Good usable size", "Helpful reminders", "Easy basket cleanup"],
-    "cons": ["Single basket", "Presets still need adjustment", "Capacity may be tight for batch cooking"],
+    "features": [
+      "5-quart basket",
+      "Ceramic coating",
+      "7 presets",
+      "Shake reminder"
+    ],
+    "pros": [
+      "Good usable size",
+      "Helpful reminders",
+      "Easy basket cleanup"
+    ],
+    "cons": [
+      "Single basket",
+      "Presets still need adjustment",
+      "Capacity may be tight for batch cooking"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -249,9 +457,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best XL single basket",
     "bestFor": "Bigger portions without moving to a dual basket",
-    "features": ["6.5-quart capacity", "MaxCrisp", "Bake", "Dehydrate"],
-    "pros": ["More room than compact models", "Good for family sides", "Simple basket format"],
-    "cons": ["Larger counter footprint", "Still one cooking zone", "Basket can be bulky to wash"],
+    "features": [
+      "6.5-quart capacity",
+      "MaxCrisp",
+      "Bake",
+      "Dehydrate"
+    ],
+    "pros": [
+      "More room than compact models",
+      "Good for family sides",
+      "Simple basket format"
+    ],
+    "cons": [
+      "Larger counter footprint",
+      "Still one cooking zone",
+      "Basket can be bulky to wash"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -264,9 +485,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best flexible basket",
     "bestFor": "Families that want one large zone or divided cooking",
-    "features": ["9-quart capacity", "VersaZone divider", "8 functions", "EvenCrisp technology"],
-    "pros": ["Flexible cooking zone", "Large capacity", "Good for mixed meals"],
-    "cons": ["Wide footprint", "Large basket storage", "May be more than small kitchens need"],
+    "features": [
+      "9-quart capacity",
+      "VersaZone divider",
+      "8 functions",
+      "EvenCrisp technology"
+    ],
+    "pros": [
+      "Flexible cooking zone",
+      "Large capacity",
+      "Good for mixed meals"
+    ],
+    "cons": [
+      "Wide footprint",
+      "Large basket storage",
+      "May be more than small kitchens need"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -279,9 +513,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best simple large basket",
     "bestFor": "Large portions with straightforward controls",
-    "features": ["8-quart basket", "Hi-Fry option", "Bake", "Dehydrate"],
-    "pros": ["Large basket", "Simple controls", "Good for batch snacks"],
-    "cons": ["Single zone", "Large counter footprint", "Less premium feel than higher-end models"],
+    "features": [
+      "8-quart basket",
+      "Hi-Fry option",
+      "Bake",
+      "Dehydrate"
+    ],
+    "pros": [
+      "Large basket",
+      "Simple controls",
+      "Good for batch snacks"
+    ],
+    "cons": [
+      "Single zone",
+      "Large counter footprint",
+      "Less premium feel than higher-end models"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -294,24 +541,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best viewing window",
     "bestFor": "Cooks who want to monitor browning without opening the basket",
-    "features": ["ClearCook window", "6-in-1 functions", "Custom programs", "6-quart basket"],
-    "pros": ["Viewing window helps timing", "Good everyday capacity", "Flexible cooking functions"],
-    "cons": ["Window needs cleaning", "Single basket", "Not ideal for very large batches"],
-    "affiliateNote": "Check current Amazon price"
-  },
-  {
-    "id": "chefman-dual-basket-6qt",
-    "category": "air-fryers",
-    "name": "Chefman 6 Quart Dual Basket Air Fryer",
-    "asin": "B0B7C327LK",
-    "affiliateUrl": "https://www.amazon.com/dp/B0B7C327LK?tag=affiliater07c-20",
-    "image": "https://m.media-amazon.com/images/I/814RqFJXuzL._AC_SL1500_.jpg",
-    "priceText": "See latest pricing",
-    "comparisonBadge": "Best compact dual basket",
-    "bestFor": "Two-food cooking in a smaller dual-zone format",
-    "features": ["Two 3-quart baskets", "Sync finish", "Digital touchscreen", "Auto shutoff"],
-    "pros": ["Dual baskets without huge capacity", "Good for sides plus protein", "Dishwasher-safe baskets"],
-    "cons": ["Each basket is modest", "Not for big family batches", "More parts to clean"],
+    "features": [
+      "ClearCook window",
+      "6-in-1 functions",
+      "Custom programs",
+      "6-quart basket"
+    ],
+    "pros": [
+      "Viewing window helps timing",
+      "Good everyday capacity",
+      "Flexible cooking functions"
+    ],
+    "cons": [
+      "Window needs cleaning",
+      "Single basket",
+      "Not ideal for very large batches"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -324,9 +569,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best beginner machine",
     "bestFor": "Beginners who want real espresso in a compact footprint",
-    "features": ["Compact body", "Steam wand", "Fast heat-up", "Brushed stainless finish"],
-    "pros": ["Beginner-friendly workflow", "Small counter footprint", "Good base for grinder upgrades"],
-    "cons": ["Needs a capable grinder", "Small water tank", "Manual technique still matters"],
+    "features": [
+      "Compact body",
+      "Steam wand",
+      "Fast heat-up",
+      "Brushed stainless finish"
+    ],
+    "pros": [
+      "Beginner-friendly workflow",
+      "Small counter footprint",
+      "Good base for grinder upgrades"
+    ],
+    "cons": [
+      "Needs a capable grinder",
+      "Small water tank",
+      "Manual technique still matters"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -339,9 +597,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best all-in-one",
     "bestFor": "Home baristas who want a built-in grinder and full workflow",
-    "features": ["Integrated burr grinder", "PID temperature control", "Steam wand", "Large water tank"],
-    "pros": ["All-in-one setup", "Strong learning platform", "Large accessory ecosystem"],
-    "cons": ["Bigger footprint", "Built-in grinder limits upgrade path", "Takes practice to dial in"],
+    "features": [
+      "Integrated burr grinder",
+      "PID temperature control",
+      "Steam wand",
+      "Large water tank"
+    ],
+    "pros": [
+      "All-in-one setup",
+      "Strong learning platform",
+      "Large accessory ecosystem"
+    ],
+    "cons": [
+      "Bigger footprint",
+      "Built-in grinder limits upgrade path",
+      "Takes practice to dial in"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -354,9 +625,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best grinder upgrade",
     "bestFor": "Espresso beginners upgrading from pre-ground coffee",
-    "features": ["Espresso-focused adjustment", "Compact hopper", "Repairable design", "Conical burrs"],
-    "pros": ["High-impact espresso upgrade", "Compact footprint", "Works beyond espresso too"],
-    "cons": ["Not an espresso machine by itself", "Still requires dialing in", "Retention and noise are normal grinder tradeoffs"],
+    "features": [
+      "Espresso-focused adjustment",
+      "Compact hopper",
+      "Repairable design",
+      "Conical burrs"
+    ],
+    "pros": [
+      "High-impact espresso upgrade",
+      "Compact footprint",
+      "Works beyond espresso too"
+    ],
+    "cons": [
+      "Not an espresso machine by itself",
+      "Still requires dialing in",
+      "Retention and noise are normal grinder tradeoffs"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -369,9 +653,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best assisted workflow",
     "bestFor": "Households that want espresso, drip, cold brew, and guidance",
-    "features": ["Built-in grinder", "Assisted tamper", "Hands-free frother", "Espresso, drip, and cold brew modes"],
-    "pros": ["Approachable workflow", "Multiple drink styles", "Good fit for shared kitchens"],
-    "cons": ["Less traditional than semi-automatic espresso", "Larger footprint", "Newer platform"],
+    "features": [
+      "Built-in grinder",
+      "Assisted tamper",
+      "Hands-free frother",
+      "Espresso, drip, and cold brew modes"
+    ],
+    "pros": [
+      "Approachable workflow",
+      "Multiple drink styles",
+      "Good fit for shared kitchens"
+    ],
+    "cons": [
+      "Less traditional than semi-automatic espresso",
+      "Larger footprint",
+      "Newer platform"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -384,9 +681,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best compact budget machine",
     "bestFor": "Small kitchens and occasional espresso drinks",
-    "features": ["20-bar pump", "Steam frother", "Compact stainless body", "Removable water tank"],
-    "pros": ["Small footprint", "Accessible starter option", "Milk frother included"],
-    "cons": ["Budget workflow has compromises", "Needs grinder for best results", "More manual technique required"],
+    "features": [
+      "20-bar pump",
+      "Steam frother",
+      "Compact stainless body",
+      "Removable water tank"
+    ],
+    "pros": [
+      "Small footprint",
+      "Accessible starter option",
+      "Milk frother included"
+    ],
+    "cons": [
+      "Budget workflow has compromises",
+      "Needs grinder for best results",
+      "More manual technique required"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -399,9 +709,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best compact milk drinks",
     "bestFor": "Beginners who want easier milk steaming",
-    "features": ["Compact body", "Automatic milk texturing", "Fast heat-up", "Portafilter workflow"],
-    "pros": ["Great compact size", "Milk workflow is more forgiving", "Strong beginner upgrade"],
-    "cons": ["Still needs a grinder", "Small footprint means smaller reservoir", "Less control than larger machines"],
+    "features": [
+      "Compact body",
+      "Automatic milk texturing",
+      "Fast heat-up",
+      "Portafilter workflow"
+    ],
+    "pros": [
+      "Great compact size",
+      "Milk workflow is more forgiving",
+      "Strong beginner upgrade"
+    ],
+    "cons": [
+      "Still needs a grinder",
+      "Small footprint means smaller reservoir",
+      "Less control than larger machines"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -414,9 +737,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best classic pump option",
     "bestFor": "Latte and cappuccino drinkers who want manual control",
-    "features": ["15-bar pump", "Milk frother", "Temperature control", "Barista-style kit"],
-    "pros": ["Familiar manual workflow", "Milk frother included", "Good for basic espresso drinks"],
-    "cons": ["Requires practice", "Grinder still matters", "Not as automated as superautomatic machines"],
+    "features": [
+      "15-bar pump",
+      "Milk frother",
+      "Temperature control",
+      "Barista-style kit"
+    ],
+    "pros": [
+      "Familiar manual workflow",
+      "Milk frother included",
+      "Good for basic espresso drinks"
+    ],
+    "cons": [
+      "Requires practice",
+      "Grinder still matters",
+      "Not as automated as superautomatic machines"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -429,9 +765,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best manual starter",
     "bestFor": "Budget-minded beginners learning espresso basics",
-    "features": ["15-bar pump", "Manual steam wand", "Compact body", "Single and double espresso"],
-    "pros": ["Simple manual learning machine", "Compact design", "Good starter for milk drinks"],
-    "cons": ["Limited automation", "Needs grinder and technique", "Not for high-volume entertaining"],
+    "features": [
+      "15-bar pump",
+      "Manual steam wand",
+      "Compact body",
+      "Single and double espresso"
+    ],
+    "pros": [
+      "Simple manual learning machine",
+      "Compact design",
+      "Good starter for milk drinks"
+    ],
+    "cons": [
+      "Limited automation",
+      "Needs grinder and technique",
+      "Not for high-volume entertaining"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -444,9 +793,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best machine-grinder bundle",
     "bestFor": "Beginners who want a complete espresso starting point",
-    "features": ["Bambino Plus machine", "Baratza Encore ESP grinder", "Compact setup", "Milk drink capable"],
-    "pros": ["Solves machine plus grinder pairing", "Compact workflow", "Beginner-friendly package"],
-    "cons": ["Bundle availability can vary", "Costs more than machine-only", "Still requires dialing in"],
+    "features": [
+      "Bambino Plus machine",
+      "Baratza Encore ESP grinder",
+      "Compact setup",
+      "Milk drink capable"
+    ],
+    "pros": [
+      "Solves machine plus grinder pairing",
+      "Compact workflow",
+      "Beginner-friendly package"
+    ],
+    "cons": [
+      "Bundle availability can vary",
+      "Costs more than machine-only",
+      "Still requires dialing in"
+    ],
     "affiliateNote": "Check current Amazon price"
   },
   {
@@ -459,54 +821,22 @@
     "priceText": "See latest pricing",
     "comparisonBadge": "Best app-enabled superautomatic",
     "bestFor": "Convenience-first households that want automated drinks",
-    "features": ["Superautomatic brewing", "App-enabled controls", "Auto wake and sleep", "Milk drink support"],
-    "pros": ["Highly automated", "Convenient for multiple users", "Good for espresso-style drinks without manual prep"],
-    "cons": ["Premium machine class", "Less hands-on control", "Maintenance routines still matter"],
-    "affiliateNote": "Check current Amazon price"
-  },
-  {
-    "id": "ascaso-steel-pid",
-    "category": "espresso-machines",
-    "name": "Ascaso Steel PID Programmable Espresso Machine",
-    "asin": "B096YVJFPB",
-    "affiliateUrl": "https://www.amazon.com/dp/B096YVJFPB?tag=affiliater07c-20",
-    "image": "https://m.media-amazon.com/images/I/61bVcrDDYLL._AC_SL1500_.jpg",
-    "priceText": "See latest pricing",
-    "comparisonBadge": "Best enthusiast compact",
-    "bestFor": "Home baristas who want temperature control in a compact machine",
-    "features": ["PID control", "Programmable dosing", "Thermoblock heating", "Stainless design"],
-    "pros": ["More control than entry machines", "Compact premium build", "Good for espresso hobbyists"],
-    "cons": ["Requires grinder and technique", "Premium price class", "Less automated than superautomatic machines"],
-    "affiliateNote": "Check current Amazon price"
-  },
-  {
-    "id": "bosch-tqu60703",
-    "category": "espresso-machines",
-    "name": "Bosch Fully Automatic Coffee and Espresso Machine TQU60703",
-    "asin": "B0CW997VM8",
-    "affiliateUrl": "https://www.amazon.com/dp/B0CW997VM8?tag=affiliater07c-20",
-    "image": "https://m.media-amazon.com/images/I/61n0hvbdH5L._AC_SL1500_.jpg",
-    "priceText": "See latest pricing",
-    "comparisonBadge": "Best drink variety",
-    "bestFor": "Households that want many automatic coffee drinks",
-    "features": ["Fully automatic", "Touchscreen", "Large bean capacity", "Double cup brewing"],
-    "pros": ["Broad drink menu", "Convenient automatic workflow", "Good for shared kitchens"],
-    "cons": ["Large footprint", "Less manual espresso control", "Cleaning routines are important"],
-    "affiliateNote": "Check current Amazon price"
-  },
-  {
-    "id": "gevi-20bar-pear-white",
-    "category": "espresso-machines",
-    "name": "Gevi 20 Bar Espresso Machine",
-    "asin": "B097XMD9FH",
-    "affiliateUrl": "https://www.amazon.com/dp/B097XMD9FH?tag=affiliater07c-20",
-    "image": "https://m.media-amazon.com/images/I/61M9g5e7ifL._AC_SL1500_.jpg",
-    "priceText": "See latest pricing",
-    "comparisonBadge": "Best style-forward budget pick",
-    "bestFor": "Small kitchens that want a compact espresso machine with steam wand",
-    "features": ["20-bar pump", "Steam wand", "Compact body", "Stainless accents"],
-    "pros": ["Compact and approachable", "Steam wand included", "Distinctive color option"],
-    "cons": ["Manual learning curve", "Needs grinder for better results", "Budget-machine limitations"],
+    "features": [
+      "Superautomatic brewing",
+      "App-enabled controls",
+      "Auto wake and sleep",
+      "Milk drink support"
+    ],
+    "pros": [
+      "Highly automated",
+      "Convenient for multiple users",
+      "Good for espresso-style drinks without manual prep"
+    ],
+    "cons": [
+      "Premium machine class",
+      "Less hands-on control",
+      "Maintenance routines still matter"
+    ],
     "affiliateNote": "Check current Amazon price"
   }
 ]

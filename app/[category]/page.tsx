@@ -8,6 +8,7 @@ import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CTA } from "@/components/CTA";
 import { CategoryEditorial } from "@/components/CategoryEditorial";
+import { EditorialMeta } from "@/components/EditorialMeta";
 import { FAQ } from "@/components/FAQ";
 import { GuideCard } from "@/components/GuideCard";
 import { JsonLd } from "@/components/JsonLd";
@@ -19,6 +20,8 @@ import { getCategory, siteUrl } from "@/lib/content";
 type Props = {
   params: Promise<{ category: string }>;
 };
+
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return categories.map((category) => ({ category: category.slug }));
@@ -84,6 +87,12 @@ export default async function CategoryPage({ params }: Props) {
               "@type": "Organization",
               name: "HomePilot"
             },
+            author: {
+              "@type": "Organization",
+              name: "HomePilot Editorial Team"
+            },
+            datePublished: "2026-06-01",
+            dateModified: "2026-06-01",
             mainEntityOfPage: `${siteUrl}/${category.slug}`
           },
           {
@@ -108,6 +117,7 @@ export default async function CategoryPage({ params }: Props) {
               {category.headline}
             </h1>
             <p className="mt-5 text-lg leading-8 text-neutral-600">{category.intro}</p>
+            <EditorialMeta />
           </div>
         </div>
       </section>
@@ -142,7 +152,9 @@ export default async function CategoryPage({ params }: Props) {
             </div>
           </section>
           <CategoryEditorial category={category} />
-          <CTA title={`Compare more ${category.name.toLowerCase()}`} href={`/${category.slug}/${categoryGuides[0]?.slug ?? ""}`} />
+          {categoryGuides[0] ? (
+            <CTA title={`Read the focused ${category.name.toLowerCase()} guide`} href={`/${category.slug}/${categoryGuides[0].slug}`} />
+          ) : null}
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Latest {category.name.toLowerCase()} guides</h2>
             <div className="mt-5 grid gap-4 md:grid-cols-2">

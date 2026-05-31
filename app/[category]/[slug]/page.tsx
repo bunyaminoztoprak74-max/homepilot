@@ -7,6 +7,7 @@ import products from "@/data/products.json";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CTA } from "@/components/CTA";
+import { EditorialMeta } from "@/components/EditorialMeta";
 import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
 import { ProductComparisonTable } from "@/components/ProductComparisonTable";
@@ -17,6 +18,8 @@ import { getCategory, getGuide, getGuideProducts, siteUrl } from "@/lib/content"
 type Props = {
   params: Promise<{ category: string; slug: string }>;
 };
+
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   return guides.map((guide) => ({ category: guide.category, slug: guide.slug }));
@@ -68,6 +71,12 @@ export default async function GuidePage({ params }: Props) {
               "@type": "Organization",
               name: "HomePilot"
             },
+            author: {
+              "@type": "Organization",
+              name: "HomePilot Editorial Team"
+            },
+            datePublished: "2026-06-01",
+            dateModified: "2026-06-01",
             mainEntityOfPage: `${siteUrl}/${guide.category}/${guide.slug}`
           },
           {
@@ -106,6 +115,7 @@ export default async function GuidePage({ params }: Props) {
             {guide.title}
           </h1>
           <p className="mt-5 text-lg leading-8 text-neutral-600">{guide.description}</p>
+          <EditorialMeta />
           <div className="mt-8">
             <AffiliateDisclosure />
           </div>

@@ -97,7 +97,7 @@ export default function Home() {
               <Link className="rounded-full bg-neutral-950 px-6 py-3 text-center text-sm font-semibold text-white transition hover:-translate-y-0.5 hover:bg-neutral-700" href="/best-robot-vacuums">
                 Compare Top Picks →
               </Link>
-              <Link className="rounded-full border border-neutral-300 px-6 py-3 text-center text-sm font-semibold text-neutral-950 transition hover:-translate-y-0.5 hover:border-neutral-950" href="/espresso-machines/espresso-machine-buying-guide">
+              <Link className="rounded-full border border-neutral-300 px-6 py-3 text-center text-sm font-semibold text-neutral-950 transition hover:-translate-y-0.5 hover:border-neutral-950" href="/espresso-machines/beginners">
                 Read Buying Guides
               </Link>
             </div>
