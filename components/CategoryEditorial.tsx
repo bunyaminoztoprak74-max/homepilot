@@ -45,6 +45,15 @@ const editorial: Record<string, { title: string; paragraphs: string[] }[]> = {
         "Set the robot up for success by removing cords, lightweight rugs, pet toys, and low furniture clutter. The more predictable the floor is, the more useful the automation becomes. Schedule frequent shorter runs instead of waiting for the floor to become visibly dirty. Robot vacuums are maintenance tools, and they work best when they prevent buildup rather than attack a neglected mess.",
         "A sustainable buying decision should leave room for the rest of your cleaning routine. Keep a cordless or upright vacuum for stairs, couches, car mats, and deep carpet. Use the robot for everyday floors. That combination is more honest, more durable, and more useful than expecting a single appliance to solve every cleaning job."
       ]
+    },
+    {
+      title: "Common buying mistakes",
+      paragraphs: [
+        "The most common robot vacuum mistake is buying around a single impressive number. Suction claims, bin capacity, runtime, and dock capacity can all be useful, but none of them matter in isolation. A robot with excellent suction still needs a route that reaches the mess. A robot with long runtime still needs brushes that handle your flooring. A dock with a large dust bag still needs a location where the robot can reliably return after every run.",
+        "Another mistake is ignoring furniture and floor transitions. Dining chairs, thresholds, loose cords, rug edges, and pet bowls can make an otherwise strong robot feel inconsistent. Before choosing a model, walk through the rooms you expect it to clean and notice what would block a low, round device. Homes with many obstacles should prioritize mapping, no-go zones, and app control. Simpler open layouts can get away with less sophisticated navigation.",
+        "Finally, avoid treating self-emptying as automatically premium. A self-empty dock can be excellent for pet hair and busy routines, but it adds noise, height, floor space, bags or filters, and more parts to maintain. If you live in a small apartment and can empty a dustbin after each run, a slimmer standard model may be more practical. If you have shedding pets or allergies, the dock may be the feature that keeps the robot useful every week.",
+        "Before clicking through to a retailer, decide what success looks like in your home. For some buyers, success is fewer visible crumbs under the dining table. For others, it is keeping pet hair from collecting along baseboards. A clear goal helps you choose between a budget vacuum, a mapping model, a self-empty system, or a hybrid mop."
+      ]
     }
   ],
   "air-fryers": [
@@ -91,6 +100,15 @@ const editorial: Record<string, { title: string; paragraphs: string[] }[]> = {
         "Plan your cooking around single-layer airflow. Crowding the basket leads to steaming instead of crisping, which is why a slightly larger basket can produce better results even when you are not filling it completely. Shake or turn food when needed, preheat only when the recipe benefits from it, and avoid relying blindly on presets.",
         "A sustainable air fryer purchase should reduce friction in your real cooking routine. If it makes vegetables, leftovers, chicken, and snacks easier on weeknights, it earns the counter space. If it duplicates a toaster oven you already love, it may not. That kind of honest fit matters more than chasing every new cooking mode."
       ]
+    },
+    {
+      title: "Common buying mistakes",
+      paragraphs: [
+        "The biggest air fryer mistake is choosing quart capacity without thinking about usable surface area. A deep basket can advertise a large volume but still stack food in a way that reduces crisping. A wider basket usually lets more food sit in a single layer, which improves browning and makes shaking easier. When comparing models, imagine the foods you cook most often: fries, wings, vegetables, salmon, chicken thighs, frozen snacks, or leftovers.",
+        "A second mistake is overvaluing presets. Presets can be convenient, but repeatable manual control is more important. You want clear time and temperature settings, a basket that slides smoothly, and surfaces that are not painful to clean. If the controls are confusing or the basket is awkward at the sink, the appliance may sit unused even if it has a long feature list.",
+        "For families, do not assume one large basket solves every meal. A large single basket is useful for big batches of one food, while dual baskets help when two foods need different temperatures or finish times. Dual baskets create more parts to wash and need more counter width, so the best choice depends on whether your real weeknight cooking is one big batch or a coordinated meal with mains and sides.",
+        "Before buying, picture the full routine: pulling the appliance out, loading food, shaking or turning halfway through, washing the basket, and storing the parts. If that routine feels easy, the air fryer is more likely to become a daily tool. If the appliance is too large, too noisy, or too hard to clean, even strong cooking results may not justify the space."
+      ]
     }
   ],
   "espresso-machines": [
@@ -136,6 +154,15 @@ const editorial: Record<string, { title: string; paragraphs: string[] }[]> = {
         "Espresso machines need cleaning habits. Backflushing where applicable, wiping the steam wand, emptying the drip tray, descaling when appropriate, and keeping the grinder clean all affect long-term performance. A machine that seems premium but is annoying to clean may become a weekend-only appliance.",
         "Budget for the whole setup rather than the machine alone. A grinder, scale, tamper, milk pitcher, cleaning supplies, and fresh beans can matter as much as the machine. Built-in grinder machines simplify the shopping list, but separate grinders make future upgrades easier. Neither path is universally better; the right path depends on space, patience, and upgrade appetite.",
         "A sustainable espresso setup should make your normal morning better. If you want a fast cappuccino before work, prioritize warm-up time and milk workflow. If you want to experiment with beans, prioritize grinder quality and manual control. If multiple people will use the machine, prioritize repeatability and easy cleanup over hobbyist flexibility."
+      ]
+    },
+    {
+      title: "Common buying mistakes",
+      paragraphs: [
+        "The most common espresso mistake is spending the entire budget on the machine and leaving nothing for the grinder. Espresso requires fine, consistent grinding and small adjustments as beans age. If the grinder cannot make those adjustments, the machine becomes difficult to use well. Beginners often get better results from a modest machine paired with a capable grinder than from an impressive machine paired with inconsistent coffee preparation.",
+        "Another mistake is buying for a fantasy routine instead of a real morning. A manual machine can be satisfying if you enjoy measuring, grinding, tamping, timing shots, steaming milk, and cleaning afterward. If you want a drink with very little interaction, a superautomatic or pod-style system may be more honest. The right espresso setup should match your patience on a busy weekday, not only your enthusiasm while shopping.",
+        "Milk drinkers should not ignore cleanup. Steam wands need immediate wiping and purging, automatic milk systems need rinsing, and drip trays fill faster than many beginners expect. If several people will use the machine, easy cleaning and consistent results matter more than hobbyist controls. If only one person will use it and enjoys experimenting, manual control and a separate grinder may be worth the extra effort.",
+        "Before choosing a machine, write down the drinks you make most often. Straight espresso, Americanos, cappuccinos, lattes, and iced drinks all reward different priorities. A compact manual machine may be ideal for learning shots, while an assisted machine may be better for repeatable milk drinks. Matching the machine to your real menu prevents expensive overbuying."
       ]
     }
   ]

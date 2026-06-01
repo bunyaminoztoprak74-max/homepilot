@@ -29,11 +29,12 @@ export function Footer() {
             <h2 className="text-sm font-semibold">Company</h2>
             {[
               ["About", "/about"],
+              ["Contact", "/contact"],
+              ["Affiliate Disclosure", "/affiliate-disclosure"],
               ["Editorial Process", "/editorial-process"],
               ["How We Test", "/how-we-test"],
-              ["Privacy", "/privacy"],
-              ["Terms", "/terms"],
-              ["Contact", "/contact"]
+              ["Privacy Policy", "/privacy-policy"],
+              ["Terms", "/terms"]
             ].map(([label, href]) => (
               <Link key={href} className="mt-2 block text-sm text-neutral-300 hover:text-white" href={href}>
                 {label}

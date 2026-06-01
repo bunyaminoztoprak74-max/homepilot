@@ -25,13 +25,13 @@ export function ProductGrid({ products }: { products: Product[] }) {
           <h3 className="mt-4 text-lg font-semibold tracking-tight text-neutral-950">{product.name}</h3>
           <p className="mt-2 text-sm leading-6 text-neutral-600">{product.editorialSummary}</p>
           <div className="mt-4 flex flex-wrap gap-2 text-xs font-medium text-neutral-700">
+            <span className="rounded-full bg-neutral-100 px-3 py-1">Best for: {product.bestFor}</span>
             <span className="rounded-full bg-neutral-100 px-3 py-1">{product.priceText}</span>
           </div>
           <div className="mt-4 grid gap-3 text-sm text-neutral-600">
             <DecisionNote title="Why we picked it" copy={product.whyPicked} />
-            <DecisionNote title="Who should buy" copy={product.whoShouldBuy} />
-            <DecisionNote title="Who should skip it" copy={product.whoShouldSkip} />
-            <FeatureList title="Key tradeoffs" items={product.keyTradeoffs} />
+            <FeatureList title="Pros" items={product.pros} positive />
+            <FeatureList title="Cons" items={product.cons} />
           </div>
           <p className="mt-4 text-xs text-neutral-500">
             Prices, ratings, availability, and reviews can change. Confirm details with the retailer before buying.
@@ -54,13 +54,16 @@ function DecisionNote({ title, copy }: { title: string; copy: string }) {
   );
 }
 
-function FeatureList({ title, items }: { title: string; items: string[] }) {
+function FeatureList({ title, items, positive = false }: { title: string; items: string[]; positive?: boolean }) {
   return (
     <div>
       <h4 className="font-semibold text-neutral-950">{title}</h4>
       <ul className="mt-2 grid gap-1">
         {items.map((item) => (
-          <li key={item}>{item}</li>
+          <li key={item} className="flex gap-2">
+            <span className="text-neutral-400">{positive ? "+" : "-"}</span>
+            <span>{item}</span>
+          </li>
         ))}
       </ul>
     </div>

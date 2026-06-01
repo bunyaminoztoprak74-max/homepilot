@@ -10,7 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteUrl}/best-robot-vacuums`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
     { url: `${siteUrl}/best-air-fryers`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
     { url: `${siteUrl}/best-espresso-machines`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
-    ...["about", "editorial-process", "how-we-test", "privacy", "terms", "contact"].map((path) => ({
+    ...["about", "contact", "privacy-policy", "terms", "affiliate-disclosure", "editorial-process", "how-we-test"].map((path) => ({
       url: `${siteUrl}/${path}`,
       lastModified: now,
       changeFrequency: "monthly" as const,

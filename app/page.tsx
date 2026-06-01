@@ -95,15 +95,16 @@ export default function Home() {
             </p>
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
               <Link className="rounded-full bg-neutral-950 px-6 py-3 text-center text-sm font-semibold text-white transition hover:-translate-y-0.5 hover:bg-neutral-700" href="/best-robot-vacuums">
-                Compare Top Picks →
+                Compare Top Picks -&gt;
               </Link>
               <Link className="rounded-full border border-neutral-300 px-6 py-3 text-center text-sm font-semibold text-neutral-950 transition hover:-translate-y-0.5 hover:border-neutral-950" href="/espresso-machines/beginners">
                 Read Buying Guides
               </Link>
             </div>
             <div className="mt-8 flex flex-wrap gap-3 text-sm font-semibold text-neutral-700">
-              {["✓ Updated Monthly", "✓ Independent Research", "✓ Amazon Pricing"].map((badge) => (
+              {["Updated Monthly", "Independent Research", "Amazon Pricing"].map((badge) => (
                 <span key={badge} className="rounded-full border border-neutral-200 bg-white px-4 py-2 shadow-sm">
+                  <span aria-hidden="true">✓ </span>
                   {badge}
                 </span>
               ))}
@@ -223,16 +224,16 @@ export default function Home() {
         <div className="grid gap-4 sm:grid-cols-3">
           {[
             {
-              title: "No static Amazon prices",
-              copy: "Every product card sends readers to Amazon to confirm live pricing, availability, ratings, and seller details."
+              title: "Current pricing only",
+              copy: "Product cards use retailer links instead of publishing static prices, ratings, or review counts."
             },
             {
-              title: "Clear affiliate disclosure",
-              copy: "HomePilot can earn from qualifying purchases, and affiliate links are labeled without changing the buying advice."
+              title: "Transparent affiliate model",
+              copy: "Affiliate relationships are disclosed clearly, while recommendations stay focused on household fit and tradeoffs."
             },
             {
-              title: "JSON-first updates",
-              copy: "Products, guides, and category comparisons are stored in JSON so the site can scale without rebuilding templates."
+              title: "Maintainable research",
+              copy: "Structured product data keeps recommendations easy to review, replace, and improve over time."
             }
           ].map((item) => (
             <div key={item.title} className="rounded-lg border border-neutral-200 p-5">
