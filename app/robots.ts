@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/"
     },
-    sitemap: "https://homepilot.vercel.app/sitemap.xml"
+    sitemap: "https://homepilot-iota.vercel.app/sitemap.xml"
   };
 }

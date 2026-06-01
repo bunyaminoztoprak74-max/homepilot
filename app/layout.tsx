@@ -4,7 +4,7 @@ import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://homepilot.vercel.app"),
+  metadataBase: new URL("https://homepilot-iota.vercel.app"),
   title: {
     default: "HomePilot | Expert buying guides for home products",
     template: "%s | HomePilot"
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "HomePilot",
     description: "Expert buying guides for home products.",
-    url: "https://homepilot.vercel.app",
+    url: "https://homepilot-iota.vercel.app",
     siteName: "HomePilot",
     type: "website"
   },

@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Best Robot Vacuums, Air Fryers & Espresso Machines Compared",
     description: "Expert buying guides for home products.",
-    url: "https://homepilot.vercel.app",
+    url: "https://homepilot-iota.vercel.app",
     type: "website"
   },
   twitter: {
@@ -63,10 +63,10 @@ export default function Home() {
             "@context": "https://schema.org",
             "@type": "WebSite",
             name: "HomePilot",
-            url: "https://homepilot.vercel.app",
+            url: "https://homepilot-iota.vercel.app",
             potentialAction: {
               "@type": "SearchAction",
-              target: "https://homepilot.vercel.app/search?q={search_term_string}",
+              target: "https://homepilot-iota.vercel.app/search?q={search_term_string}",
               "query-input": "required name=search_term_string"
             }
           },
