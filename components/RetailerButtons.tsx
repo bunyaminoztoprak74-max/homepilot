@@ -8,8 +8,7 @@ type Retailer = {
 export function RetailerButtons({ product, compact = false }: { product: Product; compact?: boolean }) {
   const retailers: Retailer[] = [
     { label: "Check Amazon Price", href: product.amazonUrl },
-    { label: "Check eBay Price", href: product.ebayUrl },
-    { label: "Check Walmart Price", href: product.walmartUrl }
+    { label: "Check eBay Price", href: product.ebayUrl }
   ];
 
   return (
@@ -17,7 +16,7 @@ export function RetailerButtons({ product, compact = false }: { product: Product
       <p className="mb-3 text-xs font-semibold uppercase tracking-[0.16em] text-neutral-500">
         Compare prices across retailers
       </p>
-      <div className={compact ? "grid gap-2" : "grid grid-cols-3 gap-2"}>
+      <div className={compact ? "grid gap-2" : "grid grid-cols-2 gap-2"}>
         {retailers.map((retailer, index) => (
           <a
             key={retailer.label}

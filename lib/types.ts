@@ -15,7 +15,6 @@ export type Product = {
   asin: string;
   amazonUrl: string;
   ebayUrl: string;
-  walmartUrl: string;
   image: string;
   priceText: string;
   comparisonBadge: string;

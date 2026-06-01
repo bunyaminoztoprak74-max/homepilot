@@ -20,7 +20,7 @@ Product administration is JSON-only:
 - `data/guides.json`
 - `data/comparisons.json`
 
-Retailer URLs are stored per product in `data/products.json` as `amazonUrl`, `ebayUrl`, and `walmartUrl`. Amazon URLs use the `affiliater07c-20` Associates tracking ID.
+Retailer URLs are stored per product in `data/products.json` as `amazonUrl` and `ebayUrl`. Amazon URLs use the `affiliater07c-20` Associates tracking ID.
 
 ## Deploy
 
