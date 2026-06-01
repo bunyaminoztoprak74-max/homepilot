@@ -1108,5 +1108,745 @@
     ],
     "amazonUrl": "https://www.amazon.com/dp/B0DM2FCLHJ?tag=affiliater07c-20",
     "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Terra%20Kaffe%20TK-02%20Super%20Automatic%20Espresso%20Machine%20B0DM2FCLHJ"
+  },
+  {
+    "id": "irobot-roomba-694",
+    "category": "robot-vacuums",
+    "name": "iRobot Roomba 694 Robot Vacuum",
+    "asin": "B08SP5GYJP",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08SP5GYJP.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best basic Roomba",
+    "bestFor": "simple scheduled cleaning in apartments and smaller homes",
+    "features": [
+      "Wi-Fi control",
+      "Auto-adjust cleaning head",
+      "Self-charging",
+      "Voice assistant support"
+    ],
+    "pros": [
+      "Easy Roomba entry point",
+      "Good fit for simple layouts",
+      "Recognizable parts ecosystem"
+    ],
+    "cons": [
+      "No room mapping",
+      "No self-empty dock",
+      "Basic navigation"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best basic Roomba for simple scheduled cleaning in apartments and smaller homes.",
+    "whyPicked": "Easy Roomba entry point. Wi-Fi control and Auto-adjust cleaning head make it a strong fit for simple scheduled cleaning in apartments and smaller homes.",
+    "whoShouldBuy": "Choose it if you want simple scheduled cleaning in apartments and smaller homes and you value good fit for simple layouts.",
+    "whoShouldSkip": "Skip it if no room mapping or no self-empty dock.",
+    "keyTradeoffs": [
+      "No room mapping",
+      "No self-empty dock"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B08SP5GYJP?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=iRobot%20Roomba%20694%20Robot%20Vacuum%20B08SP5GYJP"
+  },
+  {
+    "id": "irobot-roomba-j7-plus",
+    "category": "robot-vacuums",
+    "name": "iRobot Roomba j7+ Self-Emptying Robot Vacuum",
+    "asin": "B094NYHTMF",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B094NYHTMF.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best obstacle-aware Roomba",
+    "bestFor": "homes that need object avoidance and self-emptying",
+    "features": [
+      "PrecisionVision navigation",
+      "Clean Base dock",
+      "Smart mapping",
+      "Obstacle avoidance"
+    ],
+    "pros": [
+      "Strong obstacle awareness",
+      "Self-empty dock reduces daily work",
+      "Useful smart maps"
+    ],
+    "cons": [
+      "Dock uses bags",
+      "Higher cost than basic robots",
+      "Mop is not included"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best obstacle-aware Roomba for homes that need object avoidance and self-emptying.",
+    "whyPicked": "Strong obstacle awareness. PrecisionVision navigation and Clean Base dock make it a strong fit for homes that need object avoidance and self-emptying.",
+    "whoShouldBuy": "Choose it if you want homes that need object avoidance and self-emptying and you value self-empty dock reduces daily work.",
+    "whoShouldSkip": "Skip it if dock uses bags or higher cost than basic robots.",
+    "keyTradeoffs": [
+      "Dock uses bags",
+      "Higher cost than basic robots"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B094NYHTMF?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=iRobot%20Roomba%20j7%2B%20Self-Emptying%20Robot%20Vacuum%20B094NYHTMF"
+  },
+  {
+    "id": "irobot-roomba-combo-j5-plus",
+    "category": "robot-vacuums",
+    "name": "iRobot Roomba Combo j5+ Self-Emptying Robot Vacuum and Mop",
+    "asin": "B0C415KQVD",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0C415KQVD.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best Roomba hybrid",
+    "bestFor": "buyers who want Roomba mapping with light mopping",
+    "features": [
+      "Vacuum and mop modes",
+      "Clean Base dock",
+      "Smart mapping",
+      "Obstacle avoidance"
+    ],
+    "pros": [
+      "Combines vacuuming and light mopping",
+      "Self-empty dock helps pet routines",
+      "Good app ecosystem"
+    ],
+    "cons": [
+      "Mopping is maintenance level",
+      "Dock uses bags",
+      "Needs pad management"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best Roomba hybrid for buyers who want roomba mapping with light mopping.",
+    "whyPicked": "Combines vacuuming and light mopping. Vacuum and mop modes and Clean Base dock make it a strong fit for buyers who want roomba mapping with light mopping.",
+    "whoShouldBuy": "Choose it if you want buyers who want roomba mapping with light mopping and you value self-empty dock helps pet routines.",
+    "whoShouldSkip": "Skip it if mopping is maintenance level or dock uses bags.",
+    "keyTradeoffs": [
+      "Mopping is maintenance level",
+      "Dock uses bags"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0C415KQVD?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=iRobot%20Roomba%20Combo%20j5%2B%20Self-Emptying%20Robot%20Vacuum%20and%20Mop%20B0C415KQVD"
+  },
+  {
+    "id": "eufy-l60-ses",
+    "category": "robot-vacuums",
+    "name": "eufy L60 Robot Vacuum with Self Empty Station",
+    "asin": "B0CD7VJ5ZV",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0CD7VJ5ZV.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best eufy self-empty value",
+    "bestFor": "buyers who want LiDAR mapping without a premium dock price",
+    "features": [
+      "Self-empty station",
+      "LiDAR mapping",
+      "Hair detangling technology",
+      "App zones"
+    ],
+    "pros": [
+      "Self-empty station at value positioning",
+      "Mapping helps repeatable routes",
+      "Good for hair-prone homes"
+    ],
+    "cons": [
+      "Dock still needs floor space",
+      "Mop is not the focus",
+      "App setup matters"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best eufy self-empty value for buyers who want lidar mapping without a premium dock price.",
+    "whyPicked": "Self-empty station at value positioning. Self-empty station and LiDAR mapping make it a strong fit for buyers who want lidar mapping without a premium dock price.",
+    "whoShouldBuy": "Choose it if you want buyers who want lidar mapping without a premium dock price and you value mapping helps repeatable routes.",
+    "whoShouldSkip": "Skip it if dock still needs floor space or mop is not the focus.",
+    "keyTradeoffs": [
+      "Dock still needs floor space",
+      "Mop is not the focus"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0CD7VJ5ZV?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=eufy%20L60%20Robot%20Vacuum%20with%20Self%20Empty%20Station%20B0CD7VJ5ZV"
+  },
+  {
+    "id": "roborock-q7-max-plus",
+    "category": "robot-vacuums",
+    "name": "roborock Q7 Max+ Robot Vacuum and Mop",
+    "asin": "B09NNWQV2S",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B09NNWQV2S.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best Roborock midrange dock",
+    "bestFor": "larger homes that want mapping, mopping, and auto-emptying",
+    "features": [
+      "Auto-empty dock",
+      "LiDAR navigation",
+      "Vacuum and mop",
+      "No-go zones"
+    ],
+    "pros": [
+      "Strong mapping feature set",
+      "Auto-empty dock reduces maintenance",
+      "Useful no-go zones"
+    ],
+    "cons": [
+      "Dock uses bags",
+      "Mopping is light maintenance",
+      "More setup than simple bots"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best Roborock midrange dock for larger homes that want mapping, mopping, and auto-emptying.",
+    "whyPicked": "Strong mapping feature set. Auto-empty dock and LiDAR navigation make it a strong fit for larger homes that want mapping, mopping, and auto-emptying.",
+    "whoShouldBuy": "Choose it if you want larger homes that want mapping, mopping, and auto-emptying and you value auto-empty dock reduces maintenance.",
+    "whoShouldSkip": "Skip it if dock uses bags or mopping is light maintenance.",
+    "keyTradeoffs": [
+      "Dock uses bags",
+      "Mopping is light maintenance"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B09NNWQV2S?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=roborock%20Q7%20Max%2B%20Robot%20Vacuum%20and%20Mop%20B09NNWQV2S"
+  },
+  {
+    "id": "roborock-s8-pro-ultra",
+    "category": "robot-vacuums",
+    "name": "roborock S8 Pro Ultra Robot Vacuum and Mop",
+    "asin": "B0BSF1B7QY",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0BSF1B7QY.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best premium robot system",
+    "bestFor": "hands-off vacuuming and mopping with advanced dock automation",
+    "features": [
+      "RockDock Ultra",
+      "Dual rubber brushes",
+      "VibraRise mopping",
+      "Reactive obstacle avoidance"
+    ],
+    "pros": [
+      "Advanced dock automation",
+      "Strong premium feature set",
+      "Good fit for mixed floors"
+    ],
+    "cons": [
+      "Large dock footprint",
+      "Premium price tier",
+      "More maintenance parts"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best premium robot system for hands-off vacuuming and mopping with advanced dock automation.",
+    "whyPicked": "Advanced dock automation. RockDock Ultra and Dual rubber brushes make it a strong fit for hands-off vacuuming and mopping with advanced dock automation.",
+    "whoShouldBuy": "Choose it if you want hands-off vacuuming and mopping with advanced dock automation and you value strong premium feature set.",
+    "whoShouldSkip": "Skip it if large dock footprint or premium price tier.",
+    "keyTradeoffs": [
+      "Large dock footprint",
+      "Premium price tier"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0BSF1B7QY?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=roborock%20S8%20Pro%20Ultra%20Robot%20Vacuum%20and%20Mop%20B0BSF1B7QY"
+  },
+  {
+    "id": "dreame-l10s-ultra",
+    "category": "robot-vacuums",
+    "name": "Dreame L10s Ultra Robot Vacuum and Mop",
+    "asin": "B0B7JML1N5",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0B7JML1N5.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best automated mop dock alternative",
+    "bestFor": "buyers comparing premium vacuum-and-mop docks",
+    "features": [
+      "Auto-empty dock",
+      "Mop washing",
+      "AI obstacle recognition",
+      "Mapping control"
+    ],
+    "pros": [
+      "Automates more mop maintenance",
+      "Strong dock feature set",
+      "Good for hard-floor routines"
+    ],
+    "cons": [
+      "Large base station",
+      "Consumables add cost",
+      "Setup can feel complex"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best automated mop dock alternative for buyers comparing premium vacuum-and-mop docks.",
+    "whyPicked": "Automates more mop maintenance. Auto-empty dock and Mop washing make it a strong fit for buyers comparing premium vacuum-and-mop docks.",
+    "whoShouldBuy": "Choose it if you want buyers comparing premium vacuum-and-mop docks and you value strong dock feature set.",
+    "whoShouldSkip": "Skip it if large base station or consumables add cost.",
+    "keyTradeoffs": [
+      "Large base station",
+      "Consumables add cost"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0B7JML1N5?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Dreame%20L10s%20Ultra%20Robot%20Vacuum%20and%20Mop%20B0B7JML1N5"
+  },
+  {
+    "id": "ninja-dz401",
+    "category": "air-fryers",
+    "name": "Ninja DZ401 Foodi 10 Quart DualZone XL Air Fryer",
+    "asin": "B096X9LGJ1",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B096X9LGJ1.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best XL dual basket",
+    "bestFor": "families cooking large mains and sides together",
+    "features": [
+      "10-quart capacity",
+      "Two independent baskets",
+      "Smart Finish",
+      "Match Cook"
+    ],
+    "pros": [
+      "Large dual-zone capacity",
+      "Great for family portions",
+      "Flexible synchronized cooking"
+    ],
+    "cons": [
+      "Wide counter footprint",
+      "More parts to wash",
+      "Overkill for singles"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best XL dual basket for families cooking large mains and sides together.",
+    "whyPicked": "Large dual-zone capacity. 10-quart capacity and Two independent baskets make it a strong fit for families cooking large mains and sides together.",
+    "whoShouldBuy": "Choose it if you want families cooking large mains and sides together and you value great for family portions.",
+    "whoShouldSkip": "Skip it if wide counter footprint or more parts to wash.",
+    "keyTradeoffs": [
+      "Wide counter footprint",
+      "More parts to wash"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B096X9LGJ1?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Ninja%20DZ401%20Foodi%2010%20Quart%20DualZone%20XL%20Air%20Fryer%20B096X9LGJ1"
+  },
+  {
+    "id": "cosori-dual-blaze",
+    "category": "air-fryers",
+    "name": "COSORI Dual Blaze 6.8 Quart Air Fryer",
+    "asin": "B0B7N6P6M1",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0B7N6P6M1.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best dual-heating basket",
+    "bestFor": "even cooking with less shaking",
+    "features": [
+      "Dual heating elements",
+      "6.8-quart basket",
+      "Smart controls",
+      "Nonstick basket"
+    ],
+    "pros": [
+      "Dual heating helps even results",
+      "Useful family capacity",
+      "Less shaking for many foods"
+    ],
+    "cons": [
+      "Single cooking zone",
+      "Large basket storage",
+      "Smart features may be unnecessary"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best dual-heating basket for even cooking with less shaking.",
+    "whyPicked": "Dual heating helps even results. Dual heating elements and 6.8-quart basket make it a strong fit for even cooking with less shaking.",
+    "whoShouldBuy": "Choose it if you want even cooking with less shaking and you value useful family capacity.",
+    "whoShouldSkip": "Skip it if single cooking zone or large basket storage.",
+    "keyTradeoffs": [
+      "Single cooking zone",
+      "Large basket storage"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0B7N6P6M1?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=COSORI%20Dual%20Blaze%206.8%20Quart%20Air%20Fryer%20B0B7N6P6M1"
+  },
+  {
+    "id": "instant-vortex-mini",
+    "category": "air-fryers",
+    "name": "Instant Vortex 4-in-1 Mini Air Fryer",
+    "asin": "B08YS2ZZYC",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08YS2ZZYC.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best mini air fryer",
+    "bestFor": "dorms, small kitchens, and one-person portions",
+    "features": [
+      "2-quart capacity",
+      "Four cooking functions",
+      "Compact footprint",
+      "Simple controls"
+    ],
+    "pros": [
+      "Very small footprint",
+      "Easy for snacks and sides",
+      "Simple controls"
+    ],
+    "cons": [
+      "Too small for families",
+      "Limited batch size",
+      "Single zone only"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best mini air fryer for dorms, small kitchens, and one-person portions.",
+    "whyPicked": "Very small footprint. 2-quart capacity and Four cooking functions make it a strong fit for dorms, small kitchens, and one-person portions.",
+    "whoShouldBuy": "Choose it if you want dorms, small kitchens, and one-person portions and you value easy for snacks and sides.",
+    "whoShouldSkip": "Skip it if too small for families or limited batch size.",
+    "keyTradeoffs": [
+      "Too small for families",
+      "Limited batch size"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B08YS2ZZYC?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Instant%20Vortex%204-in-1%20Mini%20Air%20Fryer%20B08YS2ZZYC"
+  },
+  {
+    "id": "philips-premium-xxl",
+    "category": "air-fryers",
+    "name": "Philips Premium Airfryer XXL",
+    "asin": "B07G3V9K17",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07G3V9K17.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best premium basket fryer",
+    "bestFor": "buyers who want a premium single-basket air fryer",
+    "features": [
+      "XXL capacity",
+      "Fat removal technology",
+      "Preset programs",
+      "Dishwasher-safe parts"
+    ],
+    "pros": [
+      "Premium build positioning",
+      "Large usable capacity",
+      "Simple everyday workflow"
+    ],
+    "cons": [
+      "Larger footprint",
+      "Premium price tier",
+      "Single basket only"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best premium basket fryer for buyers who want a premium single-basket air fryer.",
+    "whyPicked": "Premium build positioning. XXL capacity and Fat removal technology make it a strong fit for buyers who want a premium single-basket air fryer.",
+    "whoShouldBuy": "Choose it if you want buyers who want a premium single-basket air fryer and you value large usable capacity.",
+    "whoShouldSkip": "Skip it if larger footprint or premium price tier.",
+    "keyTradeoffs": [
+      "Larger footprint",
+      "Premium price tier"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B07G3V9K17?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Philips%20Premium%20Airfryer%20XXL%20B07G3V9K17"
+  },
+  {
+    "id": "breville-smart-oven-air-pro",
+    "category": "air-fryers",
+    "name": "Breville Smart Oven Air Fryer Pro",
+    "asin": "B01N5UPTZS",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01N5UPTZS.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best toaster oven alternative",
+    "bestFor": "cooks who want air frying plus oven-style versatility",
+    "features": [
+      "Countertop oven format",
+      "Air fry setting",
+      "Convection cooking",
+      "Multiple rack positions"
+    ],
+    "pros": [
+      "More versatile than basket fryers",
+      "Wide cooking area",
+      "Good for toast and sheet-pan foods"
+    ],
+    "cons": [
+      "Takes more counter space",
+      "Slower than compact baskets",
+      "More expensive than basic fryers"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best toaster oven alternative for cooks who want air frying plus oven-style versatility.",
+    "whyPicked": "More versatile than basket fryers. Countertop oven format and Air fry setting make it a strong fit for cooks who want air frying plus oven-style versatility.",
+    "whoShouldBuy": "Choose it if you want cooks who want air frying plus oven-style versatility and you value wide cooking area.",
+    "whoShouldSkip": "Skip it if takes more counter space or slower than compact baskets.",
+    "keyTradeoffs": [
+      "Takes more counter space",
+      "Slower than compact baskets"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B01N5UPTZS?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Breville%20Smart%20Oven%20Air%20Fryer%20Pro%20B01N5UPTZS"
+  },
+  {
+    "id": "cuisinart-toa-60",
+    "category": "air-fryers",
+    "name": "Cuisinart TOA-60 Air Fryer Toaster Oven",
+    "asin": "B01K0W8LTE",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B01K0W8LTE.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best classic toaster oven air fryer",
+    "bestFor": "buyers who want knobs, toast, and air frying in one appliance",
+    "features": [
+      "Air fryer toaster oven",
+      "Convection bake",
+      "Toast function",
+      "60-minute timer"
+    ],
+    "pros": [
+      "Combines toast and air frying",
+      "Simple knob controls",
+      "Useful oven-style footprint"
+    ],
+    "cons": [
+      "Not as compact as baskets",
+      "Manual controls need attention",
+      "Basket cleanup still matters"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best classic toaster oven air fryer for buyers who want knobs, toast, and air frying in one appliance.",
+    "whyPicked": "Combines toast and air frying. Air fryer toaster oven and Convection bake make it a strong fit for buyers who want knobs, toast, and air frying in one appliance.",
+    "whoShouldBuy": "Choose it if you want buyers who want knobs, toast, and air frying in one appliance and you value simple knob controls.",
+    "whoShouldSkip": "Skip it if not as compact as baskets or manual controls need attention.",
+    "keyTradeoffs": [
+      "Not as compact as baskets",
+      "Manual controls need attention"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B01K0W8LTE?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Cuisinart%20TOA-60%20Air%20Fryer%20Toaster%20Oven%20B01K0W8LTE"
+  },
+  {
+    "id": "chefman-6qt-digital",
+    "category": "air-fryers",
+    "name": "Chefman 6 Quart Digital Air Fryer",
+    "asin": "B08DL8WH7R",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B08DL8WH7R.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best simple digital value",
+    "bestFor": "budget-focused cooks who want a mid-size basket",
+    "features": [
+      "6-quart basket",
+      "Digital controls",
+      "Shake reminder",
+      "Nonstick basket"
+    ],
+    "pros": [
+      "Straightforward digital controls",
+      "Good everyday capacity",
+      "Simple basket workflow"
+    ],
+    "cons": [
+      "Single basket only",
+      "Less premium feel",
+      "No window"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best simple digital value for budget-focused cooks who want a mid-size basket.",
+    "whyPicked": "Straightforward digital controls. 6-quart basket and Digital controls make it a strong fit for budget-focused cooks who want a mid-size basket.",
+    "whoShouldBuy": "Choose it if you want budget-focused cooks who want a mid-size basket and you value good everyday capacity.",
+    "whoShouldSkip": "Skip it if single basket only or less premium feel.",
+    "keyTradeoffs": [
+      "Single basket only",
+      "Less premium feel"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B08DL8WH7R?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Chefman%206%20Quart%20Digital%20Air%20Fryer%20B08DL8WH7R"
+  },
+  {
+    "id": "delonghi-dedica",
+    "category": "espresso-machines",
+    "name": "De'Longhi Dedica Espresso Machine EC680M",
+    "asin": "B00KA8YC6A",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00KA8YC6A.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best slim espresso machine",
+    "bestFor": "small kitchens that still want a real portafilter machine",
+    "features": [
+      "Slim 6-inch width",
+      "15-bar pump",
+      "Manual milk frother",
+      "Thermoblock heating"
+    ],
+    "pros": [
+      "Very narrow footprint",
+      "Good beginner-friendly controls",
+      "Works for small counters"
+    ],
+    "cons": [
+      "Needs a capable grinder",
+      "Small drip tray",
+      "Manual workflow required"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best slim espresso machine for small kitchens that still want a real portafilter machine.",
+    "whyPicked": "Very narrow footprint. Slim 6-inch width and 15-bar pump make it a strong fit for small kitchens that still want a real portafilter machine.",
+    "whoShouldBuy": "Choose it if you want small kitchens that still want a real portafilter machine and you value good beginner-friendly controls.",
+    "whoShouldSkip": "Skip it if needs a capable grinder or small drip tray.",
+    "keyTradeoffs": [
+      "Needs a capable grinder",
+      "Small drip tray"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B00KA8YC6A?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=De'Longhi%20Dedica%20Espresso%20Machine%20EC680M%20B00KA8YC6A"
+  },
+  {
+    "id": "gaggia-classic-pro",
+    "category": "espresso-machines",
+    "name": "Gaggia Classic Pro Espresso Machine",
+    "asin": "B07RQ3NL76",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07RQ3NL76.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best enthusiast starter",
+    "bestFor": "beginners who want a classic upgrade path",
+    "features": [
+      "Commercial-style portafilter",
+      "Steam wand",
+      "Semi-automatic controls",
+      "Stainless housing"
+    ],
+    "pros": [
+      "Strong enthusiast reputation",
+      "Good upgrade ecosystem",
+      "Manual control for learning"
+    ],
+    "cons": [
+      "Requires grinder and practice",
+      "No built-in grinder",
+      "More hands-on cleanup"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best enthusiast starter for beginners who want a classic upgrade path.",
+    "whyPicked": "Strong enthusiast reputation. Commercial-style portafilter and Steam wand make it a strong fit for beginners who want a classic upgrade path.",
+    "whoShouldBuy": "Choose it if you want beginners who want a classic upgrade path and you value good upgrade ecosystem.",
+    "whoShouldSkip": "Skip it if requires grinder and practice or no built-in grinder.",
+    "keyTradeoffs": [
+      "Requires grinder and practice",
+      "No built-in grinder"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B07RQ3NL76?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Gaggia%20Classic%20Pro%20Espresso%20Machine%20B07RQ3NL76"
+  },
+  {
+    "id": "rancilio-silvia",
+    "category": "espresso-machines",
+    "name": "Rancilio Silvia Espresso Machine",
+    "asin": "B00H1OUSD2",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B00H1OUSD2.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best durable single boiler",
+    "bestFor": "hands-on espresso learners who want a sturdy machine",
+    "features": [
+      "Single boiler",
+      "Commercial group head",
+      "Steam wand",
+      "Stainless steel body"
+    ],
+    "pros": [
+      "Durable classic design",
+      "Good for skill building",
+      "Strong steaming potential"
+    ],
+    "cons": [
+      "Learning curve is real",
+      "Needs separate grinder",
+      "Temperature management matters"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best durable single boiler for hands-on espresso learners who want a sturdy machine.",
+    "whyPicked": "Durable classic design. Single boiler and Commercial group head make it a strong fit for hands-on espresso learners who want a sturdy machine.",
+    "whoShouldBuy": "Choose it if you want hands-on espresso learners who want a sturdy machine and you value good for skill building.",
+    "whoShouldSkip": "Skip it if learning curve is real or needs separate grinder.",
+    "keyTradeoffs": [
+      "Learning curve is real",
+      "Needs separate grinder"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B00H1OUSD2?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Rancilio%20Silvia%20Espresso%20Machine%20B00H1OUSD2"
+  },
+  {
+    "id": "breville-barista-touch",
+    "category": "espresso-machines",
+    "name": "Breville Barista Touch Espresso Machine BES880BSS",
+    "asin": "B078WMLXXG",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B078WMLXXG.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best assisted all-in-one",
+    "bestFor": "buyers who want grinder, touchscreen, and milk automation",
+    "features": [
+      "Built-in grinder",
+      "Touchscreen workflow",
+      "Automatic milk texturing",
+      "ThermoJet heating"
+    ],
+    "pros": [
+      "Guided touchscreen workflow",
+      "Built-in grinder saves space",
+      "Helpful milk automation"
+    ],
+    "cons": [
+      "Integrated grinder limits upgrades",
+      "Large counter footprint",
+      "More expensive than compact machines"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best assisted all-in-one for buyers who want grinder, touchscreen, and milk automation.",
+    "whyPicked": "Guided touchscreen workflow. Built-in grinder and Touchscreen workflow make it a strong fit for buyers who want grinder, touchscreen, and milk automation.",
+    "whoShouldBuy": "Choose it if you want buyers who want grinder, touchscreen, and milk automation and you value built-in grinder saves space.",
+    "whoShouldSkip": "Skip it if integrated grinder limits upgrades or large counter footprint.",
+    "keyTradeoffs": [
+      "Integrated grinder limits upgrades",
+      "Large counter footprint"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B078WMLXXG?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Breville%20Barista%20Touch%20Espresso%20Machine%20BES880BSS%20B078WMLXXG"
+  },
+  {
+    "id": "philips-3200-lattego",
+    "category": "espresso-machines",
+    "name": "Philips 3200 Series Fully Automatic Espresso Machine with LatteGo",
+    "asin": "B07VDVDHZ2",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B07VDVDHZ2.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best superautomatic convenience",
+    "bestFor": "milk drinkers who want one-touch coffee drinks",
+    "features": [
+      "LatteGo milk system",
+      "Built-in grinder",
+      "One-touch drinks",
+      "AquaClean filter"
+    ],
+    "pros": [
+      "Very convenient daily workflow",
+      "Integrated grinder and milk system",
+      "Good for multiple users"
+    ],
+    "cons": [
+      "Less manual control",
+      "Large appliance footprint",
+      "Milk system still needs cleaning"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best superautomatic convenience for milk drinkers who want one-touch coffee drinks.",
+    "whyPicked": "Very convenient daily workflow. LatteGo milk system and Built-in grinder make it a strong fit for milk drinkers who want one-touch coffee drinks.",
+    "whoShouldBuy": "Choose it if you want milk drinkers who want one-touch coffee drinks and you value integrated grinder and milk system.",
+    "whoShouldSkip": "Skip it if less manual control or large appliance footprint.",
+    "keyTradeoffs": [
+      "Less manual control",
+      "Large appliance footprint"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B07VDVDHZ2?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Philips%203200%20Series%20Fully%20Automatic%20Espresso%20Machine%20with%20LatteGo%20B07VDVDHZ2"
+  },
+  {
+    "id": "delonghi-magnifica-evo",
+    "category": "espresso-machines",
+    "name": "De'Longhi Magnifica Evo Automatic Espresso Machine",
+    "asin": "B0B38KRTVZ",
+    "image": "https://images-na.ssl-images-amazon.com/images/P/B0B38KRTVZ.01._SL1500_.jpg",
+    "priceText": "See latest pricing on Amazon",
+    "comparisonBadge": "Best automatic espresso value",
+    "bestFor": "buyers who want push-button espresso without portafilter prep",
+    "features": [
+      "Built-in grinder",
+      "One-touch recipes",
+      "Automatic brewing",
+      "Removable brew unit"
+    ],
+    "pros": [
+      "Push-button convenience",
+      "Built-in grinder simplifies setup",
+      "Good for low-effort routines"
+    ],
+    "cons": [
+      "Less control than semi-automatic",
+      "Larger counter footprint",
+      "Cleaning schedule matters"
+    ],
+    "affiliateNote": "See latest pricing on Amazon",
+    "editorialSummary": "Best automatic espresso value for buyers who want push-button espresso without portafilter prep.",
+    "whyPicked": "Push-button convenience. Built-in grinder and One-touch recipes make it a strong fit for buyers who want push-button espresso without portafilter prep.",
+    "whoShouldBuy": "Choose it if you want buyers who want push-button espresso without portafilter prep and you value built-in grinder simplifies setup.",
+    "whoShouldSkip": "Skip it if less control than semi-automatic or larger counter footprint.",
+    "keyTradeoffs": [
+      "Less control than semi-automatic",
+      "Larger counter footprint"
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0B38KRTVZ?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=De'Longhi%20Magnifica%20Evo%20Automatic%20Espresso%20Machine%20B0B38KRTVZ"
   }
 ]

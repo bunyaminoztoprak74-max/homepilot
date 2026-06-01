@@ -45,6 +45,29 @@ export type Guide = {
   faq: FAQItem[];
 };
 
+export type Article = {
+  slug: string;
+  title: string;
+  category: string;
+  description: string;
+  updatedAt: string;
+  author: string;
+  relatedProducts: string[];
+  body: string[];
+  internalLinks: { label: string; href: string }[];
+  faq: FAQItem[];
+  sortOrder: number;
+};
+
+export type SeoPage = {
+  slug: string;
+  title: string;
+  category: string;
+  productIds: string[];
+  description: string;
+  sections: string[];
+};
+
 export type FAQItem = {
   question: string;
   answer: string;

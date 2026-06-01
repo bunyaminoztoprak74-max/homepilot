@@ -1,6 +1,8 @@
 import type { MetadataRoute } from "next";
 import categories from "@/data/categories.json";
 import guides from "@/data/guides.json";
+import articles from "@/data/articles.json";
+import seoPages from "@/data/seo-pages.json";
 import { siteUrl } from "@/lib/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -27,6 +29,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: now,
       changeFrequency: "monthly" as const,
       priority: 0.7
+    })),
+    ...seoPages.map((page) => ({
+      url: `${siteUrl}/${page.slug}`,
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.75
+    })),
+    { url: `${siteUrl}/blog`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
+    ...articles.map((article) => ({
+      url: `${siteUrl}/blog/${article.slug}`,
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.55
     }))
   ];
 }

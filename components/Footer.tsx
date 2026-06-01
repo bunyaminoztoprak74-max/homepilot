@@ -29,6 +29,7 @@ export function Footer() {
             <h2 className="text-sm font-semibold">Company</h2>
             {[
               ["About", "/about"],
+              ["Blog", "/blog"],
               ["Contact", "/contact"],
               ["Affiliate Disclosure", "/affiliate-disclosure"],
               ["Editorial Process", "/editorial-process"],

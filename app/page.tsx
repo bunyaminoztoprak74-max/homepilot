@@ -3,6 +3,7 @@ import Image from "next/image";
 import type { Metadata } from "next";
 import categories from "@/data/categories.json";
 import guides from "@/data/guides.json";
+import articles from "@/data/articles.json";
 import { CategoryCard } from "@/components/CategoryCard";
 import { FAQ } from "@/components/FAQ";
 import { GuideCard } from "@/components/GuideCard";
@@ -16,6 +17,7 @@ import { products } from "@/lib/content";
 import type { Product } from "@/lib/types";
 
 const featuredGuides = guides.slice(0, 6);
+const featuredArticles = articles.slice(0, 6);
 const editorPicks = [
   products.find((product) => product.id === "cosori-turboblaze-6qt"),
   products.find((product) => product.id === "shark-av2511ae"),
@@ -209,6 +211,25 @@ export default function Home() {
               <GuideCard key={guide.slug} guide={guide} />
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
+        <SectionHeader eyebrow="Blog" title="SEO articles that answer practical buying questions." />
+        <div className="mt-8 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+          {featuredArticles.map((article) => (
+            <Link
+              key={article.slug}
+              href={`/blog/${article.slug}`}
+              className="rounded-lg border border-neutral-200 bg-white p-6 shadow-sm transition hover:-translate-y-1 hover:shadow-lg"
+            >
+              <p className="text-xs font-semibold uppercase tracking-[0.16em] text-neutral-500">
+                {article.category.replace("-", " ")}
+              </p>
+              <h3 className="mt-3 text-xl font-semibold tracking-tight text-neutral-950">{article.title}</h3>
+              <p className="mt-3 text-sm leading-6 text-neutral-600">{article.description}</p>
+            </Link>
+          ))}
         </div>
       </section>
 

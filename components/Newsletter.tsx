@@ -4,9 +4,9 @@ export function Newsletter() {
       <div className="mx-auto grid max-w-7xl gap-6 px-5 py-12 text-white sm:px-6 md:grid-cols-[1fr_auto] md:items-center lg:px-8">
         <div>
           <p className="text-sm font-semibold uppercase tracking-[0.18em] text-neutral-400">Newsletter</p>
-          <h2 className="mt-3 text-3xl font-semibold tracking-tight">Get cleaner buying decisions.</h2>
+          <h2 className="mt-3 text-3xl font-semibold tracking-tight">Get weekly home product deals</h2>
           <p className="mt-3 max-w-2xl text-sm leading-6 text-neutral-300">
-            Join occasional updates for new buying guides, product category refreshes, and practical home research notes.
+            Join weekly updates for buying guides, comparison refreshes, and practical deal-check reminders.
           </p>
         </div>
         <form className="flex w-full max-w-md gap-2" action="#">
