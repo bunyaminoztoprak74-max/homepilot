@@ -1,14 +1,49 @@
 import Link from "next/link";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
+import { JsonLd } from "@/components/JsonLd";
 import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
+import { siteUrl } from "@/lib/content";
 import type { Product, SeoPage } from "@/lib/types";
 
 export function SeoIntentPage({ page, products }: { page: SeoPage; products: Product[] }) {
   return (
     <main>
       <ProductSchema products={products} />
+      <JsonLd
+        data={[
+          {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            headline: page.title,
+            description: page.description,
+            url: `${siteUrl}/${page.slug}`,
+            author: { "@type": "Organization", name: "HomePilot Editorial Team" },
+            publisher: { "@type": "Organization", name: "HomePilot" },
+            datePublished: "2026-06-01",
+            dateModified: "2026-06-01"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              {
+                "@type": "ListItem",
+                position: 1,
+                name: "Home",
+                item: siteUrl
+              },
+              {
+                "@type": "ListItem",
+                position: 2,
+                name: page.title,
+                item: `${siteUrl}/${page.slug}`
+              }
+            ]
+          }
+        ]}
+      />
       <section className="border-b border-neutral-200 bg-neutral-50">
         <div className="mx-auto max-w-7xl px-5 py-12 sm:px-6 lg:px-8">
           <nav className="text-sm text-neutral-500" aria-label="Breadcrumb">

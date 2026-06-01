@@ -2,21 +2,21 @@ import type { Metadata } from "next";
 import { SeoIntentPage } from "@/components/SeoIntentPage";
 import { getProductsByIds, getSeoPage } from "@/lib/content";
 
-const page = getSeoPage("best-robot-vacuums-for-pet-hair");
+const page = getSeoPage("best-espresso-grinders-for-home");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+  title: `Best Espresso Grinders for Home | HomePilot`,
   description: page?.description,
-  alternates: { canonical: "/best-robot-vacuums-for-pet-hair" },
+  alternates: { canonical: "/best-espresso-grinders-for-home" },
   openGraph: {
-    title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+    title: `Best Espresso Grinders for Home | HomePilot`,
     description: page?.description,
-    url: `https://homepilot-iota.vercel.app/best-robot-vacuums-for-pet-hair`,
+    url: `https://homepilot-iota.vercel.app/best-espresso-grinders-for-home`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+    title: `Best Espresso Grinders for Home | HomePilot`,
     description: page?.description
   }
 };

@@ -2,21 +2,21 @@ import type { Metadata } from "next";
 import { SeoIntentPage } from "@/components/SeoIntentPage";
 import { getProductsByIds, getSeoPage } from "@/lib/content";
 
-const page = getSeoPage("best-robot-vacuums-for-pet-hair");
+const page = getSeoPage("best-espresso-machines-under-1000");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+  title: `Best Espresso Machines Under $1000 | HomePilot`,
   description: page?.description,
-  alternates: { canonical: "/best-robot-vacuums-for-pet-hair" },
+  alternates: { canonical: "/best-espresso-machines-under-1000" },
   openGraph: {
-    title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+    title: `Best Espresso Machines Under $1000 | HomePilot`,
     description: page?.description,
-    url: `https://homepilot-iota.vercel.app/best-robot-vacuums-for-pet-hair`,
+    url: `https://homepilot-iota.vercel.app/best-espresso-machines-under-1000`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+    title: `Best Espresso Machines Under $1000 | HomePilot`,
     description: page?.description
   }
 };

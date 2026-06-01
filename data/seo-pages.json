@@ -5,17 +5,19 @@
     "category": "robot-vacuums",
     "productIds": [
       "shark-av2511ae",
+      "roborock-q5-pro",
       "shark-rv2310ae",
-      "irobot-roomba-j7-plus",
-      "eufy-l60-ses",
-      "roborock-q7-max-plus",
-      "roborock-s8-pro-ultra"
+      "eufy-11s-max",
+      "shark-powerdetect-av2820s",
+      "roborock-qrevo-qv35a"
     ],
-    "description": "Compare robot vacuums for pet hair without static prices, ratings, or review counts.",
+    "description": "Best Robot Vacuums for Pet Hair compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
     "sections": [
-      "Pet hair changes the robot vacuum decision because small dustbins fill quickly and tangled brushrolls create extra maintenance. Prioritize anti-tangle design, reliable mapping, and a dock if you want the robot to run often.",
-      "Self-empty models are especially useful for shedding pets, but the dock footprint and bag or filter cost should be part of the decision. Homes with pets should also check replacement brush and filter availability before buying.",
-      "Use this page as a shortlist, then check Amazon and eBay for current pricing, seller details, availability, and included accessories."
+      "Pet hair makes dustbin size, brush design, and filter maintenance more important than raw suction claims. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if shedding, tracked litter, or daily floor upkeep is the main problem. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Self-empty docks help, but they add footprint, bags, and another part of the system to maintain. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
     ]
   },
   {
@@ -23,17 +25,356 @@
     "title": "Best Robot Vacuums Under $300",
     "category": "robot-vacuums",
     "productIds": [
-      "eufy-11s-max",
-      "irobot-roomba-694",
+      "irobot-roomba-j7-plus",
+      "irobot-roomba-combo-j5-plus",
+      "eufy-l60-ses",
+      "roborock-q7-max-plus",
+      "roborock-s8-pro-ultra",
+      "dreame-l10s-ultra"
+    ],
+    "description": "Best Robot Vacuums Under $300 compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Budget robot vacuums are about choosing the right compromises while checking live retailer pricing. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you want useful maintenance cleaning without premium automation. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Expect fewer advanced dock features and verify whether mapping, app controls, and replacement parts fit your needs. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-self-emptying-robot-vacuums",
+    "title": "Best Self-Emptying Robot Vacuums",
+    "category": "robot-vacuums",
+    "productIds": [
       "roborock-q5-pro",
-      "shark-navigator-av2110s",
+      "shark-rv2310ae",
+      "eufy-11s-max",
+      "shark-powerdetect-av2820s",
+      "roborock-qrevo-qv35a",
+      "shark-av2110s"
+    ],
+    "description": "Best Self-Emptying Robot Vacuums compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Self-emptying docks reduce the most annoying robot vacuum chore: emptying a small bin after repeated runs. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if you want frequent scheduled cleaning with less daily attention. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Dock size, bags, noise during emptying, and filter access should be part of the decision. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-for-hardwood-floors",
+    "title": "Best Robot Vacuums for Hardwood Floors",
+    "category": "robot-vacuums",
+    "productIds": [
+      "shark-rv2310ae",
+      "eufy-11s-max",
+      "shark-powerdetect-av2820s",
+      "roborock-qrevo-qv35a",
+      "shark-av2110s",
+      "roborock-q10-s5-plus"
+    ],
+    "description": "Best Robot Vacuums for Hardwood Floors compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Hard floors reward robots with consistent navigation, gentle wheels, and dust pickup along edges. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if your home is mostly wood, laminate, vinyl, or tile. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Mopping can be useful, but water control and pad maintenance matter more than the word mop in the title. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-for-carpet",
+    "title": "Best Robot Vacuums for Carpet",
+    "category": "robot-vacuums",
+    "productIds": [
+      "eufy-11s-max",
+      "shark-powerdetect-av2820s",
+      "roborock-qrevo-qv35a",
+      "shark-av2110s",
+      "roborock-q10-s5-plus",
+      "irobot-roomba-105-autoempty"
+    ],
+    "description": "Best Robot Vacuums for Carpet compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Carpet cleaning depends on brush contact, navigation coverage, and how the robot handles hair and debris. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if rugs or carpeted rooms are a daily maintenance problem. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Thick rugs, cords, fringe, and thresholds can still require a cordless vacuum backup. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-for-apartments",
+    "title": "Best Robot Vacuums for Apartments",
+    "category": "robot-vacuums",
+    "productIds": [
+      "shark-powerdetect-av2820s",
+      "roborock-qrevo-qv35a",
+      "shark-av2110s",
+      "roborock-q10-s5-plus",
+      "irobot-roomba-105-autoempty",
+      "dreame-d20-plus"
+    ],
+    "description": "Best Robot Vacuums for Apartments compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Apartments need compact robots that avoid noise, clutter problems, and oversized docks. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if storage, neighbors, and simple daily cleaning matter most. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "A huge dock may be less helpful than a quiet, reliable robot that fits under furniture. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-for-large-homes",
+    "title": "Best Robot Vacuums for Large Homes",
+    "category": "robot-vacuums",
+    "productIds": [
+      "roborock-qrevo-qv35a",
+      "shark-av2110s",
+      "roborock-q10-s5-plus",
+      "irobot-roomba-105-autoempty",
+      "dreame-d20-plus",
+      "irobot-roomba-694"
+    ],
+    "description": "Best Robot Vacuums for Large Homes compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Large homes need reliable mapping, battery management, and predictable room-by-room coverage. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if your robot needs to clean multiple zones without constant rescues. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Premium navigation is useful only if the app workflow is easy enough to keep using. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-with-mop",
+    "title": "Best Robot Vacuums with Mop",
+    "category": "robot-vacuums",
+    "productIds": [
+      "shark-av2110s",
+      "roborock-q10-s5-plus",
+      "irobot-roomba-105-autoempty",
+      "dreame-d20-plus",
+      "irobot-roomba-694",
+      "irobot-roomba-j7-plus"
+    ],
+    "description": "Best Robot Vacuums with Mop compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Robot mop features range from light dust wiping to more automated pad washing systems. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if hard-floor maintenance is part of the job, not just carpet pickup. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Mopping adds water tanks, pads, drying, and more maintenance, so match the feature to your tolerance. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-with-lidar",
+    "title": "Best Robot Vacuums with LiDAR",
+    "category": "robot-vacuums",
+    "productIds": [
+      "roborock-q10-s5-plus",
+      "irobot-roomba-105-autoempty",
+      "dreame-d20-plus",
+      "irobot-roomba-694",
+      "irobot-roomba-j7-plus",
+      "irobot-roomba-combo-j5-plus"
+    ],
+    "description": "Best Robot Vacuums with LiDAR compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "LiDAR navigation helps robots map rooms consistently and clean in predictable paths. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if orderly room coverage and app maps matter more than the cheapest price. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "LiDAR towers may affect furniture clearance, so measure low couches and beds before buying. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-quiet-robot-vacuums",
+    "title": "Best Quiet Robot Vacuums",
+    "category": "robot-vacuums",
+    "productIds": [
+      "irobot-roomba-105-autoempty",
+      "dreame-d20-plus",
+      "irobot-roomba-694",
+      "irobot-roomba-j7-plus",
+      "irobot-roomba-combo-j5-plus",
+      "eufy-l60-ses"
+    ],
+    "description": "Best Quiet Robot Vacuums compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Quiet robot vacuums are useful in apartments, home offices, and homes with sleeping kids. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you care about cleaning while people are home. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Self-empty docks can still be loud for a short burst, even when the robot itself is reasonable. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-for-allergies",
+    "title": "Best Robot Vacuums for Allergies",
+    "category": "robot-vacuums",
+    "productIds": [
+      "dreame-d20-plus",
+      "irobot-roomba-694",
+      "irobot-roomba-j7-plus",
+      "irobot-roomba-combo-j5-plus",
+      "eufy-l60-ses",
+      "roborock-q7-max-plus"
+    ],
+    "description": "Best Robot Vacuums for Allergies compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Allergy-focused shopping should prioritize frequent cleaning, filter access, and sealed debris handling. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if dust, dander, and fine debris are the main reason for automation. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Confirm filter replacement availability and avoid models that are frustrating to empty cleanly. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-for-tile-floors",
+    "title": "Best Robot Vacuums for Tile Floors",
+    "category": "robot-vacuums",
+    "productIds": [
+      "irobot-roomba-694",
+      "irobot-roomba-j7-plus",
+      "irobot-roomba-combo-j5-plus",
+      "eufy-l60-ses",
+      "roborock-q7-max-plus",
+      "roborock-s8-pro-ultra"
+    ],
+    "description": "Best Robot Vacuums for Tile Floors compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Tile floors benefit from edge cleaning, debris pickup in grout lines, and optional light mopping. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if kitchens, bathrooms, or open tile areas need regular maintenance. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Mop pads can help with dust, but dried stains still need manual attention. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-for-low-furniture",
+    "title": "Best Robot Vacuums for Low Furniture",
+    "category": "robot-vacuums",
+    "productIds": [
+      "irobot-roomba-combo-j5-plus",
+      "eufy-l60-ses",
+      "roborock-q7-max-plus",
+      "roborock-s8-pro-ultra",
+      "dreame-l10s-ultra",
       "shark-av2511ae"
     ],
-    "description": "Budget robot vacuum picks and tradeoffs for shoppers comparing current retailer prices.",
+    "description": "Best Robot Vacuums for Low Furniture compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
     "sections": [
-      "Budget robot vacuums are about tradeoffs. You may give up premium docks, advanced obstacle avoidance, or deeper app controls, but you can still get useful maintenance cleaning in the right layout.",
-      "Look for the simplest product that solves your actual floor problem. Apartments and open hard-floor spaces often need less automation than multi-room pet homes.",
-      "HomePilot does not publish static prices. Use the retailer buttons to confirm whether a model is currently within your budget."
+      "Low furniture changes the decision because height can matter more than advanced features. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if beds, sofas, and cabinets trap dust where upright vacuums rarely reach. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Measure clearance before buying and remember that LiDAR towers can add height. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-without-wifi",
+    "title": "Best Robot Vacuums Without WiFi Dependence",
+    "category": "robot-vacuums",
+    "productIds": [
+      "eufy-l60-ses",
+      "roborock-q7-max-plus",
+      "roborock-s8-pro-ultra",
+      "dreame-l10s-ultra",
+      "shark-av2511ae",
+      "roborock-q5-pro"
+    ],
+    "description": "Best Robot Vacuums Without WiFi Dependence compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Some shoppers want a robot that can still do basic cleaning without a complex app routine. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if simple controls and low setup friction matter most. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "You may give up advanced maps, schedules, and room targeting when avoiding app-heavy systems. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-shark-robot-vacuums",
+    "title": "Best Shark Robot Vacuums",
+    "category": "robot-vacuums",
+    "productIds": [
+      "roborock-q7-max-plus",
+      "roborock-s8-pro-ultra",
+      "dreame-l10s-ultra",
+      "shark-av2511ae",
+      "roborock-q5-pro",
+      "shark-rv2310ae"
+    ],
+    "description": "Best Shark Robot Vacuums compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Shark robot vacuums often appeal to shoppers who want self-emptying features at competitive street prices. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if you are comparing Shark models against Roomba, Roborock, and eufy alternatives. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Model names can be confusing, so confirm dock type, navigation, and included accessories before buying. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-roomba-alternatives",
+    "title": "Best Roomba Alternatives",
+    "category": "robot-vacuums",
+    "productIds": [
+      "roborock-s8-pro-ultra",
+      "dreame-l10s-ultra",
+      "shark-av2511ae",
+      "roborock-q5-pro",
+      "shark-rv2310ae",
+      "eufy-11s-max"
+    ],
+    "description": "Best Roomba Alternatives compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Roomba is well known, but many homes may prefer alternative mapping, dock, or value options. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you want to compare non-Roomba choices before committing. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Alternatives can offer more features for the money, but app design and parts availability still matter. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-robot-vacuums-for-seniors",
+    "title": "Best Robot Vacuums for Seniors",
+    "category": "robot-vacuums",
+    "productIds": [
+      "dreame-l10s-ultra",
+      "shark-av2511ae",
+      "roborock-q5-pro",
+      "shark-rv2310ae",
+      "eufy-11s-max",
+      "shark-powerdetect-av2820s"
+    ],
+    "description": "Best Robot Vacuums for Seniors compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "A senior-friendly robot vacuum should reduce bending, setup stress, and daily floor chores. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if ease of use and low maintenance matter more than advanced tinkering. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Remote app control can help family members assist, but overly complex maps may become a barrier. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-under-100",
+    "title": "Best Air Fryers Under $100",
+    "category": "air-fryers",
+    "productIds": [
+      "cosori-turboblaze-6qt",
+      "ninja-af101",
+      "ninja-dz201",
+      "instant-vortex-plus-6qt",
+      "ninja-af141",
+      "cosori-pro-5qt"
+    ],
+    "description": "Best Air Fryers Under $100 compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Budget air fryers can be excellent for simple crisping if you verify live retailer pricing. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you want a practical first air fryer without paying for extra modes. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Capacity, cleaning, and basket shape matter more than a long preset menu. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
     ]
   },
   {
@@ -41,17 +382,335 @@
     "title": "Best Air Fryers for Small Kitchens",
     "category": "air-fryers",
     "productIds": [
-      "instant-vortex-mini",
+      "instant-versazone-9qt",
+      "chefman-turbofry-8qt",
+      "instant-vortex-clearcook",
+      "ninja-dz401",
+      "cosori-dual-blaze",
+      "instant-vortex-mini"
+    ],
+    "description": "Best Air Fryers for Small Kitchens compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Small kitchens need air fryers that earn their counter footprint. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if storage, counter depth, and easy cleanup are the main constraints. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Very small baskets are easy to store but may force batch cooking for families. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-for-families",
+    "title": "Best Air Fryers for Families",
+    "category": "air-fryers",
+    "productIds": [
       "ninja-af101",
+      "ninja-dz201",
+      "instant-vortex-plus-6qt",
       "ninja-af141",
       "cosori-pro-5qt",
+      "ninja-af181"
+    ],
+    "description": "Best Air Fryers for Families compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Families need capacity, predictable results, and simple cleanup more than novelty features. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if weeknight meals, snacks, and leftovers are the main jobs. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Large baskets take space, and dual-zone models require more planning to clean and store. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-dual-basket-air-fryers",
+    "title": "Best Dual Basket Air Fryers",
+    "category": "air-fryers",
+    "productIds": [
+      "ninja-dz201",
+      "instant-vortex-plus-6qt",
+      "ninja-af141",
+      "cosori-pro-5qt",
+      "ninja-af181",
+      "instant-versazone-9qt"
+    ],
+    "description": "Best Dual Basket Air Fryers compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Dual-basket air fryers help cook two foods with different timing or temperature needs. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if meals often include a main item and a side. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Two baskets add flexibility, but each basket may be smaller than one large single-zone drawer. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-large-capacity-air-fryers",
+    "title": "Best Large Capacity Air Fryers",
+    "category": "air-fryers",
+    "productIds": [
+      "instant-vortex-plus-6qt",
+      "ninja-af141",
+      "cosori-pro-5qt",
+      "ninja-af181",
+      "instant-versazone-9qt",
+      "chefman-turbofry-8qt"
+    ],
+    "description": "Best Large Capacity Air Fryers compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Large air fryers are useful when batch size matters more than compact storage. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you cook for several people or meal prep frequently. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Bigger appliances need more counter space, more washing space, and more careful storage. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-compact-air-fryers",
+    "title": "Best Compact Air Fryers",
+    "category": "air-fryers",
+    "productIds": [
+      "ninja-af141",
+      "cosori-pro-5qt",
+      "ninja-af181",
+      "instant-versazone-9qt",
+      "chefman-turbofry-8qt",
+      "instant-vortex-clearcook"
+    ],
+    "description": "Best Compact Air Fryers compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Compact air fryers are best when one or two portions are the normal use case. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if you cook in a dorm, apartment, RV, or small kitchen. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "A compact model may be faster to clean, but it can be limiting for frozen foods and family meals. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryer-toaster-ovens",
+    "title": "Best Air Fryer Toaster Ovens",
+    "category": "air-fryers",
+    "productIds": [
+      "cosori-pro-5qt",
+      "ninja-af181",
+      "instant-versazone-9qt",
+      "chefman-turbofry-8qt",
+      "instant-vortex-clearcook",
+      "ninja-dz401"
+    ],
+    "description": "Best Air Fryer Toaster Ovens compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Air fryer toaster ovens trade basket simplicity for rack space and multi-function cooking. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if toast, reheating, baking, and air frying should come from one appliance. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "They usually take more counter space and may be slower to clean than a drawer-style air fryer. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-for-chicken-wings",
+    "title": "Best Air Fryers for Chicken Wings",
+    "category": "air-fryers",
+    "productIds": [
+      "ninja-af181",
+      "instant-versazone-9qt",
+      "chefman-turbofry-8qt",
+      "instant-vortex-clearcook",
+      "ninja-dz401",
+      "cosori-dual-blaze"
+    ],
+    "description": "Best Air Fryers for Chicken Wings compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Chicken wings need airflow, enough surface area, and a basket that is easy to shake or turn. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if crispy snacks are the main reason you want an air fryer. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Crowding the basket reduces crisping, so capacity matters even for small households. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-for-frozen-food",
+    "title": "Best Air Fryers for Frozen Food",
+    "category": "air-fryers",
+    "productIds": [
+      "chefman-turbofry-8qt",
+      "instant-vortex-clearcook",
+      "ninja-dz401",
+      "cosori-dual-blaze",
+      "instant-vortex-mini",
+      "philips-premium-xxl"
+    ],
+    "description": "Best Air Fryers for Frozen Food compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Frozen foods are where many air fryers feel immediately useful. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if fries, nuggets, vegetables, and quick snacks are regular purchases. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Basket size and cleanup speed matter more than specialty presets for this use case. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-easy-clean-air-fryers",
+    "title": "Best Easy-Clean Air Fryers",
+    "category": "air-fryers",
+    "productIds": [
+      "instant-vortex-clearcook",
+      "ninja-dz401",
+      "cosori-dual-blaze",
+      "instant-vortex-mini",
+      "philips-premium-xxl",
+      "breville-smart-oven-air-pro"
+    ],
+    "description": "Best Easy-Clean Air Fryers compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "An easy-clean air fryer is more likely to become a weekly tool instead of a cabinet appliance. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if dishwasher-safe baskets, simple liners, and fewer crevices matter. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Glossy interiors and accessory racks can still require hand cleaning after greasy foods. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-for-beginners",
+    "title": "Best Air Fryers for Beginners",
+    "category": "air-fryers",
+    "productIds": [
+      "ninja-dz401",
+      "cosori-dual-blaze",
+      "instant-vortex-mini",
+      "philips-premium-xxl",
+      "breville-smart-oven-air-pro",
+      "cuisinart-toa-60"
+    ],
+    "description": "Best Air Fryers for Beginners compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Beginners need predictable controls, forgiving capacity, and a basket that is easy to wash. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if this is your first air fryer and you want low-friction cooking. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Avoid paying for complex modes unless you already know you will use them. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-for-meal-prep",
+    "title": "Best Air Fryers for Meal Prep",
+    "category": "air-fryers",
+    "productIds": [
+      "cosori-dual-blaze",
+      "instant-vortex-mini",
+      "philips-premium-xxl",
+      "breville-smart-oven-air-pro",
+      "cuisinart-toa-60",
+      "chefman-6qt-digital"
+    ],
+    "description": "Best Air Fryers for Meal Prep compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Meal prep air fryers need enough capacity and repeatable results for proteins and vegetables. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if you cook ahead for several days. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Batch cooking can be efficient, but cleanup and storage still decide whether the routine sticks. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-for-reheating-leftovers",
+    "title": "Best Air Fryers for Reheating Leftovers",
+    "category": "air-fryers",
+    "productIds": [
+      "instant-vortex-mini",
+      "philips-premium-xxl",
+      "breville-smart-oven-air-pro",
+      "cuisinart-toa-60",
+      "chefman-6qt-digital",
       "cosori-turboblaze-6qt"
     ],
-    "description": "Compact air fryer picks for apartments, small counters, and easy storage.",
+    "description": "Best Air Fryers for Reheating Leftovers compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
     "sections": [
-      "Small kitchens need air fryers that earn their footprint. Counter depth, cabinet clearance, basket size, and cleaning friction matter more than a long preset list.",
-      "A compact air fryer is best when it handles the foods you cook most often without dominating the counter. Singles and couples may prefer a smaller basket, while small families may need a mid-size model.",
-      "Check current Amazon and eBay listings for dimensions, return policy, and included accessories before buying."
+      "Air fryers can revive leftovers better than a microwave when crisp texture matters. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if pizza, fries, chicken, and roasted vegetables are common leftovers. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Very small baskets can reheat well, but they may not handle larger portions evenly. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-stainless-steel-air-fryers",
+    "title": "Best Stainless Steel Air Fryers",
+    "category": "air-fryers",
+    "productIds": [
+      "philips-premium-xxl",
+      "breville-smart-oven-air-pro",
+      "cuisinart-toa-60",
+      "chefman-6qt-digital",
+      "cosori-turboblaze-6qt",
+      "ninja-af101"
+    ],
+    "description": "Best Stainless Steel Air Fryers compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Stainless-style air fryers appeal to shoppers who want a cleaner counter look. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if design matters but you still want practical cooking performance. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Exterior finish should not distract from basket capacity, controls, and cleaning. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-for-apartments",
+    "title": "Best Air Fryers for Apartments",
+    "category": "air-fryers",
+    "productIds": [
+      "breville-smart-oven-air-pro",
+      "cuisinart-toa-60",
+      "chefman-6qt-digital",
+      "cosori-turboblaze-6qt",
+      "ninja-af101",
+      "ninja-dz201"
+    ],
+    "description": "Best Air Fryers for Apartments compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Apartment air fryers need compact storage, manageable noise, and quick cleanup. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if counter space and shared living constraints matter. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Large toaster-oven styles may be less convenient if storage is tight. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-for-two-people",
+    "title": "Best Air Fryers for Two People",
+    "category": "air-fryers",
+    "productIds": [
+      "cuisinart-toa-60",
+      "chefman-6qt-digital",
+      "cosori-turboblaze-6qt",
+      "ninja-af101",
+      "ninja-dz201",
+      "instant-vortex-plus-6qt"
+    ],
+    "description": "Best Air Fryers for Two People compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Two-person households need enough basket space without buying an oversized appliance. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if dinners, sides, and snacks are usually small batches. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "A mid-size basket is often the sweet spot when leftovers or guests occasionally matter. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-air-fryers-vs-convection-ovens",
+    "title": "Best Air Fryers vs Convection Ovens",
+    "category": "air-fryers",
+    "productIds": [
+      "chefman-6qt-digital",
+      "cosori-turboblaze-6qt",
+      "ninja-af101",
+      "ninja-dz201",
+      "instant-vortex-plus-6qt",
+      "ninja-af141"
+    ],
+    "description": "Best Air Fryers vs Convection Ovens compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Air fryer versus convection oven shopping is really about speed, space, and cleaning habits. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you are deciding whether a countertop air fryer is worth adding. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "A full oven handles larger batches, but a basket air fryer can be faster and easier for small portions. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
     ]
   },
   {
@@ -60,17 +719,19 @@
     "category": "espresso-machines",
     "productIds": [
       "breville-bambino",
-      "delonghi-dedica",
+      "breville-barista-express",
+      "baratza-encore-esp",
+      "ninja-luxe-cafe",
       "casabrews-cm5418",
-      "breville-bambino-plus",
-      "gaggia-classic-pro",
-      "ninja-luxe-cafe"
+      "breville-bambino-plus"
     ],
-    "description": "Beginner espresso machine picks for learning, milk drinks, and low-friction home coffee.",
+    "description": "Best Espresso Machines for Beginners compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
     "sections": [
-      "Beginners should prioritize repeatable workflow, grinder fit, cleaning, and milk routine. A forgiving machine that gets used every morning beats a complicated machine that only feels exciting while shopping.",
-      "If you want traditional espresso, leave budget for a capable grinder. If you want convenience, compare assisted and automatic workflows before buying a manual machine.",
-      "Use the retailer buttons to check current pricing and seller terms. HomePilot does not publish static prices or review counts."
+      "Beginner espresso machines should reduce workflow friction while leaving room to learn. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you want better home espresso without turning mornings into a hobby project. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "A capable grinder and simple cleaning routine matter as much as the machine itself. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
     ]
   },
   {
@@ -78,17 +739,314 @@
     "title": "Best Espresso Machines Under $500",
     "category": "espresso-machines",
     "productIds": [
-      "breville-bambino",
-      "delonghi-dedica",
+      "breville-barista-express",
+      "baratza-encore-esp",
+      "ninja-luxe-cafe",
       "casabrews-cm5418",
+      "breville-bambino-plus",
+      "delonghi-classic"
+    ],
+    "description": "Best Espresso Machines Under $500 compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Under-$500 espresso shopping requires live price checking because retailer pricing moves often. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if you want a practical machine while keeping the total setup controlled. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Manual steaming, smaller trays, and grinder limitations are common tradeoffs in this range. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-machines-for-lattes",
+    "title": "Best Espresso Machines for Lattes",
+    "category": "espresso-machines",
+    "productIds": [
+      "baratza-encore-esp",
+      "ninja-luxe-cafe",
+      "casabrews-cm5418",
+      "breville-bambino-plus",
+      "delonghi-classic",
+      "delonghi-stilosa"
+    ],
+    "description": "Best Espresso Machines for Lattes compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Latte-focused machines need consistent milk steaming and a workflow you will use daily. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if milk texture matters as much as espresso shots. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Automatic milk systems are convenient, but cleaning and part maintenance are part of the deal. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-machines-for-cappuccinos",
+    "title": "Best Espresso Machines for Cappuccinos",
+    "category": "espresso-machines",
+    "productIds": [
+      "ninja-luxe-cafe",
+      "casabrews-cm5418",
+      "breville-bambino-plus",
+      "delonghi-classic",
       "delonghi-stilosa",
+      "breville-bambino-baratza-bundle"
+    ],
+    "description": "Best Espresso Machines for Cappuccinos compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Cappuccino shoppers should prioritize steam power, pitcher control, and repeatable shot prep. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if you want dense milk foam and a traditional cafe-style routine. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Small machines can work well, but temperature recovery and wand design affect daily use. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-machines-with-grinder",
+    "title": "Best Espresso Machines with Grinder",
+    "category": "espresso-machines",
+    "productIds": [
+      "casabrews-cm5418",
+      "breville-bambino-plus",
+      "delonghi-classic",
+      "delonghi-stilosa",
+      "breville-bambino-baratza-bundle",
+      "terra-kaffe-tk02"
+    ],
+    "description": "Best Espresso Machines with Grinder compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Built-in grinders simplify the counter setup and reduce the number of separate purchases. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you want an all-in-one espresso station. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Integrated grinders save space, but separate grinders can be easier to upgrade later. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-automatic-espresso-machines",
+    "title": "Best Automatic Espresso Machines",
+    "category": "espresso-machines",
+    "productIds": [
+      "breville-bambino-plus",
+      "delonghi-classic",
+      "delonghi-stilosa",
+      "breville-bambino-baratza-bundle",
+      "terra-kaffe-tk02",
+      "delonghi-dedica"
+    ],
+    "description": "Best Automatic Espresso Machines compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Automatic espresso machines are about convenience, consistency, and simple drink routines. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if push-button coffee matters more than manual control. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Cleaning cycles, milk system maintenance, and bean hopper access should be checked before buying. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-manual-espresso-machines",
+    "title": "Best Manual Espresso Machines",
+    "category": "espresso-machines",
+    "productIds": [
+      "delonghi-classic",
+      "delonghi-stilosa",
+      "breville-bambino-baratza-bundle",
+      "terra-kaffe-tk02",
+      "delonghi-dedica",
       "gaggia-classic-pro"
     ],
-    "description": "Espresso machine picks for shoppers comparing current prices under a flexible budget ceiling.",
+    "description": "Best Manual Espresso Machines compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
     "sections": [
-      "Under-budget espresso shopping requires live price checking because retailer pricing changes. Instead of publishing a static price, HomePilot focuses on the features that matter if a product is currently within budget.",
-      "Compact machines can be excellent if paired with a capable grinder and realistic expectations. Manual milk steaming and smaller drip trays are common tradeoffs in this range.",
-      "Confirm current Amazon and eBay pricing, availability, seller details, and included accessories before purchasing."
+      "Manual espresso machines reward shoppers who enjoy dialing in grind, dose, and extraction. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you want control and are willing to learn the workflow. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "The machine is only part of the setup; grinder quality and technique matter heavily. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-compact-espresso-machines",
+    "title": "Best Compact Espresso Machines",
+    "category": "espresso-machines",
+    "productIds": [
+      "delonghi-stilosa",
+      "breville-bambino-baratza-bundle",
+      "terra-kaffe-tk02",
+      "delonghi-dedica",
+      "gaggia-classic-pro",
+      "rancilio-silvia"
+    ],
+    "description": "Best Compact Espresso Machines compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Compact espresso machines help small kitchens keep a coffee routine without losing counter space. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if width, depth, and storage matter as much as shot quality. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Small drip trays, water tanks, and cup clearance can add daily friction. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-machines-for-small-kitchens",
+    "title": "Best Espresso Machines for Small Kitchens",
+    "category": "espresso-machines",
+    "productIds": [
+      "breville-bambino-baratza-bundle",
+      "terra-kaffe-tk02",
+      "delonghi-dedica",
+      "gaggia-classic-pro",
+      "rancilio-silvia",
+      "breville-barista-touch"
+    ],
+    "description": "Best Espresso Machines for Small Kitchens compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Small kitchens need espresso gear that fits the counter and the cleanup routine. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if appliances compete for limited space. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "An all-in-one machine may save space, but it can be harder to upgrade than separate gear. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-machines-for-americanos",
+    "title": "Best Espresso Machines for Americanos",
+    "category": "espresso-machines",
+    "productIds": [
+      "terra-kaffe-tk02",
+      "delonghi-dedica",
+      "gaggia-classic-pro",
+      "rancilio-silvia",
+      "breville-barista-touch",
+      "philips-3200-lattego"
+    ],
+    "description": "Best Espresso Machines for Americanos compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Americano drinkers need good espresso and easy hot-water workflow. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if you want longer coffee drinks without a pod-only system. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Hot-water spout placement and cup clearance are worth checking before buying. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-machines-for-office",
+    "title": "Best Espresso Machines for Office",
+    "category": "espresso-machines",
+    "productIds": [
+      "delonghi-dedica",
+      "gaggia-classic-pro",
+      "rancilio-silvia",
+      "breville-barista-touch",
+      "philips-3200-lattego",
+      "delonghi-magnifica-evo"
+    ],
+    "description": "Best Espresso Machines for Office compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Office espresso machines need simple operation, easy cleaning, and broad drink appeal. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if several people will share the machine. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Manual machines can be excellent, but shared spaces usually benefit from simpler workflows. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-machines-under-1000",
+    "title": "Best Espresso Machines Under $1000",
+    "category": "espresso-machines",
+    "productIds": [
+      "gaggia-classic-pro",
+      "rancilio-silvia",
+      "breville-barista-touch",
+      "philips-3200-lattego",
+      "delonghi-magnifica-evo",
+      "breville-bambino"
+    ],
+    "description": "Best Espresso Machines Under $1000 compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "A higher budget opens better workflows, stronger steaming, and more automation choices. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if you want a serious home setup while still comparing live retailer pricing. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Decide first whether grinder integration, milk automation, or manual control matters most. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-grinders-for-home",
+    "title": "Best Espresso Grinders for Home",
+    "category": "espresso-machines",
+    "productIds": [
+      "rancilio-silvia",
+      "breville-barista-touch",
+      "philips-3200-lattego",
+      "delonghi-magnifica-evo",
+      "breville-bambino",
+      "breville-barista-express"
+    ],
+    "description": "Best Espresso Grinders for Home compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Espresso grinders can improve shot quality more than many machine upgrades. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if you already have or plan to buy a manual espresso machine. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Grinder retention, adjustment range, noise, and counter footprint all affect daily satisfaction. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-nespresso-alternatives",
+    "title": "Best Nespresso Alternatives",
+    "category": "espresso-machines",
+    "productIds": [
+      "breville-barista-touch",
+      "philips-3200-lattego",
+      "delonghi-magnifica-evo",
+      "breville-bambino",
+      "breville-barista-express",
+      "baratza-encore-esp"
+    ],
+    "description": "Best Nespresso Alternatives compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Nespresso alternatives appeal to shoppers who want more control, fresher beans, or fewer capsules. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if convenience matters but pod dependence feels limiting. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Manual and automatic machines require more cleaning than capsules, so be realistic about the routine. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-espresso-machines-for-milk-drinks",
+    "title": "Best Espresso Machines for Milk Drinks",
+    "category": "espresso-machines",
+    "productIds": [
+      "philips-3200-lattego",
+      "delonghi-magnifica-evo",
+      "breville-bambino",
+      "breville-barista-express",
+      "baratza-encore-esp",
+      "ninja-luxe-cafe"
+    ],
+    "description": "Best Espresso Machines for Milk Drinks compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Milk drink shoppers should evaluate steam workflow before obsessing over shot specs. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this page if lattes, cappuccinos, and flat whites are the normal drinks. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Automatic systems are easier, while manual wands give more control and require more practice. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
+    ]
+  },
+  {
+    "slug": "best-prosumer-espresso-machines",
+    "title": "Best Prosumer Espresso Machines",
+    "category": "espresso-machines",
+    "productIds": [
+      "delonghi-magnifica-evo",
+      "breville-bambino",
+      "breville-barista-express",
+      "baratza-encore-esp",
+      "ninja-luxe-cafe",
+      "casabrews-cm5418"
+    ],
+    "description": "Best Prosumer Espresso Machines compared with HomePilot's product-first checklist, current retailer links, and no static prices or fake review data.",
+    "sections": [
+      "Prosumer espresso machines are for buyers who want a more serious home bar setup. This page is built for one buying situation, not a generic list. Start with the room, routine, storage space, cleaning or cooking frequency, and the maintenance you are willing to accept after the first week.",
+      "Choose this shortlist if durability, steam power, and manual control matter. The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "They can be expensive and demanding, so confirm counter space, grinder budget, and maintenance expectations. Look closely at replacement parts, counter or floor footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
     ]
   }
 ]

@@ -2,21 +2,21 @@ import type { Metadata } from "next";
 import { SeoIntentPage } from "@/components/SeoIntentPage";
 import { getProductsByIds, getSeoPage } from "@/lib/content";
 
-const page = getSeoPage("best-robot-vacuums-for-pet-hair");
+const page = getSeoPage("best-nespresso-alternatives");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+  title: `Best Nespresso Alternatives | HomePilot`,
   description: page?.description,
-  alternates: { canonical: "/best-robot-vacuums-for-pet-hair" },
+  alternates: { canonical: "/best-nespresso-alternatives" },
   openGraph: {
-    title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+    title: `Best Nespresso Alternatives | HomePilot`,
     description: page?.description,
-    url: `https://homepilot-iota.vercel.app/best-robot-vacuums-for-pet-hair`,
+    url: `https://homepilot-iota.vercel.app/best-nespresso-alternatives`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Robot Vacuums for Pet Hair | HomePilot`,
+    title: `Best Nespresso Alternatives | HomePilot`,
     description: page?.description
   }
 };
