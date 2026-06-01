@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
+import { OrganizationSchema } from "@/components/OrganizationSchema";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://homepilot-iota.vercel.app"),
@@ -37,6 +38,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <OrganizationSchema />
         <Header />
         {children}
         <Footer />

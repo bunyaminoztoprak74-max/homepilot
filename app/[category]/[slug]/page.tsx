@@ -3,8 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import categories from "@/data/categories.json";
 import guides from "@/data/guides.json";
-import products from "@/data/products.json";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
+import { AuthorBox } from "@/components/AuthorBox";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CTA } from "@/components/CTA";
 import { EditorialMeta } from "@/components/EditorialMeta";
@@ -13,7 +13,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
-import { getCategory, getGuide, getGuideProducts, siteUrl } from "@/lib/content";
+import { RelatedContent } from "@/components/RelatedContent";
+import { TopPicks } from "@/components/TopPicks";
+import { articles, getAuthor, getCategory, getGuide, getGuideProducts, products, siteUrl } from "@/lib/content";
 
 type Props = {
   params: Promise<{ category: string; slug: string }>;
@@ -56,6 +58,9 @@ export default async function GuidePage({ params }: Props) {
 
   const guideProducts = getGuideProducts(guide);
   const relatedGuides = guides.filter((item) => item.category === category.slug && item.slug !== guide.slug).slice(0, 4);
+  const author = getAuthor("homepilot-editorial-team");
+  const relatedArticles = articles.filter((item) => item.category === category.slug);
+  const relatedProducts = products.filter((item) => item.category === category.slug);
   return (
     <main>
       <ProductSchema products={guideProducts} />
@@ -72,9 +77,11 @@ export default async function GuidePage({ params }: Props) {
               name: "HomePilot"
             },
             author: {
-              "@type": "Organization",
-              name: "HomePilot Editorial Team"
+              "@type": "Person",
+              name: author.name,
+              url: `${siteUrl}/authors/${author.slug}`
             },
+            reviewedBy: { "@type": "Organization", name: author.reviewedBy },
             datePublished: "2026-06-01",
             dateModified: "2026-06-01",
             mainEntityOfPage: `${siteUrl}/${guide.category}/${guide.slug}`
@@ -119,6 +126,9 @@ export default async function GuidePage({ params }: Props) {
           <div className="mt-8">
             <AffiliateDisclosure />
           </div>
+          <div className="mt-8">
+            <AuthorBox author={author} updatedAt="2026-06-01" />
+          </div>
         </div>
       </section>
 
@@ -141,6 +151,9 @@ export default async function GuidePage({ params }: Props) {
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Top picks</h2>
             <div className="mt-3">
               <AffiliateDisclosure compact />
+            </div>
+            <div className="mt-5">
+              <TopPicks products={guideProducts} />
             </div>
             <ProductGrid products={guideProducts} />
           </section>
@@ -203,6 +216,7 @@ export default async function GuidePage({ params }: Props) {
           </section>
 
           <FAQ items={guide.faq} />
+          <RelatedContent products={relatedProducts} articles={relatedArticles} guides={relatedGuides} />
         </article>
 
         <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">

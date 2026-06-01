@@ -11,7 +11,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
-import { getCategory, siteUrl } from "@/lib/content";
+import { RelatedContent } from "@/components/RelatedContent";
+import { TopPicks } from "@/components/TopPicks";
+import { articles, getCategory, siteUrl } from "@/lib/content";
 import type { Category, Guide, Product } from "@/lib/types";
 
 type BestCategoryConfig = {
@@ -95,6 +97,7 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
   const category = getCategory(config.categorySlug) as Category;
   const categoryProducts = products.filter((product) => product.category === config.categorySlug) as Product[];
   const categoryGuides = guides.filter((guide) => guide.category === config.categorySlug) as Guide[];
+  const categoryArticles = articles.filter((article) => article.category === config.categorySlug);
 
   return (
     <main>
@@ -164,6 +167,7 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
               <ProductComparisonTable products={categoryProducts} />
             </div>
           </section>
+          <TopPicks products={categoryProducts} />
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Best picks</h2>
             <div className="mt-3">
@@ -195,6 +199,7 @@ export function BestCategoryPage({ config }: { config: BestCategoryConfig }) {
             ))}
           </section>
           <FAQ items={category.faq} />
+          <RelatedContent products={categoryProducts} articles={categoryArticles} guides={categoryGuides} />
         </article>
         <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">
           <div className="rounded-lg border border-neutral-200 p-5">

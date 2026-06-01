@@ -52,6 +52,7 @@ export type Article = {
   description: string;
   updatedAt: string;
   author: string;
+  authorSlug?: string;
   relatedProducts: string[];
   body: string[];
   internalLinks: { label: string; href: string }[];
@@ -71,4 +72,14 @@ export type SeoPage = {
 export type FAQItem = {
   question: string;
   answer: string;
+};
+
+export type Author = {
+  slug: string;
+  name: string;
+  role: string;
+  expertise: string[];
+  bio: string;
+  reviewedBy: string;
+  reviewNote: string;
 };

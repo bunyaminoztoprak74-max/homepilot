@@ -11,12 +11,14 @@ export function ProductSchema({ products }: { products: Product[] }) {
           "@type": "ListItem",
           position: index + 1,
           item: {
-            "@type": "Thing",
+            "@type": "Product",
             name: product.name,
             image: product.image,
             url: product.amazonUrl,
-            identifier: product.asin,
-            description: product.editorialSummary
+            sku: product.asin,
+            description: product.editorialSummary,
+            category: product.category,
+            isRelatedTo: product.ebayUrl
           }
         }))
       }}

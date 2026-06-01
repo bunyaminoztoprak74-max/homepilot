@@ -39,7 +39,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 1
+    "sortOrder": 1,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-maintenance-checklist",
@@ -81,7 +82,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 2
+    "sortOrder": 2,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-for-pet-hair-guide",
@@ -123,7 +125,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 3
+    "sortOrder": 3,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-vs-cordless-vacuum",
@@ -165,7 +168,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 4
+    "sortOrder": 4,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "self-emptying-robot-vacuum-worth-it",
@@ -207,7 +211,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 5
+    "sortOrder": 5,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-mapping-explained",
@@ -249,7 +254,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 6
+    "sortOrder": 6,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-for-hardwood-floors",
@@ -291,7 +297,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 7
+    "sortOrder": 7,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-for-carpet-buying-guide",
@@ -333,7 +340,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 8
+    "sortOrder": 8,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-with-mop-pros-cons",
@@ -375,7 +383,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 9
+    "sortOrder": 9,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-dock-maintenance",
@@ -417,7 +426,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 10
+    "sortOrder": 10,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-battery-life-guide",
@@ -459,7 +469,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 11
+    "sortOrder": 11,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-navigation-types",
@@ -501,7 +512,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 12
+    "sortOrder": 12,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-for-small-apartments",
@@ -543,7 +555,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 13
+    "sortOrder": 13,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-replacement-parts",
@@ -585,7 +598,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 14
+    "sortOrder": 14,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-schedule-tips",
@@ -627,7 +641,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 15
+    "sortOrder": 15,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "robot-vacuum-no-go-zones",
@@ -669,7 +684,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 16
+    "sortOrder": 16,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "air-fryer-vs-convection-oven",
@@ -677,7 +693,7 @@
     "category": "air-fryers",
     "description": "Air Fryer vs Convection Oven with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "chefman-6qt-digital",
       "cosori-turboblaze-6qt",
@@ -711,7 +727,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 17
+    "sortOrder": 17,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "how-to-choose-air-fryer-size",
@@ -719,7 +736,7 @@
     "category": "air-fryers",
     "description": "How to Choose the Right Air Fryer Size with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "cosori-turboblaze-6qt",
       "ninja-af101",
@@ -753,7 +770,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 18
+    "sortOrder": 18,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-basket-vs-oven-style",
@@ -761,7 +779,7 @@
     "category": "air-fryers",
     "description": "Basket Air Fryer vs Oven-Style Air Fryer with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "ninja-af101",
       "ninja-dz201",
@@ -795,7 +813,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 19
+    "sortOrder": 19,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-cleaning-checklist",
@@ -803,7 +822,7 @@
     "category": "air-fryers",
     "description": "Air Fryer Cleaning Checklist with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "ninja-dz201",
       "instant-vortex-plus-6qt",
@@ -837,7 +856,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 20
+    "sortOrder": 20,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "dual-basket-air-fryer-worth-it",
@@ -845,7 +865,7 @@
     "category": "air-fryers",
     "description": "Is a Dual Basket Air Fryer Worth It? with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "instant-vortex-plus-6qt",
       "ninja-af141",
@@ -879,7 +899,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 21
+    "sortOrder": 21,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-for-family-meals",
@@ -887,7 +908,7 @@
     "category": "air-fryers",
     "description": "How to Pick an Air Fryer for Family Meals with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "ninja-af141",
       "cosori-pro-5qt",
@@ -921,7 +942,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 22
+    "sortOrder": 22,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-for-small-kitchens",
@@ -929,7 +951,7 @@
     "category": "air-fryers",
     "description": "Air Fryer Buying Tips for Small Kitchens with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "cosori-pro-5qt",
       "ninja-af181",
@@ -963,7 +985,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 23
+    "sortOrder": 23,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-for-frozen-foods",
@@ -971,7 +994,7 @@
     "category": "air-fryers",
     "description": "Best Air Fryer Features for Frozen Foods with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "ninja-af181",
       "instant-versazone-9qt",
@@ -1005,7 +1028,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 24
+    "sortOrder": 24,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-wattage-explained",
@@ -1013,7 +1037,7 @@
     "category": "air-fryers",
     "description": "Air Fryer Wattage Explained with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "instant-versazone-9qt",
       "chefman-turbofry-8qt",
@@ -1047,7 +1071,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 25
+    "sortOrder": 25,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-accessories-worth-buying",
@@ -1055,7 +1080,7 @@
     "category": "air-fryers",
     "description": "Air Fryer Accessories Worth Considering with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "chefman-turbofry-8qt",
       "instant-vortex-clearcook",
@@ -1089,7 +1114,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 26
+    "sortOrder": 26,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-meal-prep-guide",
@@ -1097,7 +1123,7 @@
     "category": "air-fryers",
     "description": "Air Fryer Meal Prep Guide with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "instant-vortex-clearcook",
       "ninja-dz401",
@@ -1131,7 +1157,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 27
+    "sortOrder": 27,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-safety-tips",
@@ -1139,7 +1166,7 @@
     "category": "air-fryers",
     "description": "Air Fryer Safety Tips for Daily Use with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "ninja-dz401",
       "cosori-dual-blaze",
@@ -1173,7 +1200,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 28
+    "sortOrder": 28,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-nonstick-care",
@@ -1181,7 +1209,7 @@
     "category": "air-fryers",
     "description": "How to Protect an Air Fryer Nonstick Basket with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "cosori-dual-blaze",
       "instant-vortex-mini",
@@ -1215,7 +1243,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 29
+    "sortOrder": 29,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-for-two-people",
@@ -1223,7 +1252,7 @@
     "category": "air-fryers",
     "description": "Air Fryer Buying Guide for Two People with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "instant-vortex-mini",
       "philips-premium-xxl",
@@ -1257,7 +1286,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 30
+    "sortOrder": 30,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "air-fryer-reheating-leftovers",
@@ -1265,7 +1295,7 @@
     "category": "air-fryers",
     "description": "How to Reheat Leftovers in an Air Fryer with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "philips-premium-xxl",
       "breville-smart-oven-air-pro",
@@ -1299,7 +1329,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 31
+    "sortOrder": 31,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "espresso-machine-buying-guide",
@@ -1307,7 +1338,7 @@
     "category": "espresso-machines",
     "description": "Espresso Machine Buying Guide with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "delonghi-magnifica-evo",
       "breville-bambino",
@@ -1341,7 +1372,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 32
+    "sortOrder": 32,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-vs-nespresso",
@@ -1349,7 +1381,7 @@
     "category": "espresso-machines",
     "description": "Espresso Machine vs Nespresso with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "breville-bambino",
       "breville-barista-express",
@@ -1383,7 +1415,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 33
+    "sortOrder": 33,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-grinder-buying-guide",
@@ -1391,7 +1424,7 @@
     "category": "espresso-machines",
     "description": "Espresso Grinder Buying Guide with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "breville-barista-express",
       "baratza-encore-esp",
@@ -1425,7 +1458,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 34
+    "sortOrder": 34,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "beginner-espresso-setup",
@@ -1433,7 +1467,7 @@
     "category": "espresso-machines",
     "description": "Beginner Espresso Setup: What You Actually Need with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "baratza-encore-esp",
       "ninja-luxe-cafe",
@@ -1467,7 +1501,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 35
+    "sortOrder": 35,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "manual-vs-automatic-espresso-machine",
@@ -1475,7 +1510,7 @@
     "category": "espresso-machines",
     "description": "Manual vs Automatic Espresso Machine with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "ninja-luxe-cafe",
       "casabrews-cm5418",
@@ -1509,7 +1544,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 36
+    "sortOrder": 36,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-with-grinder-worth-it",
@@ -1517,7 +1553,7 @@
     "category": "espresso-machines",
     "description": "Is an Espresso Machine with Grinder Worth It? with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "casabrews-cm5418",
       "breville-bambino-plus",
@@ -1551,7 +1587,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 37
+    "sortOrder": 37,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-for-lattes",
@@ -1559,7 +1596,7 @@
     "category": "espresso-machines",
     "description": "How to Choose an Espresso Machine for Lattes with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "breville-bambino-plus",
       "delonghi-classic",
@@ -1593,7 +1630,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 38
+    "sortOrder": 38,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-cleaning-routine",
@@ -1601,7 +1639,7 @@
     "category": "espresso-machines",
     "description": "Espresso Machine Cleaning Routine with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "delonghi-classic",
       "delonghi-stilosa",
@@ -1635,7 +1673,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 39
+    "sortOrder": 39,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-pressure-explained",
@@ -1643,7 +1682,7 @@
     "category": "espresso-machines",
     "description": "Espresso Machine Pressure Explained with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "delonghi-stilosa",
       "breville-bambino-baratza-bundle",
@@ -1677,7 +1716,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 40
+    "sortOrder": 40,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-small-kitchen-guide",
@@ -1685,7 +1725,7 @@
     "category": "espresso-machines",
     "description": "Espresso Machine Tips for Small Kitchens with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "breville-bambino-baratza-bundle",
       "terra-kaffe-tk02",
@@ -1719,7 +1759,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 41
+    "sortOrder": 41,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-milk-frothing-guide",
@@ -1727,7 +1768,7 @@
     "category": "espresso-machines",
     "description": "Milk Frothing Guide for Home Espresso with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "terra-kaffe-tk02",
       "delonghi-dedica",
@@ -1761,7 +1802,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 42
+    "sortOrder": 42,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-under-500-tradeoffs",
@@ -1769,7 +1811,7 @@
     "category": "espresso-machines",
     "description": "Espresso Machines Under $500: Tradeoffs to Know with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "delonghi-dedica",
       "gaggia-classic-pro",
@@ -1803,7 +1845,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 43
+    "sortOrder": 43,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-under-1000-tradeoffs",
@@ -1811,7 +1854,7 @@
     "category": "espresso-machines",
     "description": "Espresso Machines Under $1000: What Improves? with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "gaggia-classic-pro",
       "rancilio-silvia",
@@ -1845,7 +1888,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 44
+    "sortOrder": 44,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-water-quality",
@@ -1853,7 +1897,7 @@
     "category": "espresso-machines",
     "description": "Why Water Quality Matters for Espresso Machines with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "rancilio-silvia",
       "breville-barista-touch",
@@ -1887,7 +1931,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 45
+    "sortOrder": 45,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "espresso-machine-maintenance-costs",
@@ -1895,7 +1940,7 @@
     "category": "espresso-machines",
     "description": "Espresso Machine Maintenance Costs to Expect with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "breville-barista-touch",
       "philips-3200-lattego",
@@ -1929,7 +1974,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 46
+    "sortOrder": 46,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "coffee-bar-setup-small-space",
@@ -1937,7 +1983,7 @@
     "category": "espresso-machines",
     "description": "How to Build a Small Home Coffee Bar with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "philips-3200-lattego",
       "delonghi-magnifica-evo",
@@ -1971,7 +2017,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 47
+    "sortOrder": 47,
+    "authorSlug": "eli-morgan"
   },
   {
     "slug": "how-to-compare-home-products",
@@ -2013,7 +2060,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 48
+    "sortOrder": 48,
+    "authorSlug": "homepilot-editorial-team"
   },
   {
     "slug": "amazon-affiliate-price-checking",
@@ -2021,7 +2069,7 @@
     "category": "air-fryers",
     "description": "Why HomePilot Sends You to Retailers for Current Prices with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Maya Hart",
     "relatedProducts": [
       "breville-smart-oven-air-pro",
       "cuisinart-toa-60",
@@ -2055,7 +2103,8 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 49
+    "sortOrder": 49,
+    "authorSlug": "maya-hart"
   },
   {
     "slug": "home-product-buying-checklist",
@@ -2063,7 +2112,7 @@
     "category": "espresso-machines",
     "description": "Home Product Buying Checklist Before You Click Buy with practical HomePilot advice, internal buying links, and retailer-first pricing checks.",
     "updatedAt": "2026-06-01",
-    "author": "HomePilot Editorial Team",
+    "author": "Eli Morgan",
     "relatedProducts": [
       "breville-barista-express",
       "baratza-encore-esp",
@@ -2097,6 +2146,1057 @@
         "answer": "No. HomePilot avoids static prices, star ratings, and review counts unless they come from a compliant live source."
       }
     ],
-    "sortOrder": 50
+    "sortOrder": 50,
+    "authorSlug": "eli-morgan"
+  },
+  {
+    "slug": "robot-vacuum-filter-replacement-guide",
+    "title": "Robot Vacuum Filter Replacement Guide",
+    "category": "robot-vacuums",
+    "description": "Robot Vacuum Filter Replacement Guide with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [
+      "shark-av2511ae",
+      "roborock-q5-pro",
+      "shark-rv2310ae"
+    ],
+    "body": [
+      "Robot Vacuum Filter Replacement Guide matters because filter replacement affects dust control and maintenance cost can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the robot vacuum to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Robot Vacuums guide",
+        "href": "/robot-vacuums"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-robot-vacuums"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing robot vacuums?",
+        "answer": "Fit comes first: filter replacement affects dust control and maintenance cost, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 51
+  },
+  {
+    "slug": "robot-vacuum-brushroll-types",
+    "title": "Robot Vacuum Brushroll Types Explained",
+    "category": "robot-vacuums",
+    "description": "Robot Vacuum Brushroll Types Explained with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [
+      "roborock-q5-pro",
+      "shark-rv2310ae",
+      "eufy-11s-max"
+    ],
+    "body": [
+      "Robot Vacuum Brushroll Types Explained matters because brush design affects hair pickup and tangles can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the robot vacuum to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Robot Vacuums guide",
+        "href": "/robot-vacuums"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-robot-vacuums"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing robot vacuums?",
+        "answer": "Fit comes first: brush design affects hair pickup and tangles, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 52
+  },
+  {
+    "slug": "robot-vacuum-for-cat-litter",
+    "title": "Robot Vacuums for Cat Litter: What to Know",
+    "category": "robot-vacuums",
+    "description": "Robot Vacuums for Cat Litter: What to Know with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [
+      "shark-rv2310ae",
+      "eufy-11s-max",
+      "shark-powerdetect-av2820s"
+    ],
+    "body": [
+      "Robot Vacuums for Cat Litter: What to Know matters because cat litter requires bin capacity and edge pickup can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the robot vacuum to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Robot Vacuums guide",
+        "href": "/robot-vacuums"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-robot-vacuums"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing robot vacuums?",
+        "answer": "Fit comes first: cat litter requires bin capacity and edge pickup, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 53
+  },
+  {
+    "slug": "robot-vacuum-threshold-guide",
+    "title": "Robot Vacuum Threshold Guide",
+    "category": "robot-vacuums",
+    "description": "Robot Vacuum Threshold Guide with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [
+      "eufy-11s-max",
+      "shark-powerdetect-av2820s",
+      "roborock-qrevo-qv35a"
+    ],
+    "body": [
+      "Robot Vacuum Threshold Guide matters because threshold height can decide whether cleaning is truly automatic can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the robot vacuum to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Robot Vacuums guide",
+        "href": "/robot-vacuums"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-robot-vacuums"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing robot vacuums?",
+        "answer": "Fit comes first: threshold height can decide whether cleaning is truly automatic, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 54
+  },
+  {
+    "slug": "robot-vacuum-app-features-worth-it",
+    "title": "Robot Vacuum App Features That Are Actually Worth It",
+    "category": "robot-vacuums",
+    "description": "Robot Vacuum App Features That Are Actually Worth It with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [
+      "shark-powerdetect-av2820s",
+      "roborock-qrevo-qv35a",
+      "shark-av2110s"
+    ],
+    "body": [
+      "Robot Vacuum App Features That Are Actually Worth It matters because app features vary from helpful maps to unnecessary complexity can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the robot vacuum to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Robot Vacuums guide",
+        "href": "/robot-vacuums"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-robot-vacuums"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing robot vacuums?",
+        "answer": "Fit comes first: app features vary from helpful maps to unnecessary complexity, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 55
+  },
+  {
+    "slug": "air-fryer-basket-shape-guide",
+    "title": "Air Fryer Basket Shape Guide",
+    "category": "air-fryers",
+    "description": "Air Fryer Basket Shape Guide with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "cosori-pro-5qt",
+      "ninja-af181",
+      "instant-versazone-9qt"
+    ],
+    "body": [
+      "Air Fryer Basket Shape Guide matters because basket shape affects usable cooking surface can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: basket shape affects usable cooking surface, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 56
+  },
+  {
+    "slug": "air-fryer-preheat-guide",
+    "title": "Do You Need to Preheat an Air Fryer?",
+    "category": "air-fryers",
+    "description": "Do You Need to Preheat an Air Fryer? with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "ninja-af181",
+      "instant-versazone-9qt",
+      "chefman-turbofry-8qt"
+    ],
+    "body": [
+      "Do You Need to Preheat an Air Fryer? matters because preheating affects repeatability and texture can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: preheating affects repeatability and texture, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 57
+  },
+  {
+    "slug": "air-fryer-oil-guide",
+    "title": "How Much Oil Should You Use in an Air Fryer?",
+    "category": "air-fryers",
+    "description": "How Much Oil Should You Use in an Air Fryer? with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "instant-versazone-9qt",
+      "chefman-turbofry-8qt",
+      "instant-vortex-clearcook"
+    ],
+    "body": [
+      "How Much Oil Should You Use in an Air Fryer? matters because oil use affects texture and cleanup can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: oil use affects texture and cleanup, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 58
+  },
+  {
+    "slug": "air-fryer-capacity-for-family-of-four",
+    "title": "Air Fryer Capacity for a Family of Four",
+    "category": "air-fryers",
+    "description": "Air Fryer Capacity for a Family of Four with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "chefman-turbofry-8qt",
+      "instant-vortex-clearcook",
+      "ninja-dz401"
+    ],
+    "body": [
+      "Air Fryer Capacity for a Family of Four matters because family portions require usable basket area can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: family portions require usable basket area, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 59
+  },
+  {
+    "slug": "air-fryer-storage-ideas",
+    "title": "Air Fryer Storage Ideas for Small Kitchens",
+    "category": "air-fryers",
+    "description": "Air Fryer Storage Ideas for Small Kitchens with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "instant-vortex-clearcook",
+      "ninja-dz401",
+      "cosori-dual-blaze"
+    ],
+    "body": [
+      "Air Fryer Storage Ideas for Small Kitchens matters because storage determines whether the appliance stays accessible can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: storage determines whether the appliance stays accessible, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 60
+  },
+  {
+    "slug": "air-fryer-noise-guide",
+    "title": "Are Air Fryers Loud? Noise and Kitchen Fit Guide",
+    "category": "air-fryers",
+    "description": "Are Air Fryers Loud? Noise and Kitchen Fit Guide with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "ninja-dz401",
+      "cosori-dual-blaze",
+      "instant-vortex-mini"
+    ],
+    "body": [
+      "Are Air Fryers Loud? Noise and Kitchen Fit Guide matters because noise can matter in apartments and open kitchens can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: noise can matter in apartments and open kitchens, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 61
+  },
+  {
+    "slug": "air-fryer-liners-pros-cons",
+    "title": "Air Fryer Liners: Pros and Cons",
+    "category": "air-fryers",
+    "description": "Air Fryer Liners: Pros and Cons with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "cosori-dual-blaze",
+      "instant-vortex-mini",
+      "philips-premium-xxl"
+    ],
+    "body": [
+      "Air Fryer Liners: Pros and Cons matters because liners can reduce mess but affect airflow can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: liners can reduce mess but affect airflow, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 62
+  },
+  {
+    "slug": "espresso-grind-size-explained",
+    "title": "Espresso Grind Size Explained for Beginners",
+    "category": "espresso-machines",
+    "description": "Espresso Grind Size Explained for Beginners with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "rancilio-silvia",
+      "breville-barista-touch",
+      "philips-3200-lattego"
+    ],
+    "body": [
+      "Espresso Grind Size Explained for Beginners matters because grind size controls extraction and consistency can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: grind size controls extraction and consistency, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 63
+  },
+  {
+    "slug": "espresso-tamping-guide",
+    "title": "Espresso Tamping Guide for Home Machines",
+    "category": "espresso-machines",
+    "description": "Espresso Tamping Guide for Home Machines with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "breville-barista-touch",
+      "philips-3200-lattego",
+      "delonghi-magnifica-evo"
+    ],
+    "body": [
+      "Espresso Tamping Guide for Home Machines matters because tamping affects repeatability for manual espresso can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: tamping affects repeatability for manual espresso, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 64
+  },
+  {
+    "slug": "espresso-bottomless-portafilter-guide",
+    "title": "Bottomless Portafilter Guide for Home Espresso",
+    "category": "espresso-machines",
+    "description": "Bottomless Portafilter Guide for Home Espresso with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "philips-3200-lattego",
+      "delonghi-magnifica-evo",
+      "breville-bambino"
+    ],
+    "body": [
+      "Bottomless Portafilter Guide for Home Espresso matters because bottomless portafilters help diagnose puck prep can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: bottomless portafilters help diagnose puck prep, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 65
+  },
+  {
+    "slug": "espresso-steam-wand-cleaning",
+    "title": "How to Clean an Espresso Steam Wand",
+    "category": "espresso-machines",
+    "description": "How to Clean an Espresso Steam Wand with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "delonghi-magnifica-evo",
+      "breville-bambino",
+      "breville-barista-express"
+    ],
+    "body": [
+      "How to Clean an Espresso Steam Wand matters because milk residue can quickly become a maintenance problem can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: milk residue can quickly become a maintenance problem, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 66
+  },
+  {
+    "slug": "espresso-beans-for-beginners",
+    "title": "How to Choose Espresso Beans for Beginners",
+    "category": "espresso-machines",
+    "description": "How to Choose Espresso Beans for Beginners with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "breville-bambino",
+      "breville-barista-express",
+      "baratza-encore-esp"
+    ],
+    "body": [
+      "How to Choose Espresso Beans for Beginners matters because fresh beans affect home espresso more than many upgrades can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: fresh beans affect home espresso more than many upgrades, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 67
+  },
+  {
+    "slug": "espresso-scale-worth-it",
+    "title": "Is an Espresso Scale Worth It?",
+    "category": "espresso-machines",
+    "description": "Is an Espresso Scale Worth It? with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "breville-barista-express",
+      "baratza-encore-esp",
+      "ninja-luxe-cafe"
+    ],
+    "body": [
+      "Is an Espresso Scale Worth It? matters because weighing dose and yield improves repeatability can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: weighing dose and yield improves repeatability, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 68
+  },
+  {
+    "slug": "espresso-descaling-guide",
+    "title": "Espresso Machine Descaling Guide",
+    "category": "espresso-machines",
+    "description": "Espresso Machine Descaling Guide with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "baratza-encore-esp",
+      "ninja-luxe-cafe",
+      "casabrews-cm5418"
+    ],
+    "body": [
+      "Espresso Machine Descaling Guide matters because descaling protects performance and machine life can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: descaling protects performance and machine life, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 69
+  },
+  {
+    "slug": "espresso-single-dose-vs-hopper",
+    "title": "Single Dose vs Hopper Espresso Grinding",
+    "category": "espresso-machines",
+    "description": "Single Dose vs Hopper Espresso Grinding with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "ninja-luxe-cafe",
+      "casabrews-cm5418",
+      "breville-bambino-plus"
+    ],
+    "body": [
+      "Single Dose vs Hopper Espresso Grinding matters because grinder workflow affects freshness and convenience can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: grinder workflow affects freshness and convenience, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 70
+  },
+  {
+    "slug": "home-product-return-policy-checklist",
+    "title": "Home Product Return Policy Checklist",
+    "category": "robot-vacuums",
+    "description": "Home Product Return Policy Checklist with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [
+      "eufy-11s-max",
+      "shark-powerdetect-av2820s",
+      "roborock-qrevo-qv35a"
+    ],
+    "body": [
+      "Home Product Return Policy Checklist matters because return windows reduce risk for larger purchases can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the robot vacuum to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Robot Vacuums guide",
+        "href": "/robot-vacuums"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-robot-vacuums"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing robot vacuums?",
+        "answer": "Fit comes first: return windows reduce risk for larger purchases, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 71
+  },
+  {
+    "slug": "how-to-read-amazon-listings",
+    "title": "How to Read Amazon Listings Before Buying",
+    "category": "air-fryers",
+    "description": "How to Read Amazon Listings Before Buying with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "ninja-af141",
+      "cosori-pro-5qt",
+      "ninja-af181"
+    ],
+    "body": [
+      "How to Read Amazon Listings Before Buying matters because seller and accessory details can change by listing can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: seller and accessory details can change by listing, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 72
+  },
+  {
+    "slug": "affiliate-disclosure-for-shoppers",
+    "title": "What Affiliate Disclosure Means for Shoppers",
+    "category": "espresso-machines",
+    "description": "What Affiliate Disclosure Means for Shoppers with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Eli Morgan",
+    "authorSlug": "eli-morgan",
+    "relatedProducts": [
+      "delonghi-classic",
+      "delonghi-stilosa",
+      "breville-bambino-baratza-bundle"
+    ],
+    "body": [
+      "What Affiliate Disclosure Means for Shoppers matters because affiliate links should be transparent and separate from editorial criteria can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the espresso machine to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Espresso Machines guide",
+        "href": "/espresso-machines"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-espresso-machines"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing espresso machines?",
+        "answer": "Fit comes first: affiliate links should be transparent and separate from editorial criteria, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 73
+  },
+  {
+    "slug": "compare-amazon-ebay-before-buying",
+    "title": "Why Compare Amazon and eBay Before Buying?",
+    "category": "robot-vacuums",
+    "description": "Why Compare Amazon and eBay Before Buying? with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [
+      "shark-av2110s",
+      "roborock-q10-s5-plus",
+      "irobot-roomba-105-autoempty"
+    ],
+    "body": [
+      "Why Compare Amazon and eBay Before Buying? matters because retailer comparison helps confirm current availability and seller terms can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the robot vacuum to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Robot Vacuums guide",
+        "href": "/robot-vacuums"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-robot-vacuums"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing robot vacuums?",
+        "answer": "Fit comes first: retailer comparison helps confirm current availability and seller terms, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 74
+  },
+  {
+    "slug": "homepilot-research-methodology",
+    "title": "HomePilot Research Methodology Explained",
+    "category": "air-fryers",
+    "description": "HomePilot Research Methodology Explained with HomePilot's practical, compliant buying advice and retailer-first price checks.",
+    "updatedAt": "2026-06-01",
+    "author": "Maya Hart",
+    "authorSlug": "maya-hart",
+    "relatedProducts": [
+      "instant-versazone-9qt",
+      "chefman-turbofry-8qt",
+      "instant-vortex-clearcook"
+    ],
+    "body": [
+      "HomePilot Research Methodology Explained matters because research standards improve trust and reduce thin content can change whether a product feels useful after the first week. HomePilot focuses on practical ownership details instead of temporary retailer claims.",
+      "Start by defining the job you need the air fryer to do. The best choice is rarely the longest spec sheet; it is the product that fits your space, habits, cleaning tolerance, storage, and setup confidence.",
+      "Before buying, compare maintenance steps, replacement parts, footprint, controls, and what is included in the box. Retailer listings can vary, so confirm live details on Amazon and eBay before purchasing.",
+      "HomePilot does not publish static prices, star ratings, or review counts unless they come from a compliant live source. We use internal links and comparison tables to help you build a shortlist, then send you to retailers for current pricing and seller terms.",
+      "If two options look close, choose the one with fewer daily annoyances. Small friction points such as awkward cleaning, oversized storage, noisy operation, or confusing controls are often what determine long-term satisfaction."
+    ],
+    "internalLinks": [
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What matters most when comparing air fryers?",
+        "answer": "Fit comes first: research standards improve trust and reduce thin content, maintenance, footprint, controls, and live retailer details should guide the final decision."
+      },
+      {
+        "question": "Can I rely on static prices or ratings?",
+        "answer": "No. Check Amazon and eBay directly for current pricing, availability, seller terms, ratings, and review counts."
+      }
+    ],
+    "sortOrder": 75
   }
 ]

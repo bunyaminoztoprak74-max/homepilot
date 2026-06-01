@@ -3,7 +3,9 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
-import { articles, categories, getArticle, siteUrl } from "@/lib/content";
+import { AuthorBox } from "@/components/AuthorBox";
+import { RelatedContent } from "@/components/RelatedContent";
+import { articles, categories, getArticle, getAuthor, guides, products, siteUrl } from "@/lib/content";
 
 type Props = {
   params: Promise<{ slug: string }>;
@@ -37,6 +39,12 @@ export default async function ArticlePage({ params }: Props) {
   if (!article) notFound();
 
   const category = categories.find((item) => item.slug === article.category);
+  const author = getAuthor(article.authorSlug);
+  const relatedProducts = article.relatedProducts
+    .map((id) => products.find((product) => product.id === id))
+    .filter((product): product is (typeof products)[number] => Boolean(product));
+  const relatedArticles = articles.filter((item) => item.category === article.category && item.slug !== article.slug);
+  const relatedGuides = guides.filter((item) => item.category === article.category);
 
   return (
     <main className="mx-auto max-w-3xl px-5 py-14 sm:px-6 lg:px-8">
@@ -48,8 +56,9 @@ export default async function ArticlePage({ params }: Props) {
             headline: article.title,
             description: article.description,
             url: `${siteUrl}/blog/${article.slug}`,
-            author: { "@type": "Organization", name: article.author },
+            author: { "@type": "Person", name: author.name, url: `${siteUrl}/authors/${author.slug}` },
             publisher: { "@type": "Organization", name: "HomePilot" },
+            reviewedBy: { "@type": "Organization", name: author.reviewedBy },
             datePublished: article.updatedAt,
             dateModified: article.updatedAt
           },
@@ -75,12 +84,15 @@ export default async function ArticlePage({ params }: Props) {
       <h1 className="mt-3 text-4xl font-semibold tracking-tight text-neutral-950 sm:text-5xl">{article.title}</h1>
       <p className="mt-5 text-lg leading-8 text-neutral-600">{article.description}</p>
       <p className="mt-4 text-sm text-neutral-500">
-        By {article.author} / Updated {new Date(article.updatedAt).toLocaleDateString("en-US", {
+        By {author.name} / Updated {new Date(article.updatedAt).toLocaleDateString("en-US", {
           month: "long",
           day: "numeric",
           year: "numeric"
         })}
       </p>
+      <div className="mt-8">
+        <AuthorBox author={author} updatedAt={article.updatedAt} />
+      </div>
       <article className="mt-10 space-y-6 text-base leading-8 text-neutral-700">
         {article.body.map((paragraph) => (
           <p key={paragraph}>{paragraph}</p>
@@ -103,6 +115,9 @@ export default async function ArticlePage({ params }: Props) {
       <section className="mt-10">
         <FAQ items={article.faq} />
       </section>
+      <div className="mt-10">
+        <RelatedContent products={relatedProducts} articles={relatedArticles} guides={relatedGuides} />
+      </div>
     </main>
   );
 }

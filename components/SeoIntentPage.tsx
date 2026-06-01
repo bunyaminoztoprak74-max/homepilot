@@ -4,6 +4,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
+import { TopPicks } from "@/components/TopPicks";
 import { siteUrl } from "@/lib/content";
 import type { Product, SeoPage } from "@/lib/types";
 
@@ -73,6 +74,7 @@ export function SeoIntentPage({ page, products }: { page: SeoPage; products: Pro
             <ProductComparisonTable products={products} />
           </div>
         </section>
+        <TopPicks products={products} />
         <section>
           <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Recommended products</h2>
           <ProductGrid products={products} />

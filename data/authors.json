@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "homepilot-editorial-team",
+    "name": "HomePilot Editorial Team",
+    "role": "Home product research editors",
+    "expertise": [
+      "Robot vacuum maintenance and navigation",
+      "Small-appliance buying criteria",
+      "Beginner espresso workflows",
+      "Affiliate compliance and retailer-price verification"
+    ],
+    "bio": "The HomePilot Editorial Team researches practical home products through buyer-intent analysis, specification review, ownership-friction checks, and structured product comparisons. Recommendations focus on durable criteria rather than temporary prices, ratings, or review counts.",
+    "reviewedBy": "HomePilot Editorial Review",
+    "reviewNote": "Reviewed for product-fit clarity, Amazon Associates compliance, internal-link usefulness, and avoidance of unsupported price or rating claims."
+  },
+  {
+    "slug": "maya-hart",
+    "name": "Maya Hart",
+    "role": "Small appliance editor",
+    "expertise": [
+      "Air fryer capacity planning",
+      "Countertop appliance usability",
+      "Cleaning and storage tradeoffs",
+      "Family kitchen workflows"
+    ],
+    "bio": "Maya focuses on small kitchen appliances and practical ownership details: capacity, cleaning friction, storage, controls, and whether a product still feels useful after the first week.",
+    "reviewedBy": "HomePilot Editorial Review",
+    "reviewNote": "Reviewed for appliance workflow accuracy, buyer-fit language, and compliant retailer-link usage."
+  },
+  {
+    "slug": "eli-morgan",
+    "name": "Eli Morgan",
+    "role": "Floor care and coffee editor",
+    "expertise": [
+      "Robot vacuum feature comparison",
+      "Pet-hair cleanup routines",
+      "Home espresso setup planning",
+      "Maintenance-first buying guides"
+    ],
+    "bio": "Eli covers floor-care automation and home coffee gear with an emphasis on setup complexity, replacement parts, maintenance routines, and matching product features to real household habits.",
+    "reviewedBy": "HomePilot Editorial Review",
+    "reviewNote": "Reviewed for practical buyer guidance, internal-link quality, and compliance with HomePilot disclosure standards."
+  }
+]

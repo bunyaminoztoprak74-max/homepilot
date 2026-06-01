@@ -23,12 +23,16 @@ export function Footer() {
               <Link className="mt-2 block text-sm text-neutral-300 hover:text-white" href={`/best-${category.slug}`}>
                 Best picks
               </Link>
+              <Link className="mt-2 block text-sm text-neutral-300 hover:text-white" href={`/comparisons/${category.slug}`}>
+                Comparison hub
+              </Link>
             </div>
           ))}
           <div>
             <h2 className="text-sm font-semibold">Company</h2>
             {[
               ["About", "/about"],
+              ["Authors", "/authors"],
               ["Blog", "/blog"],
               ["Contact", "/contact"],
               ["Affiliate Disclosure", "/affiliate-disclosure"],

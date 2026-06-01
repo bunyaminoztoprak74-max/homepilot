@@ -15,7 +15,9 @@ import { JsonLd } from "@/components/JsonLd";
 import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
 import { ProductSchema } from "@/components/ProductSchema";
-import { getCategory, siteUrl } from "@/lib/content";
+import { RelatedContent } from "@/components/RelatedContent";
+import { TopPicks } from "@/components/TopPicks";
+import { articles, getCategory, siteUrl } from "@/lib/content";
 
 type Props = {
   params: Promise<{ category: string }>;
@@ -57,6 +59,7 @@ export default async function CategoryPage({ params }: Props) {
 
   const categoryGuides = guides.filter((guide) => guide.category === category.slug);
   const categoryProducts = products.filter((product) => product.category === category.slug);
+  const categoryArticles = articles.filter((article) => article.category === category.slug);
   return (
     <main>
       <ProductSchema products={categoryProducts} />
@@ -134,6 +137,7 @@ export default async function CategoryPage({ params }: Props) {
               <ProductComparisonTable products={categoryProducts} />
             </div>
           </section>
+          <TopPicks products={categoryProducts} />
           <section>
             <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Featured products</h2>
             <div className="mt-3">
@@ -185,6 +189,7 @@ export default async function CategoryPage({ params }: Props) {
             </div>
           </section>
           <FAQ items={category.faq} />
+          <RelatedContent products={categoryProducts} articles={categoryArticles} guides={categoryGuides} />
         </article>
         <aside className="space-y-4 lg:sticky lg:top-24 lg:self-start">
           <div className="rounded-lg border border-neutral-200 p-5">

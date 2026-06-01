@@ -3,6 +3,7 @@ import categories from "@/data/categories.json";
 import guides from "@/data/guides.json";
 import articles from "@/data/articles.json";
 import seoPages from "@/data/seo-pages.json";
+import authors from "@/data/authors.json";
 import { siteUrl } from "@/lib/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -12,6 +13,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${siteUrl}/best-robot-vacuums`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
     { url: `${siteUrl}/best-air-fryers`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
     { url: `${siteUrl}/best-espresso-machines`, lastModified: now, changeFrequency: "weekly", priority: 0.9 },
+    { url: `${siteUrl}/comparisons/robot-vacuums`, lastModified: now, changeFrequency: "weekly", priority: 0.85 },
+    { url: `${siteUrl}/comparisons/air-fryers`, lastModified: now, changeFrequency: "weekly", priority: 0.85 },
+    { url: `${siteUrl}/comparisons/espresso-machines`, lastModified: now, changeFrequency: "weekly", priority: 0.85 },
+    { url: `${siteUrl}/authors`, lastModified: now, changeFrequency: "monthly", priority: 0.45 },
+    ...authors.map((author) => ({
+      url: `${siteUrl}/authors/${author.slug}`,
+      lastModified: now,
+      changeFrequency: "monthly" as const,
+      priority: 0.45
+    })),
     ...["about", "contact", "privacy-policy", "terms", "affiliate-disclosure", "editorial-process", "how-we-test"].map((path) => ({
       url: `${siteUrl}/${path}`,
       lastModified: now,
