@@ -1,6 +1,6 @@
 # HomePilot
 
-Premium Amazon affiliate website for robot vacuums, air fryers, and espresso machines.
+Premium affiliate website for robot vacuums, air fryers, and espresso machines.
 
 ## Local commands
 
@@ -20,7 +20,7 @@ Product administration is JSON-only:
 - `data/guides.json`
 - `data/comparisons.json`
 
-Affiliate URLs are stored per product in `data/products.json` and use the `affiliater07c-20` Associates tracking ID.
+Retailer URLs are stored per product in `data/products.json` as `amazonUrl`, `ebayUrl`, and `walmartUrl`. Amazon URLs use the `affiliater07c-20` Associates tracking ID.
 
 ## Deploy
 

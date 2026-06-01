@@ -1,4 +1,5 @@
 import type { Product } from "@/lib/types";
+import { RetailerButtons } from "@/components/RetailerButtons";
 
 export function ProductComparisonTable({ products }: { products: Product[] }) {
   return (
@@ -7,7 +8,7 @@ export function ProductComparisonTable({ products }: { products: Product[] }) {
         <table className="min-w-[1080px] text-left text-sm">
           <thead className="sticky top-0 z-10 bg-white/95 text-neutral-600 backdrop-blur">
             <tr className="border-b border-neutral-200">
-              {["Product", "Best For", "Why We Picked It", "Skip If", "Key Features", "Amazon CTA"].map((heading) => (
+              {["Product", "Best For", "Why We Picked It", "Skip If", "Key Features", "Retailer CTAs"].map((heading) => (
                 <th key={heading} className="px-4 py-3 font-semibold">
                   {heading}
                 </th>
@@ -26,14 +27,7 @@ export function ProductComparisonTable({ products }: { products: Product[] }) {
                 <td className="px-4 py-4 text-neutral-700">{product.whoShouldSkip}</td>
                 <td className="px-4 py-4 text-neutral-700">{product.features.slice(0, 3).join(", ")}</td>
                 <td className="px-4 py-4">
-                  <a
-                    className="inline-flex whitespace-nowrap rounded-full bg-neutral-950 px-4 py-2 text-xs font-semibold text-white transition hover:-translate-y-0.5 hover:bg-neutral-700"
-                    href={product.affiliateUrl}
-                    target="_blank"
-                    rel="nofollow sponsored noopener"
-                  >
-                    Check Current Price on Amazon -&gt;
-                  </a>
+                  <RetailerButtons product={product} compact />
                 </td>
               </tr>
             ))}

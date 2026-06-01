@@ -20,7 +20,7 @@ export function CTA({
       </p>
       {external ? (
         <a className={`${className} mt-5`} href={href} target="_blank" rel="nofollow sponsored noopener">
-          View on Amazon
+          View retailer option
         </a>
       ) : (
         <Link className={`${className} mt-5`} href={href}>

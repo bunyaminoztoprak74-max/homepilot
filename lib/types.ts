@@ -13,7 +13,9 @@ export type Product = {
   category: string;
   name: string;
   asin: string;
-  affiliateUrl: string;
+  amazonUrl: string;
+  ebayUrl: string;
+  walmartUrl: string;
   image: string;
   priceText: string;
   comparisonBadge: string;

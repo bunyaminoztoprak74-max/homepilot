@@ -14,7 +14,7 @@ export function ProductSchema({ products }: { products: Product[] }) {
             "@type": "Thing",
             name: product.name,
             image: product.image,
-            url: product.affiliateUrl,
+            url: product.amazonUrl,
             identifier: product.asin,
             description: product.editorialSummary
           }

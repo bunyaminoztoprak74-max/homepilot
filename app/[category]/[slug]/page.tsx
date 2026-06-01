@@ -182,7 +182,7 @@ export default async function GuidePage({ params }: Props) {
           </section>
 
           {guideProducts[0] ? (
-            <CTA title="Check current Amazon options" href={guideProducts[0].affiliateUrl} external />
+            <CTA title="Compare current retailer options" href={guideProducts[0].amazonUrl} external />
           ) : null}
 
           <section>

@@ -13,4 +13,4 @@ Affiliate rules baked into templates:
 - No hardcoded prices.
 - No fake ratings.
 - No fake reviews.
-- Product buttons use the configured Amazon Associates tracking ID.
+- Product buttons support Amazon, eBay, and Walmart retailer links. Amazon links use the configured Amazon Associates tracking ID.

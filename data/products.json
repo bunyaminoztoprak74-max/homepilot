@@ -4,7 +4,6 @@
     "category": "robot-vacuums",
     "name": "Shark Matrix Clean Robot Vacuum AV2511AE",
     "asin": "B09T4YZGQR",
-    "affiliateUrl": "https://www.amazon.com/dp/B09T4YZGQR?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71aVw0Zpt6L._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best self-empty value",
@@ -33,14 +32,16 @@
     "keyTradeoffs": [
       "Dock needs floor space",
       "Mop function is not included"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B09T4YZGQR?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Shark%20Matrix%20Clean%20Robot%20Vacuum%20AV2511AE%20B09T4YZGQR",
+    "walmartUrl": "https://www.walmart.com/search?q=Shark%20Matrix%20Clean%20Robot%20Vacuum%20AV2511AE%20B09T4YZGQR"
   },
   {
     "id": "roborock-q5-pro",
     "category": "robot-vacuums",
     "name": "roborock Q5 Pro Robot Vacuum and Mop",
     "asin": "B0C7VLHMQR",
-    "affiliateUrl": "https://www.amazon.com/dp/B0C7VLHMQR?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/61tEB35ByZL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best mapping pick",
@@ -69,14 +70,16 @@
     "keyTradeoffs": [
       "Mopping is light maintenance only",
       "No auto-empty dock on this listing"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0C7VLHMQR?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=roborock%20Q5%20Pro%20Robot%20Vacuum%20and%20Mop%20B0C7VLHMQR",
+    "walmartUrl": "https://www.walmart.com/search?q=roborock%20Q5%20Pro%20Robot%20Vacuum%20and%20Mop%20B0C7VLHMQR"
   },
   {
     "id": "shark-rv2310ae",
     "category": "robot-vacuums",
     "name": "Shark RV2310AE Matrix Self-Emptying Robot Vacuum",
     "asin": "B09J88GNW3",
-    "affiliateUrl": "https://www.amazon.com/dp/B09J88GNW3?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71tWzqOqfiL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best self-empty pet pick",
@@ -105,14 +108,16 @@
     "keyTradeoffs": [
       "Higher upfront cost than basic robots",
       "Dock needs open floor space"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B09J88GNW3?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Shark%20RV2310AE%20Matrix%20Self-Emptying%20Robot%20Vacuum%20B09J88GNW3",
+    "walmartUrl": "https://www.walmart.com/search?q=Shark%20RV2310AE%20Matrix%20Self-Emptying%20Robot%20Vacuum%20B09J88GNW3"
   },
   {
     "id": "eufy-11s-max",
     "category": "robot-vacuums",
     "name": "eufy Robot Vacuum 11S MAX",
     "asin": "B07R295MLS",
-    "affiliateUrl": "https://www.amazon.com/dp/B07R295MLS?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/7162dbcZW3L._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best slim budget pick",
@@ -141,14 +146,16 @@
     "keyTradeoffs": [
       "No LiDAR mapping",
       "No self-empty dock"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B07R295MLS?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=eufy%20Robot%20Vacuum%2011S%20MAX%20B07R295MLS",
+    "walmartUrl": "https://www.walmart.com/search?q=eufy%20Robot%20Vacuum%2011S%20MAX%20B07R295MLS"
   },
   {
     "id": "shark-powerdetect-av2820s",
     "category": "robot-vacuums",
     "name": "Shark PowerDetect Self-Empty Robot Vacuum AV2820S",
     "asin": "B0CDJFHM4J",
-    "affiliateUrl": "https://www.amazon.com/dp/B0CDJFHM4J?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71Ua+FPZ8oL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best premium Shark",
@@ -177,14 +184,16 @@
     "keyTradeoffs": [
       "Large dock footprint",
       "Higher feature complexity"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0CDJFHM4J?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Shark%20PowerDetect%20Self-Empty%20Robot%20Vacuum%20AV2820S%20B0CDJFHM4J",
+    "walmartUrl": "https://www.walmart.com/search?q=Shark%20PowerDetect%20Self-Empty%20Robot%20Vacuum%20AV2820S%20B0CDJFHM4J"
   },
   {
     "id": "roborock-qrevo-qv35a",
     "category": "robot-vacuums",
     "name": "roborock Qrevo QV 35A Robot Vacuum and Mop",
     "asin": "B0DQ82FJST",
-    "affiliateUrl": "https://www.amazon.com/dp/B0DQ82FJST?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/61RJLs+bX7L._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best mop dock",
@@ -213,14 +222,16 @@
     "keyTradeoffs": [
       "Dock is bulky",
       "More consumables to maintain"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ82FJST?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=roborock%20Qrevo%20QV%2035A%20Robot%20Vacuum%20and%20Mop%20B0DQ82FJST",
+    "walmartUrl": "https://www.walmart.com/search?q=roborock%20Qrevo%20QV%2035A%20Robot%20Vacuum%20and%20Mop%20B0DQ82FJST"
   },
   {
     "id": "shark-av2110s",
     "category": "robot-vacuums",
     "name": "Shark Navigator Robot Vacuum AV2110S",
     "asin": "B0F2GRYPD1",
-    "affiliateUrl": "https://www.amazon.com/dp/B0F2GRYPD1?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71R-84RPgmL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best newer Shark value",
@@ -249,14 +260,16 @@
     "keyTradeoffs": [
       "Newer listing may have fewer long-term owner notes",
       "White finish may show dust"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0F2GRYPD1?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Shark%20Navigator%20Robot%20Vacuum%20AV2110S%20B0F2GRYPD1",
+    "walmartUrl": "https://www.walmart.com/search?q=Shark%20Navigator%20Robot%20Vacuum%20AV2110S%20B0F2GRYPD1"
   },
   {
     "id": "roborock-q10-s5-plus",
     "category": "robot-vacuums",
     "name": "roborock Q10 S5+ Robot Vacuum and Mop",
     "asin": "B0DWXBCQVP",
-    "affiliateUrl": "https://www.amazon.com/dp/B0DWXBCQVP?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/61KBMtvTenL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best high-suction dock",
@@ -285,14 +298,16 @@
     "keyTradeoffs": [
       "Premium pricing can fluctuate",
       "Mop performance depends on flooring"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0DWXBCQVP?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=roborock%20Q10%20S5%2B%20Robot%20Vacuum%20and%20Mop%20B0DWXBCQVP",
+    "walmartUrl": "https://www.walmart.com/search?q=roborock%20Q10%20S5%2B%20Robot%20Vacuum%20and%20Mop%20B0DWXBCQVP"
   },
   {
     "id": "irobot-roomba-105-autoempty",
     "category": "robot-vacuums",
     "name": "iRobot Roomba 105 Vac Robot Vacuum with AutoEmpty Dock",
     "asin": "B0DWG1K24K",
-    "affiliateUrl": "https://www.amazon.com/dp/B0DWG1K24K?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/81csaOROmzL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best Roomba dock pick",
@@ -321,14 +336,16 @@
     "keyTradeoffs": [
       "Replacement parts and bags add cost",
       "No mop on this listing"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0DWG1K24K?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=iRobot%20Roomba%20105%20Vac%20Robot%20Vacuum%20with%20AutoEmpty%20Dock%20B0DWG1K24K",
+    "walmartUrl": "https://www.walmart.com/search?q=iRobot%20Roomba%20105%20Vac%20Robot%20Vacuum%20with%20AutoEmpty%20Dock%20B0DWG1K24K"
   },
   {
     "id": "dreame-d20-plus",
     "category": "robot-vacuums",
     "name": "DREAME D20 Plus Robot Vacuum and Mop",
     "asin": "B0F3C3XM68",
-    "affiliateUrl": "https://www.amazon.com/dp/B0F3C3XM68?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/611ghQdL8UL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best high-capacity dust bag",
@@ -357,14 +374,16 @@
     "keyTradeoffs": [
       "Dock uses bags",
       "Newer model with less long-term history"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0F3C3XM68?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=DREAME%20D20%20Plus%20Robot%20Vacuum%20and%20Mop%20B0F3C3XM68",
+    "walmartUrl": "https://www.walmart.com/search?q=DREAME%20D20%20Plus%20Robot%20Vacuum%20and%20Mop%20B0F3C3XM68"
   },
   {
     "id": "cosori-turboblaze-6qt",
     "category": "air-fryers",
     "name": "COSORI 9-in-1 TurboBlaze Air Fryer 6 Qt",
     "asin": "B0C33CHG99",
-    "affiliateUrl": "https://www.amazon.com/dp/B0C33CHG99?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/81R9sA3IyBL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best overall air fryer",
@@ -393,14 +412,16 @@
     "keyTradeoffs": [
       "Single basket requires batches",
       "Basket size may be small for big families"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0C33CHG99?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=COSORI%209-in-1%20TurboBlaze%20Air%20Fryer%206%20Qt%20B0C33CHG99",
+    "walmartUrl": "https://www.walmart.com/search?q=COSORI%209-in-1%20TurboBlaze%20Air%20Fryer%206%20Qt%20B0C33CHG99"
   },
   {
     "id": "ninja-af101",
     "category": "air-fryers",
     "name": "Ninja AF101 4 Qt Air Fryer",
     "asin": "B07FDJMC9Q",
-    "affiliateUrl": "https://www.amazon.com/dp/B07FDJMC9Q?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71+8uTMDRFL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best compact pick",
@@ -429,14 +450,16 @@
     "keyTradeoffs": [
       "Not ideal for large families",
       "Round basket wastes some space"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B07FDJMC9Q?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Ninja%20AF101%204%20Qt%20Air%20Fryer%20B07FDJMC9Q",
+    "walmartUrl": "https://www.walmart.com/search?q=Ninja%20AF101%204%20Qt%20Air%20Fryer%20B07FDJMC9Q"
   },
   {
     "id": "ninja-dz201",
     "category": "air-fryers",
     "name": "Ninja DZ201 Foodi 8 Qt DualZone Air Fryer",
     "asin": "B089TQWJKK",
-    "affiliateUrl": "https://www.amazon.com/dp/B089TQWJKK?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/61xMRA3NY4L._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best dual basket",
@@ -465,14 +488,16 @@
     "keyTradeoffs": [
       "Wide footprint",
       "More parts to clean"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B089TQWJKK?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Ninja%20DZ201%20Foodi%208%20Qt%20DualZone%20Air%20Fryer%20B089TQWJKK",
+    "walmartUrl": "https://www.walmart.com/search?q=Ninja%20DZ201%20Foodi%208%20Qt%20DualZone%20Air%20Fryer%20B089TQWJKK"
   },
   {
     "id": "instant-vortex-plus-6qt",
     "category": "air-fryers",
     "name": "Instant Pot Vortex Plus 6QT Air Fryer",
     "asin": "B07VHFMZHJ",
-    "affiliateUrl": "https://www.amazon.com/dp/B07VHFMZHJ?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71GPWtT61gL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best Instant pick",
@@ -501,14 +526,16 @@
     "keyTradeoffs": [
       "Single basket",
       "May be bulky for tiny counters"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B07VHFMZHJ?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Instant%20Pot%20Vortex%20Plus%206QT%20Air%20Fryer%20B07VHFMZHJ",
+    "walmartUrl": "https://www.walmart.com/search?q=Instant%20Pot%20Vortex%20Plus%206QT%20Air%20Fryer%20B07VHFMZHJ"
   },
   {
     "id": "ninja-af141",
     "category": "air-fryers",
     "name": "Ninja AF141 5 Qt Air Fryer Pro",
     "asin": "B0CSZ7WBYW",
-    "affiliateUrl": "https://www.amazon.com/dp/B0CSZ7WBYW?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71jfzcXideL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best newer compact Ninja",
@@ -537,14 +564,16 @@
     "keyTradeoffs": [
       "Still a single basket",
       "Not a full oven replacement"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0CSZ7WBYW?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Ninja%20AF141%205%20Qt%20Air%20Fryer%20Pro%20B0CSZ7WBYW",
+    "walmartUrl": "https://www.walmart.com/search?q=Ninja%20AF141%205%20Qt%20Air%20Fryer%20Pro%20B0CSZ7WBYW"
   },
   {
     "id": "cosori-pro-5qt",
     "category": "air-fryers",
     "name": "COSORI Air Fryer Pro 5QT",
     "asin": "B0936FGLQS",
-    "affiliateUrl": "https://www.amazon.com/dp/B0936FGLQS?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71jSDZe54mL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best 5-quart value",
@@ -573,14 +602,16 @@
     "keyTradeoffs": [
       "Single basket",
       "Presets still need adjustment"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0936FGLQS?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=COSORI%20Air%20Fryer%20Pro%205QT%20B0936FGLQS",
+    "walmartUrl": "https://www.walmart.com/search?q=COSORI%20Air%20Fryer%20Pro%205QT%20B0936FGLQS"
   },
   {
     "id": "ninja-af181",
     "category": "air-fryers",
     "name": "Ninja AF181 XL Air Fryer",
     "asin": "B0CS3V8M9H",
-    "affiliateUrl": "https://www.amazon.com/dp/B0CS3V8M9H?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/719F0KSYZqL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best XL single basket",
@@ -609,14 +640,16 @@
     "keyTradeoffs": [
       "Larger counter footprint",
       "Still one cooking zone"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0CS3V8M9H?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Ninja%20AF181%20XL%20Air%20Fryer%20B0CS3V8M9H",
+    "walmartUrl": "https://www.walmart.com/search?q=Ninja%20AF181%20XL%20Air%20Fryer%20B0CS3V8M9H"
   },
   {
     "id": "instant-versazone-9qt",
     "category": "air-fryers",
     "name": "Instant Pot VersaZone 9QT Air Fryer",
     "asin": "B0B18VW7VS",
-    "affiliateUrl": "https://www.amazon.com/dp/B0B18VW7VS?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/714N1jT7eoL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best flexible basket",
@@ -645,14 +678,16 @@
     "keyTradeoffs": [
       "Wide footprint",
       "Large basket storage"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0B18VW7VS?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Instant%20Pot%20VersaZone%209QT%20Air%20Fryer%20B0B18VW7VS",
+    "walmartUrl": "https://www.walmart.com/search?q=Instant%20Pot%20VersaZone%209QT%20Air%20Fryer%20B0B18VW7VS"
   },
   {
     "id": "chefman-turbofry-8qt",
     "category": "air-fryers",
     "name": "Chefman TurboFry 8 Qt Air Fryer",
     "asin": "B08DKYBTPH",
-    "affiliateUrl": "https://www.amazon.com/dp/B08DKYBTPH?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71VzGtbzyFL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best simple large basket",
@@ -681,14 +716,16 @@
     "keyTradeoffs": [
       "Single zone",
       "Large counter footprint"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B08DKYBTPH?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Chefman%20TurboFry%208%20Qt%20Air%20Fryer%20B08DKYBTPH",
+    "walmartUrl": "https://www.walmart.com/search?q=Chefman%20TurboFry%208%20Qt%20Air%20Fryer%20B08DKYBTPH"
   },
   {
     "id": "instant-vortex-clearcook",
     "category": "air-fryers",
     "name": "Instant Pot Vortex Plus 6QT ClearCook Air Fryer",
     "asin": "B096N3FTZP",
-    "affiliateUrl": "https://www.amazon.com/dp/B096N3FTZP?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71QM4TEKo8L._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best viewing window",
@@ -717,14 +754,16 @@
     "keyTradeoffs": [
       "Window needs cleaning",
       "Single basket"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B096N3FTZP?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Instant%20Pot%20Vortex%20Plus%206QT%20ClearCook%20Air%20Fryer%20B096N3FTZP",
+    "walmartUrl": "https://www.walmart.com/search?q=Instant%20Pot%20Vortex%20Plus%206QT%20ClearCook%20Air%20Fryer%20B096N3FTZP"
   },
   {
     "id": "breville-bambino",
     "category": "espresso-machines",
     "name": "Breville Bambino Espresso Machine BES450BSS",
     "asin": "B0B1JPPG2L",
-    "affiliateUrl": "https://www.amazon.com/dp/B0B1JPPG2L?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/61egYXcL9OL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best beginner machine",
@@ -753,14 +792,16 @@
     "keyTradeoffs": [
       "Needs a capable grinder",
       "Small water tank"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0B1JPPG2L?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Breville%20Bambino%20Espresso%20Machine%20BES450BSS%20B0B1JPPG2L",
+    "walmartUrl": "https://www.walmart.com/search?q=Breville%20Bambino%20Espresso%20Machine%20BES450BSS%20B0B1JPPG2L"
   },
   {
     "id": "breville-barista-express",
     "category": "espresso-machines",
     "name": "Breville Barista Express Espresso Machine BES870XL",
     "asin": "B00CH9QWOU",
-    "affiliateUrl": "https://www.amazon.com/dp/B00CH9QWOU?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/71BvCt6eAFL._SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best all-in-one",
@@ -789,14 +830,16 @@
     "keyTradeoffs": [
       "Bigger footprint",
       "Built-in grinder limits upgrade path"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B00CH9QWOU?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Breville%20Barista%20Express%20Espresso%20Machine%20BES870XL%20B00CH9QWOU",
+    "walmartUrl": "https://www.walmart.com/search?q=Breville%20Barista%20Express%20Espresso%20Machine%20BES870XL%20B00CH9QWOU"
   },
   {
     "id": "baratza-encore-esp",
     "category": "espresso-machines",
     "name": "Baratza Encore ESP Coffee Grinder",
     "asin": "B0BW272XCV",
-    "affiliateUrl": "https://www.amazon.com/dp/B0BW272XCV?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/618pZAdKDBL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best grinder upgrade",
@@ -825,14 +868,16 @@
     "keyTradeoffs": [
       "Not an espresso machine by itself",
       "Still requires dialing in"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0BW272XCV?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Baratza%20Encore%20ESP%20Coffee%20Grinder%20B0BW272XCV",
+    "walmartUrl": "https://www.walmart.com/search?q=Baratza%20Encore%20ESP%20Coffee%20Grinder%20B0BW272XCV"
   },
   {
     "id": "ninja-luxe-cafe",
     "category": "espresso-machines",
     "name": "Ninja Luxe Cafe Premier 3-in-1 Espresso Machine ES601",
     "asin": "B0D45PK5V4",
-    "affiliateUrl": "https://www.amazon.com/dp/B0D45PK5V4?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/61D9GtphxuL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best assisted workflow",
@@ -861,14 +906,16 @@
     "keyTradeoffs": [
       "Less traditional than semi-automatic espresso",
       "Larger footprint"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0D45PK5V4?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Ninja%20Luxe%20Cafe%20Premier%203-in-1%20Espresso%20Machine%20ES601%20B0D45PK5V4",
+    "walmartUrl": "https://www.walmart.com/search?q=Ninja%20Luxe%20Cafe%20Premier%203-in-1%20Espresso%20Machine%20ES601%20B0D45PK5V4"
   },
   {
     "id": "casabrews-cm5418",
     "category": "espresso-machines",
     "name": "CASABREWS CM5418 Espresso Machine",
     "asin": "B09X3WGJ3R",
-    "affiliateUrl": "https://www.amazon.com/dp/B09X3WGJ3R?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/617U+hSCJEL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best compact budget machine",
@@ -897,14 +944,16 @@
     "keyTradeoffs": [
       "Budget workflow has compromises",
       "Needs grinder for best results"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B09X3WGJ3R?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=CASABREWS%20CM5418%20Espresso%20Machine%20B09X3WGJ3R",
+    "walmartUrl": "https://www.walmart.com/search?q=CASABREWS%20CM5418%20Espresso%20Machine%20B09X3WGJ3R"
   },
   {
     "id": "breville-bambino-plus",
     "category": "espresso-machines",
     "name": "Breville Bambino Plus Espresso Machine BES500BSS",
     "asin": "B07JVD78TT",
-    "affiliateUrl": "https://www.amazon.com/dp/B07JVD78TT?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/515b5YnjKyL._SL1039_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best compact milk drinks",
@@ -933,14 +982,16 @@
     "keyTradeoffs": [
       "Still needs a grinder",
       "Small footprint means smaller reservoir"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B07JVD78TT?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Breville%20Bambino%20Plus%20Espresso%20Machine%20BES500BSS%20B07JVD78TT",
+    "walmartUrl": "https://www.walmart.com/search?q=Breville%20Bambino%20Plus%20Espresso%20Machine%20BES500BSS%20B07JVD78TT"
   },
   {
     "id": "delonghi-classic",
     "category": "espresso-machines",
     "name": "De'Longhi Classic Espresso Machine",
     "asin": "B0DQWC47JN",
-    "affiliateUrl": "https://www.amazon.com/dp/B0DQWC47JN?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/713oP52aAcL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best classic pump option",
@@ -969,14 +1020,16 @@
     "keyTradeoffs": [
       "Requires practice",
       "Grinder still matters"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0DQWC47JN?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=De'Longhi%20Classic%20Espresso%20Machine%20B0DQWC47JN",
+    "walmartUrl": "https://www.walmart.com/search?q=De'Longhi%20Classic%20Espresso%20Machine%20B0DQWC47JN"
   },
   {
     "id": "delonghi-stilosa",
     "category": "espresso-machines",
     "name": "De'Longhi Stilosa Manual Espresso Machine",
     "asin": "B08C96BG9H",
-    "affiliateUrl": "https://www.amazon.com/dp/B08C96BG9H?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/81c3ItE+jyL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best manual starter",
@@ -1005,14 +1058,16 @@
     "keyTradeoffs": [
       "Limited automation",
       "Needs grinder and technique"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B08C96BG9H?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=De'Longhi%20Stilosa%20Manual%20Espresso%20Machine%20B08C96BG9H",
+    "walmartUrl": "https://www.walmart.com/search?q=De'Longhi%20Stilosa%20Manual%20Espresso%20Machine%20B08C96BG9H"
   },
   {
     "id": "breville-bambino-baratza-bundle",
     "category": "espresso-machines",
     "name": "Breville Bambino Plus and Baratza Encore ESP Bundle",
     "asin": "B0CMYKCKW2",
-    "affiliateUrl": "https://www.amazon.com/dp/B0CMYKCKW2?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/51dqoAVW+YL._AC_SL1057_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best machine-grinder bundle",
@@ -1041,14 +1096,16 @@
     "keyTradeoffs": [
       "Bundle availability can vary",
       "Costs more than machine-only"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0CMYKCKW2?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Breville%20Bambino%20Plus%20and%20Baratza%20Encore%20ESP%20Bundle%20B0CMYKCKW2",
+    "walmartUrl": "https://www.walmart.com/search?q=Breville%20Bambino%20Plus%20and%20Baratza%20Encore%20ESP%20Bundle%20B0CMYKCKW2"
   },
   {
     "id": "terra-kaffe-tk02",
     "category": "espresso-machines",
     "name": "Terra Kaffe TK-02 Super Automatic Espresso Machine",
     "asin": "B0DM2FCLHJ",
-    "affiliateUrl": "https://www.amazon.com/dp/B0DM2FCLHJ?tag=affiliater07c-20",
     "image": "https://m.media-amazon.com/images/I/61J8H37-ArL._AC_SL1500_.jpg",
     "priceText": "See latest pricing",
     "comparisonBadge": "Best app-enabled superautomatic",
@@ -1077,6 +1134,9 @@
     "keyTradeoffs": [
       "Premium machine class",
       "Less hands-on control"
-    ]
+    ],
+    "amazonUrl": "https://www.amazon.com/dp/B0DM2FCLHJ?tag=affiliater07c-20",
+    "ebayUrl": "https://www.ebay.com/sch/i.html?_nkw=Terra%20Kaffe%20TK-02%20Super%20Automatic%20Espresso%20Machine%20B0DM2FCLHJ",
+    "walmartUrl": "https://www.walmart.com/search?q=Terra%20Kaffe%20TK-02%20Super%20Automatic%20Espresso%20Machine%20B0DM2FCLHJ"
   }
 ]

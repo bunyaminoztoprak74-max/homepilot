@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Product } from "@/lib/types";
+import { RetailerButtons } from "@/components/RetailerButtons";
 
 export function ProductGrid({ products }: { products: Product[] }) {
   return (
@@ -33,16 +34,11 @@ export function ProductGrid({ products }: { products: Product[] }) {
             <FeatureList title="Key tradeoffs" items={product.keyTradeoffs} />
           </div>
           <p className="mt-4 text-xs text-neutral-500">
-            Prices, ratings, availability, and reviews can change. Confirm details on Amazon.
+            Prices, ratings, availability, and reviews can change. Confirm details with the retailer before buying.
           </p>
-          <a
-            className="mt-5 inline-flex w-full justify-center rounded-full bg-neutral-950 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-neutral-700"
-            href={product.affiliateUrl}
-            target="_blank"
-            rel="nofollow sponsored noopener"
-          >
-            Check Current Price on Amazon -&gt;
-          </a>
+          <div className="mt-5">
+            <RetailerButtons product={product} />
+          </div>
         </article>
       ))}
     </div>
