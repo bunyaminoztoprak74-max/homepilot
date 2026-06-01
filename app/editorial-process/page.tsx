@@ -16,6 +16,18 @@ export default function Page() {
       <p>
         Product selections are stored in structured JSON so they can be reviewed, replaced, and expanded without changing the site templates. This keeps the site scalable while preserving editorial consistency.
       </p>
+      <section>
+        <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Selection standards</h2>
+        <p className="mt-3">
+          We keep shortlists narrow on purpose. A product must map to a clear reader need, such as pet-hair maintenance, compact cooking, family capacity, beginner espresso workflow, or lower-maintenance ownership. Products that do not add a distinct use case are left out.
+        </p>
+      </section>
+      <section>
+        <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Update workflow</h2>
+        <p className="mt-3">
+          Updates start with the JSON data: ASIN, affiliate URL, image, best-for statement, why-we-picked-it note, skip guidance, and tradeoffs. This keeps recommendations reviewable without creating thin new URLs.
+        </p>
+      </section>
     </TrustPage>
   );
 }

@@ -22,6 +22,11 @@ export type Product = {
   pros: string[];
   cons: string[];
   affiliateNote: string;
+  editorialSummary: string;
+  whyPicked: string;
+  whoShouldBuy: string;
+  whoShouldSkip: string;
+  keyTradeoffs: string[];
 };
 
 export type Guide = {

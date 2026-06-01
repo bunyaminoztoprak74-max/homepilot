@@ -152,6 +152,25 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="border-y border-neutral-200 bg-white">
+        <div className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
+          <SectionHeader eyebrow="Where to start" title="Pick the comparison path that matches your buying moment." />
+          <div className="mt-8 grid gap-4 md:grid-cols-4">
+            {[
+              ["Compare robot vacuums", "/best-robot-vacuums", "For mapped cleaning, pet hair, and self-empty docks."],
+              ["Compare air fryers", "/best-air-fryers", "For compact kitchens, families, and two-zone cooking."],
+              ["Compare espresso machines", "/best-espresso-machines", "For beginners, grinders, milk drinks, and automation."],
+              ["Start with beginner guides", "/espresso-machines/beginners", "For practical buying advice before picking a product."]
+            ].map(([label, href, copy]) => (
+              <Link key={href} className="rounded-lg border border-neutral-200 bg-neutral-50 p-5 transition hover:-translate-y-1 hover:border-neutral-950 hover:bg-white" href={href}>
+                <h3 className="font-semibold text-neutral-950">{label}</h3>
+                <p className="mt-2 text-sm leading-6 text-neutral-600">{copy}</p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
       <section className="border-y border-neutral-200 bg-neutral-50">
         <div className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
           <SectionHeader eyebrow="Editor picks" title="Real Amazon listings with transparent metadata." />

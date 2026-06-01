@@ -151,6 +151,27 @@ export default async function CategoryPage({ params }: Props) {
               ))}
             </div>
           </section>
+          <section className="grid gap-4 md:grid-cols-3">
+            {[
+              {
+                title: "Who should buy",
+                copy: `${category.name} make sense when the product solves a recurring household problem and fits your daily routine, not just when the spec sheet looks impressive.`
+              },
+              {
+                title: "Who should skip",
+                copy: `Skip or wait if your current setup already handles the job well, storage is tight, or the maintenance routine would make the product annoying to own.`
+              },
+              {
+                title: "Before you buy",
+                copy: "Check current Amazon pricing, seller details, included accessories, warranty terms, dimensions, and replacement-part availability."
+              }
+            ].map((item) => (
+              <div key={item.title} className="rounded-lg border border-neutral-200 bg-white p-5">
+                <h2 className="font-semibold text-neutral-950">{item.title}</h2>
+                <p className="mt-2 text-sm leading-6 text-neutral-600">{item.copy}</p>
+              </div>
+            ))}
+          </section>
           <CategoryEditorial category={category} />
           {categoryGuides[0] ? (
             <CTA title={`Read the focused ${category.name.toLowerCase()} guide`} href={`/${category.slug}/${categoryGuides[0].slug}`} />

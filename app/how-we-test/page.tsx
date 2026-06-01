@@ -16,6 +16,18 @@ export default function Page() {
       <p>
         We use Amazon product pages for product availability and affiliate destinations, but we avoid static Amazon prices, ratings, and reviews in our own pages. Readers should confirm live listing details directly on Amazon before purchase.
       </p>
+      <section>
+        <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">What we evaluate before recommending</h2>
+        <p className="mt-3">
+          Every recommendation is reviewed for fit, ownership friction, maintenance, replacement-part availability, and whether the product has a clear reason to exist in the shortlist. We prefer useful tradeoff notes over vague best-product claims.
+        </p>
+      </section>
+      <section>
+        <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">What we do not claim</h2>
+        <p className="mt-3">
+          HomePilot does not claim live lab scores, fake star ratings, or permanent pricing. When exact listing details matter, we direct readers to Amazon so they can verify the current seller, price, availability, and return terms.
+        </p>
+      </section>
     </TrustPage>
   );
 }

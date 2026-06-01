@@ -25,7 +25,15 @@
       "Mop function is not included",
       "App setup matters for best results"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best self-empty value for pet hair, LiDAR mapping, and hands-off emptying.",
+    "whyPicked": "Bagless self-empty base. Self-empty base and LiDAR navigation make it a strong fit for pet hair, LiDAR mapping, and hands-off emptying.",
+    "whoShouldBuy": "Choose it if you want pet hair, LiDAR mapping, and hands-off emptying and you value good fit for pet hair routines.",
+    "whoShouldSkip": "Skip it if dock needs floor space or mop function is not included.",
+    "keyTradeoffs": [
+      "Dock needs floor space",
+      "Mop function is not included"
+    ]
   },
   {
     "id": "roborock-q5-pro",
@@ -53,7 +61,15 @@
       "No auto-empty dock on this listing",
       "Needs app setup"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best mapping pick for large homes that need LiDAR mapping and strong pickup.",
+    "whyPicked": "Strong mapping controls. 5500Pa suction and DuoRoller brush make it a strong fit for large homes that need LiDAR mapping and strong pickup.",
+    "whoShouldBuy": "Choose it if you want large homes that need LiDAR mapping and strong pickup and you value long advertised runtime.",
+    "whoShouldSkip": "Skip it if mopping is light maintenance only or no auto-empty dock on this listing.",
+    "keyTradeoffs": [
+      "Mopping is light maintenance only",
+      "No auto-empty dock on this listing"
+    ]
   },
   {
     "id": "shark-rv2310ae",
@@ -81,7 +97,15 @@
       "Dock needs open floor space",
       "Not a true deep-clean replacement"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best self-empty pet pick for pet hair, bagless self-emptying, and mapped room cleaning.",
+    "whyPicked": "Self-empty base reduces daily maintenance. Bagless self-empty base and 45-day capacity make it a strong fit for pet hair, bagless self-emptying, and mapped room cleaning.",
+    "whoShouldBuy": "Choose it if you want pet hair, bagless self-emptying, and mapped room cleaning and you value brushroll is designed for pet hair.",
+    "whoShouldSkip": "Skip it if higher upfront cost than basic robots or dock needs open floor space.",
+    "keyTradeoffs": [
+      "Higher upfront cost than basic robots",
+      "Dock needs open floor space"
+    ]
   },
   {
     "id": "eufy-11s-max",
@@ -109,7 +133,15 @@
       "No self-empty dock",
       "Basic navigation"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best slim budget pick for apartments, hard floors, and low-profile furniture.",
+    "whyPicked": "Very low profile. Slim body and BoostIQ suction make it a strong fit for apartments, hard floors, and low-profile furniture.",
+    "whoShouldBuy": "Choose it if you want apartments, hard floors, and low-profile furniture and you value simple controls.",
+    "whoShouldSkip": "Skip it if no lidar mapping or no self-empty dock.",
+    "keyTradeoffs": [
+      "No LiDAR mapping",
+      "No self-empty dock"
+    ]
   },
   {
     "id": "shark-powerdetect-av2820s",
@@ -137,7 +169,15 @@
       "Higher feature complexity",
       "Needs room prep for best performance"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best premium Shark for pet homes that want a newer Shark self-empty dock.",
+    "whyPicked": "Self-empty dock. NeverStuck technology and HEPA bagless base make it a strong fit for pet homes that want a newer Shark self-empty dock.",
+    "whoShouldBuy": "Choose it if you want pet homes that want a newer Shark self-empty dock and you value pet-hair oriented design.",
+    "whoShouldSkip": "Skip it if large dock footprint or higher feature complexity.",
+    "keyTradeoffs": [
+      "Large dock footprint",
+      "Higher feature complexity"
+    ]
   },
   {
     "id": "roborock-qrevo-qv35a",
@@ -165,7 +205,15 @@
       "More consumables to maintain",
       "Premium feature set may be overkill"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best mop dock for homes that want vacuuming, mopping, and dock automation.",
+    "whyPicked": "Automated mop care. All-in-one dock and Spinning mops make it a strong fit for homes that want vacuuming, mopping, and dock automation.",
+    "whoShouldBuy": "Choose it if you want homes that want vacuuming, mopping, and dock automation and you value strong suction claim.",
+    "whoShouldSkip": "Skip it if dock is bulky or more consumables to maintain.",
+    "keyTradeoffs": [
+      "Dock is bulky",
+      "More consumables to maintain"
+    ]
   },
   {
     "id": "shark-av2110s",
@@ -193,7 +241,15 @@
       "White finish may show dust",
       "Dock placement matters"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best newer Shark value for pet hair and everyday mapped cleaning.",
+    "whyPicked": "Self-empty base included. Bagless self-empty base and SmartPath LiDAR make it a strong fit for pet hair and everyday mapped cleaning.",
+    "whoShouldBuy": "Choose it if you want pet hair and everyday mapped cleaning and you value lidar navigation.",
+    "whoShouldSkip": "Skip it if newer listing may have fewer long-term owner notes or white finish may show dust.",
+    "keyTradeoffs": [
+      "Newer listing may have fewer long-term owner notes",
+      "White finish may show dust"
+    ]
   },
   {
     "id": "roborock-q10-s5-plus",
@@ -221,7 +277,15 @@
       "Mop performance depends on flooring",
       "Large dock"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best high-suction dock for homes that want self-emptying plus stronger suction claims.",
+    "whyPicked": "Strong spec sheet. Self-empty dock and 10000Pa suction make it a strong fit for homes that want self-emptying plus stronger suction claims.",
+    "whoShouldBuy": "Choose it if you want homes that want self-emptying plus stronger suction claims and you value self-emptying convenience.",
+    "whoShouldSkip": "Skip it if premium pricing can fluctuate or mop performance depends on flooring.",
+    "keyTradeoffs": [
+      "Premium pricing can fluctuate",
+      "Mop performance depends on flooring"
+    ]
   },
   {
     "id": "irobot-roomba-105-autoempty",
@@ -249,7 +313,15 @@
       "No mop on this listing",
       "Best with tidy floors"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best Roomba dock pick for roomba shoppers who want LiDAR and self-emptying.",
+    "whyPicked": "Roomba ecosystem. AutoEmpty dock and LiDAR navigation make it a strong fit for roomba shoppers who want LiDAR and self-emptying.",
+    "whoShouldBuy": "Choose it if you want roomba shoppers who want LiDAR and self-emptying and you value self-empty dock.",
+    "whoShouldSkip": "Skip it if replacement parts and bags add cost or no mop on this listing.",
+    "keyTradeoffs": [
+      "Replacement parts and bags add cost",
+      "No mop on this listing"
+    ]
   },
   {
     "id": "dreame-d20-plus",
@@ -277,7 +349,15 @@
       "Newer model with less long-term history",
       "Mopping is maintenance-level"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best high-capacity dust bag for larger homes that want self-emptying and app mapping.",
+    "whyPicked": "Large dust bag. Self-emptying dock and LDS mapping make it a strong fit for larger homes that want self-emptying and app mapping.",
+    "whoShouldBuy": "Choose it if you want larger homes that want self-emptying and app mapping and you value strong suction claim.",
+    "whoShouldSkip": "Skip it if dock uses bags or newer model with less long-term history.",
+    "keyTradeoffs": [
+      "Dock uses bags",
+      "Newer model with less long-term history"
+    ]
   },
   {
     "id": "cosori-turboblaze-6qt",
@@ -305,7 +385,15 @@
       "Basket size may be small for big families",
       "Needs airflow clearance"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best overall air fryer for most kitchens that want capacity, speed, and easy controls.",
+    "whyPicked": "Useful everyday size. 6-quart basket and 9 cooking functions make it a strong fit for most kitchens that want capacity, speed, and easy controls.",
+    "whoShouldBuy": "Choose it if you want most kitchens that want capacity, speed, and easy controls and you value wide temperature range.",
+    "whoShouldSkip": "Skip it if single basket requires batches or basket size may be small for big families.",
+    "keyTradeoffs": [
+      "Single basket requires batches",
+      "Basket size may be small for big families"
+    ]
   },
   {
     "id": "ninja-af101",
@@ -333,7 +421,15 @@
       "Round basket wastes some space",
       "Fewer modes than newer models"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best compact pick for small kitchens, snacks, and simple weeknight sides.",
+    "whyPicked": "Compact and proven. 4-quart basket and Air fry make it a strong fit for small kitchens, snacks, and simple weeknight sides.",
+    "whoShouldBuy": "Choose it if you want small kitchens, snacks, and simple weeknight sides and you value simple controls.",
+    "whoShouldSkip": "Skip it if not ideal for large families or round basket wastes some space.",
+    "keyTradeoffs": [
+      "Not ideal for large families",
+      "Round basket wastes some space"
+    ]
   },
   {
     "id": "ninja-dz201",
@@ -361,7 +457,15 @@
       "More parts to clean",
       "Each basket is smaller than one large basket"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best dual basket for families cooking mains and sides at the same time.",
+    "whyPicked": "Cook two foods separately. Two independent baskets and Smart Finish make it a strong fit for families cooking mains and sides at the same time.",
+    "whoShouldBuy": "Choose it if you want families cooking mains and sides at the same time and you value helpful sync controls.",
+    "whoShouldSkip": "Skip it if wide footprint or more parts to clean.",
+    "keyTradeoffs": [
+      "Wide footprint",
+      "More parts to clean"
+    ]
   },
   {
     "id": "instant-vortex-plus-6qt",
@@ -389,7 +493,15 @@
       "May be bulky for tiny counters",
       "Controls vary by model version"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best Instant pick for families that want a straightforward 6-quart basket.",
+    "whyPicked": "Familiar Instant brand. 6-in-1 functions and Dishwasher-safe basket make it a strong fit for families that want a straightforward 6-quart basket.",
+    "whoShouldBuy": "Choose it if you want families that want a straightforward 6-quart basket and you value good all-purpose capacity.",
+    "whoShouldSkip": "Skip it if single basket or may be bulky for tiny counters.",
+    "keyTradeoffs": [
+      "Single basket",
+      "May be bulky for tiny counters"
+    ]
   },
   {
     "id": "ninja-af141",
@@ -417,7 +529,15 @@
       "Not a full oven replacement",
       "No viewing window"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best newer compact Ninja for small families that want a little more space than 4 quarts.",
+    "whyPicked": "Practical mid-size basket. 5-quart capacity and Air crisp make it a strong fit for small families that want a little more space than 4 quarts.",
+    "whoShouldBuy": "Choose it if you want small families that want a little more space than 4 quarts and you value compact for capacity.",
+    "whoShouldSkip": "Skip it if still a single basket or not a full oven replacement.",
+    "keyTradeoffs": [
+      "Still a single basket",
+      "Not a full oven replacement"
+    ]
   },
   {
     "id": "cosori-pro-5qt",
@@ -445,7 +565,15 @@
       "Presets still need adjustment",
       "Capacity may be tight for batch cooking"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best 5-quart value for couples and small families that want presets.",
+    "whyPicked": "Good usable size. 5-quart basket and Ceramic coating make it a strong fit for couples and small families that want presets.",
+    "whoShouldBuy": "Choose it if you want couples and small families that want presets and you value helpful reminders.",
+    "whoShouldSkip": "Skip it if single basket or presets still need adjustment.",
+    "keyTradeoffs": [
+      "Single basket",
+      "Presets still need adjustment"
+    ]
   },
   {
     "id": "ninja-af181",
@@ -473,7 +601,15 @@
       "Still one cooking zone",
       "Basket can be bulky to wash"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best XL single basket for bigger portions without moving to a dual basket.",
+    "whyPicked": "More room than compact models. 6.5-quart capacity and MaxCrisp make it a strong fit for bigger portions without moving to a dual basket.",
+    "whoShouldBuy": "Choose it if you want bigger portions without moving to a dual basket and you value good for family sides.",
+    "whoShouldSkip": "Skip it if larger counter footprint or still one cooking zone.",
+    "keyTradeoffs": [
+      "Larger counter footprint",
+      "Still one cooking zone"
+    ]
   },
   {
     "id": "instant-versazone-9qt",
@@ -501,7 +637,15 @@
       "Large basket storage",
       "May be more than small kitchens need"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best flexible basket for families that want one large zone or divided cooking.",
+    "whyPicked": "Flexible cooking zone. 9-quart capacity and VersaZone divider make it a strong fit for families that want one large zone or divided cooking.",
+    "whoShouldBuy": "Choose it if you want families that want one large zone or divided cooking and you value large capacity.",
+    "whoShouldSkip": "Skip it if wide footprint or large basket storage.",
+    "keyTradeoffs": [
+      "Wide footprint",
+      "Large basket storage"
+    ]
   },
   {
     "id": "chefman-turbofry-8qt",
@@ -529,7 +673,15 @@
       "Large counter footprint",
       "Less premium feel than higher-end models"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best simple large basket for large portions with straightforward controls.",
+    "whyPicked": "Large basket. 8-quart basket and Hi-Fry option make it a strong fit for large portions with straightforward controls.",
+    "whoShouldBuy": "Choose it if you want large portions with straightforward controls and you value simple controls.",
+    "whoShouldSkip": "Skip it if single zone or large counter footprint.",
+    "keyTradeoffs": [
+      "Single zone",
+      "Large counter footprint"
+    ]
   },
   {
     "id": "instant-vortex-clearcook",
@@ -557,7 +709,15 @@
       "Single basket",
       "Not ideal for very large batches"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best viewing window for cooks who want to monitor browning without opening the basket.",
+    "whyPicked": "Viewing window helps timing. ClearCook window and 6-in-1 functions make it a strong fit for cooks who want to monitor browning without opening the basket.",
+    "whoShouldBuy": "Choose it if you want cooks who want to monitor browning without opening the basket and you value good everyday capacity.",
+    "whoShouldSkip": "Skip it if window needs cleaning or single basket.",
+    "keyTradeoffs": [
+      "Window needs cleaning",
+      "Single basket"
+    ]
   },
   {
     "id": "breville-bambino",
@@ -585,7 +745,15 @@
       "Small water tank",
       "Manual technique still matters"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best beginner machine for beginners who want real espresso in a compact footprint.",
+    "whyPicked": "Beginner-friendly workflow. Compact body and Steam wand make it a strong fit for beginners who want real espresso in a compact footprint.",
+    "whoShouldBuy": "Choose it if you want beginners who want real espresso in a compact footprint and you value small counter footprint.",
+    "whoShouldSkip": "Skip it if needs a capable grinder or small water tank.",
+    "keyTradeoffs": [
+      "Needs a capable grinder",
+      "Small water tank"
+    ]
   },
   {
     "id": "breville-barista-express",
@@ -613,7 +781,15 @@
       "Built-in grinder limits upgrade path",
       "Takes practice to dial in"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best all-in-one for home baristas who want a built-in grinder and full workflow.",
+    "whyPicked": "All-in-one setup. Integrated burr grinder and PID temperature control make it a strong fit for home baristas who want a built-in grinder and full workflow.",
+    "whoShouldBuy": "Choose it if you want home baristas who want a built-in grinder and full workflow and you value strong learning platform.",
+    "whoShouldSkip": "Skip it if bigger footprint or built-in grinder limits upgrade path.",
+    "keyTradeoffs": [
+      "Bigger footprint",
+      "Built-in grinder limits upgrade path"
+    ]
   },
   {
     "id": "baratza-encore-esp",
@@ -641,7 +817,15 @@
       "Still requires dialing in",
       "Retention and noise are normal grinder tradeoffs"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best grinder upgrade for espresso beginners upgrading from pre-ground coffee.",
+    "whyPicked": "High-impact espresso upgrade. Espresso-focused adjustment and Compact hopper make it a strong fit for espresso beginners upgrading from pre-ground coffee.",
+    "whoShouldBuy": "Choose it if you want espresso beginners upgrading from pre-ground coffee and you value compact footprint.",
+    "whoShouldSkip": "Skip it if not an espresso machine by itself or still requires dialing in.",
+    "keyTradeoffs": [
+      "Not an espresso machine by itself",
+      "Still requires dialing in"
+    ]
   },
   {
     "id": "ninja-luxe-cafe",
@@ -669,7 +853,15 @@
       "Larger footprint",
       "Newer platform"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best assisted workflow for households that want espresso, drip, cold brew, and guidance.",
+    "whyPicked": "Approachable workflow. Built-in grinder and Assisted tamper make it a strong fit for households that want espresso, drip, cold brew, and guidance.",
+    "whoShouldBuy": "Choose it if you want households that want espresso, drip, cold brew, and guidance and you value multiple drink styles.",
+    "whoShouldSkip": "Skip it if less traditional than semi-automatic espresso or larger footprint.",
+    "keyTradeoffs": [
+      "Less traditional than semi-automatic espresso",
+      "Larger footprint"
+    ]
   },
   {
     "id": "casabrews-cm5418",
@@ -697,7 +889,15 @@
       "Needs grinder for best results",
       "More manual technique required"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best compact budget machine for small kitchens and occasional espresso drinks.",
+    "whyPicked": "Small footprint. 20-bar pump and Steam frother make it a strong fit for small kitchens and occasional espresso drinks.",
+    "whoShouldBuy": "Choose it if you want small kitchens and occasional espresso drinks and you value accessible starter option.",
+    "whoShouldSkip": "Skip it if budget workflow has compromises or needs grinder for best results.",
+    "keyTradeoffs": [
+      "Budget workflow has compromises",
+      "Needs grinder for best results"
+    ]
   },
   {
     "id": "breville-bambino-plus",
@@ -725,7 +925,15 @@
       "Small footprint means smaller reservoir",
       "Less control than larger machines"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best compact milk drinks for beginners who want easier milk steaming.",
+    "whyPicked": "Great compact size. Compact body and Automatic milk texturing make it a strong fit for beginners who want easier milk steaming.",
+    "whoShouldBuy": "Choose it if you want beginners who want easier milk steaming and you value milk workflow is more forgiving.",
+    "whoShouldSkip": "Skip it if still needs a grinder or small footprint means smaller reservoir.",
+    "keyTradeoffs": [
+      "Still needs a grinder",
+      "Small footprint means smaller reservoir"
+    ]
   },
   {
     "id": "delonghi-classic",
@@ -753,7 +961,15 @@
       "Grinder still matters",
       "Not as automated as superautomatic machines"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best classic pump option for latte and cappuccino drinkers who want manual control.",
+    "whyPicked": "Familiar manual workflow. 15-bar pump and Milk frother make it a strong fit for latte and cappuccino drinkers who want manual control.",
+    "whoShouldBuy": "Choose it if you want latte and cappuccino drinkers who want manual control and you value milk frother included.",
+    "whoShouldSkip": "Skip it if requires practice or grinder still matters.",
+    "keyTradeoffs": [
+      "Requires practice",
+      "Grinder still matters"
+    ]
   },
   {
     "id": "delonghi-stilosa",
@@ -781,7 +997,15 @@
       "Needs grinder and technique",
       "Not for high-volume entertaining"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best manual starter for budget-minded beginners learning espresso basics.",
+    "whyPicked": "Simple manual learning machine. 15-bar pump and Manual steam wand make it a strong fit for budget-minded beginners learning espresso basics.",
+    "whoShouldBuy": "Choose it if you want budget-minded beginners learning espresso basics and you value compact design.",
+    "whoShouldSkip": "Skip it if limited automation or needs grinder and technique.",
+    "keyTradeoffs": [
+      "Limited automation",
+      "Needs grinder and technique"
+    ]
   },
   {
     "id": "breville-bambino-baratza-bundle",
@@ -809,7 +1033,15 @@
       "Costs more than machine-only",
       "Still requires dialing in"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best machine-grinder bundle for beginners who want a complete espresso starting point.",
+    "whyPicked": "Solves machine plus grinder pairing. Bambino Plus machine and Baratza Encore ESP grinder make it a strong fit for beginners who want a complete espresso starting point.",
+    "whoShouldBuy": "Choose it if you want beginners who want a complete espresso starting point and you value compact workflow.",
+    "whoShouldSkip": "Skip it if bundle availability can vary or costs more than machine-only.",
+    "keyTradeoffs": [
+      "Bundle availability can vary",
+      "Costs more than machine-only"
+    ]
   },
   {
     "id": "terra-kaffe-tk02",
@@ -837,6 +1069,14 @@
       "Less hands-on control",
       "Maintenance routines still matter"
     ],
-    "affiliateNote": "Check current Amazon price"
+    "affiliateNote": "Check current Amazon price",
+    "editorialSummary": "Best app-enabled superautomatic for convenience-first households that want automated drinks.",
+    "whyPicked": "Highly automated. Superautomatic brewing and App-enabled controls make it a strong fit for convenience-first households that want automated drinks.",
+    "whoShouldBuy": "Choose it if you want convenience-first households that want automated drinks and you value convenient for multiple users.",
+    "whoShouldSkip": "Skip it if premium machine class or less hands-on control.",
+    "keyTradeoffs": [
+      "Premium machine class",
+      "Less hands-on control"
+    ]
   }
 ]
