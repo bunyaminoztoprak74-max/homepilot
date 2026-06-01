@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import type { Metadata } from "next";
 import categories from "@/data/categories.json";
 import guides from "@/data/guides.json";
@@ -11,6 +10,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { Newsletter } from "@/components/Newsletter";
 import { ProductComparisonTable } from "@/components/ProductComparisonTable";
 import { ProductGrid } from "@/components/ProductGrid";
+import { ProductImage } from "@/components/ProductImage";
 import { ProductSchema } from "@/components/ProductSchema";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { products } from "@/lib/content";
@@ -122,16 +122,14 @@ export default function Home() {
                     index === 1 ? "ml-8" : index === 2 ? "ml-16" : ""
                   }`}
                 >
-                  <div className="relative h-24 w-24 shrink-0 overflow-hidden rounded-lg bg-neutral-100">
-                    <Image
-                      src={product.image}
-                      alt={product.name}
-                      fill
-                      priority={index === 0}
-                      sizes="96px"
-                      className="object-contain p-2"
-                    />
-                  </div>
+                  <ProductImage
+                    src={product.image}
+                    alt={product.name}
+                    className="h-24 w-24 shrink-0"
+                    imageClassName="p-2"
+                    priority={index === 0}
+                    sizes="96px"
+                  />
                   <div>
                     <p className="text-xs font-semibold uppercase tracking-[0.16em] text-neutral-500">
                       {product.comparisonBadge}

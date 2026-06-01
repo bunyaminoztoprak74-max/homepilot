@@ -1,5 +1,5 @@
-import Image from "next/image";
 import type { Product } from "@/lib/types";
+import { ProductImage } from "@/components/ProductImage";
 import { RetailerButtons } from "@/components/RetailerButtons";
 
 export function ProductGrid({ products }: { products: Product[] }) {
@@ -10,15 +10,13 @@ export function ProductGrid({ products }: { products: Product[] }) {
           key={product.id}
           className="rounded-lg border border-neutral-200 bg-white p-5 shadow-sm transition duration-200 hover:-translate-y-1 hover:shadow-lg"
         >
-          <div className="relative aspect-[4/3] overflow-hidden rounded-lg bg-neutral-100">
-            <Image
-              src={product.image}
-              alt={product.name}
-              fill
-              className="object-contain p-6"
-              sizes="(min-width: 768px) 33vw, 100vw"
-            />
-          </div>
+          <ProductImage
+            src={product.image}
+            alt={product.name}
+            className="aspect-[4/3]"
+            imageClassName="p-6"
+            sizes="(min-width: 768px) 33vw, 100vw"
+          />
           <span className="mt-4 inline-flex rounded-full bg-neutral-950 px-3 py-1 text-xs font-semibold text-white">
             {product.comparisonBadge}
           </span>
