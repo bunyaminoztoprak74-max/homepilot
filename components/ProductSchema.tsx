@@ -1,5 +1,6 @@
 import { JsonLd } from "@/components/JsonLd";
 import type { Product } from "@/lib/types";
+import { buildEbayAffiliateUrl } from "@/lib/ebay-config";
 
 export function ProductSchema({ products }: { products: Product[] }) {
   return (
@@ -18,7 +19,22 @@ export function ProductSchema({ products }: { products: Product[] }) {
             sku: product.asin,
             description: product.editorialSummary,
             category: product.category,
-            isRelatedTo: product.ebayUrl
+            // No static prices/ratings are published per site policy; offers
+            // link to live retailer listings for current pricing.
+            offers: [
+              {
+                "@type": "Offer",
+                url: product.amazonUrl,
+                seller: { "@type": "Organization", name: "Amazon" },
+                availability: "https://schema.org/InStock"
+              },
+              {
+                "@type": "Offer",
+                url: buildEbayAffiliateUrl(product.ebayUrl, `${product.id}-schema`),
+                seller: { "@type": "Organization", name: "eBay" },
+                availability: "https://schema.org/InStock"
+              }
+            ]
           }
         }))
       }}

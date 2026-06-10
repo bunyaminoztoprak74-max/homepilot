@@ -1,4 +1,6 @@
 import type { Product } from "@/lib/types";
+import { EbayButton } from "@/components/EbayButton";
+
 export function ProductComparisonTable({ products }: { products: Product[] }) {
   return (
     <div className="overflow-hidden rounded-lg border border-neutral-200 bg-white shadow-sm">
@@ -32,14 +34,12 @@ export function ProductComparisonTable({ products }: { products: Product[] }) {
                   </a>
                 </td>
                 <td className="px-4 py-4">
-                  <a
-                    className="inline-flex whitespace-nowrap rounded-full border border-neutral-300 bg-white px-4 py-2 text-xs font-semibold text-neutral-950 transition hover:-translate-y-0.5 hover:border-neutral-950"
+                  <EbayButton
                     href={product.ebayUrl}
-                    target="_blank"
-                    rel="nofollow sponsored noopener"
-                  >
-                    Check eBay Price
-                  </a>
+                    customId={product.id}
+                    label="Check eBay Price"
+                    className="inline-flex whitespace-nowrap rounded-full border border-neutral-300 bg-white px-4 py-2 text-xs font-semibold text-neutral-950 transition hover:-translate-y-0.5 hover:border-neutral-950"
+                  />
                 </td>
               </tr>
             ))}
