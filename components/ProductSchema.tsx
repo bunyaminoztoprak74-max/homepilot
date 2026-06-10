@@ -1,7 +1,15 @@
 import { JsonLd } from "@/components/JsonLd";
 import type { Product } from "@/lib/types";
-import { buildEbayAffiliateUrl } from "@/lib/ebay-config";
 
+// IMPORTANT: Do not mark these list items as schema.org "Product".
+// Google's Product structured data requires "offers", "review", or
+// "aggregateRating" with real price/rating values. HomePilot does not
+// publish static prices, star ratings, or review counts (see
+// /affiliate-disclosure), so a "Product" type here would always be
+// incomplete and trigger Search Console "Product" errors. Using
+// "WebPage" keeps these as a valid, descriptive ItemList without any
+// fabricated price or rating data, while still linking to the live
+// retailer listing for current pricing and availability.
 export function ProductSchema({ products }: { products: Product[] }) {
   return (
     <JsonLd
@@ -12,29 +20,11 @@ export function ProductSchema({ products }: { products: Product[] }) {
           "@type": "ListItem",
           position: index + 1,
           item: {
-            "@type": "Product",
+            "@type": "WebPage",
             name: product.name,
             image: product.image,
             url: product.amazonUrl,
-            sku: product.asin,
-            description: product.editorialSummary,
-            category: product.category,
-            // No static prices/ratings are published per site policy; offers
-            // link to live retailer listings for current pricing.
-            offers: [
-              {
-                "@type": "Offer",
-                url: product.amazonUrl,
-                seller: { "@type": "Organization", name: "Amazon" },
-                availability: "https://schema.org/InStock"
-              },
-              {
-                "@type": "Offer",
-                url: buildEbayAffiliateUrl(product.ebayUrl, `${product.id}-schema`),
-                seller: { "@type": "Organization", name: "eBay" },
-                availability: "https://schema.org/InStock"
-              }
-            ]
+            description: product.editorialSummary
           }
         }))
       }}
