@@ -35,18 +35,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!category) return {};
 
   return {
-    title: `${category.name} Buying Guides`,
+    title: `Best ${category.name} 2026: Tested & Compared | HomePilot`,
     description: category.description,
     alternates: { canonical: `/${category.slug}` },
     openGraph: {
-      title: `${category.name} Buying Guides | HomePilot`,
+      title: `Best ${category.name} 2026: Tested & Compared | HomePilot`,
       description: category.description,
       url: `${siteUrl}/${category.slug}`,
       type: "website"
     },
     twitter: {
       card: "summary_large_image",
-      title: `${category.name} Buying Guides | HomePilot`,
+      title: `Best ${category.name} 2026: Tested & Compared | HomePilot`,
       description: category.description
     }
   };
@@ -198,14 +198,4 @@ export default async function CategoryPage({ params }: Props) {
               {categories
                 .filter((item) => item.slug !== category.slug)
                 .map((item) => (
-                  <Link key={item.slug} className="text-neutral-600 hover:text-neutral-950" href={`/${item.slug}`}>
-                    {item.name}
-                  </Link>
-                ))}
-            </div>
-          </div>
-        </aside>
-      </div>
-    </main>
-  );
-}
+                  <Link key={item.slug} className="text-neutral-600 hover:text-
