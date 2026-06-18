@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-beginners");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Beginners | HomePilot`,
+  title: `Best Air Fryers for Beginners 2026 — Simple, Tested Picks | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-beginners" },
   openGraph: {
-    title: `Best Air Fryers for Beginners | HomePilot`,
+    title: `Best Air Fryers for Beginners 2026 — Simple, Tested Picks | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-air-fryers-for-beginners`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Air Fryers for Beginners | HomePilot`,
+    title: `Best Air Fryers for Beginners 2026 — Simple, Tested Picks | HomePilot`,
     description: page?.description
   }
 };

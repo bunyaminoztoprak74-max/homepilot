@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-small-kitchens");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Small Kitchens | HomePilot`,
+  title: `Best Air Fryers for Small Kitchens 2026 — Compact Tested | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-small-kitchens" },
   openGraph: {
-    title: `Best Air Fryers for Small Kitchens | HomePilot`,
+    title: `Best Air Fryers for Small Kitchens 2026 — Compact Tested | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-air-fryers-for-small-kitchens`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Air Fryers for Small Kitchens | HomePilot`,
+    title: `Best Air Fryers for Small Kitchens 2026 — Compact Tested | HomePilot`,
     description: page?.description
   }
 };

@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-reheating-leftovers");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Reheating Leftovers | HomePilot`,
+  title: `Best Air Fryers for Reheating Leftovers 2026 — Tested | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-reheating-leftovers" },
   openGraph: {
-    title: `Best Air Fryers for Reheating Leftovers | HomePilot`,
+    title: `Best Air Fryers for Reheating Leftovers 2026 — Tested | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-air-fryers-for-reheating-leftovers`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Air Fryers for Reheating Leftovers | HomePilot`,
+    title: `Best Air Fryers for Reheating Leftovers 2026 — Tested | HomePilot`,
     description: page?.description
   }
 };

@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-under-100");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers Under $100 | HomePilot`,
+  title: `Best Air Fryers Under $100 (2026) — Budget Picks Tested | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-under-100" },
   openGraph: {
-    title: `Best Air Fryers Under $100 | HomePilot`,
+    title: `Best Air Fryers Under $100 (2026) — Budget Picks Tested | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-air-fryers-under-100`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Air Fryers Under $100 | HomePilot`,
+    title: `Best Air Fryers Under $100 (2026) — Budget Picks Tested | HomePilot`,
     description: page?.description
   }
 };

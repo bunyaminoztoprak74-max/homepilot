@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-robot-vacuums-under-300");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums Under $300 | HomePilot`,
+  title: `Best Robot Vacuums Under $300 (2026) — Tested Picks | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-robot-vacuums-under-300" },
   openGraph: {
-    title: `Best Robot Vacuums Under $300 | HomePilot`,
+    title: `Best Robot Vacuums Under $300 (2026) — Tested Picks | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-robot-vacuums-under-300`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Robot Vacuums Under $300 | HomePilot`,
+    title: `Best Robot Vacuums Under $300 (2026) — Tested Picks | HomePilot`,
     description: page?.description
   }
 };

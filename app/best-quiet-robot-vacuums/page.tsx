@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-quiet-robot-vacuums");
 
 export const metadata: Metadata = {
-  title: `Best Quiet Robot Vacuums | HomePilot`,
+  title: `Quietest Robot Vacuums 2026 — Under 60 dB, Tested | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-quiet-robot-vacuums" },
   openGraph: {
-    title: `Best Quiet Robot Vacuums | HomePilot`,
+    title: `Quietest Robot Vacuums 2026 — Under 60 dB, Tested | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-quiet-robot-vacuums`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Quiet Robot Vacuums | HomePilot`,
+    title: `Quietest Robot Vacuums 2026 — Under 60 dB, Tested | HomePilot`,
     description: page?.description
   }
 };

@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-families");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Families | HomePilot`,
+  title: `Best Air Fryers for Families 2026 — 6Qt+ Tested | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-families" },
   openGraph: {
-    title: `Best Air Fryers for Families | HomePilot`,
+    title: `Best Air Fryers for Families 2026 — 6Qt+ Tested | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-air-fryers-for-families`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Air Fryers for Families | HomePilot`,
+    title: `Best Air Fryers for Families 2026 — 6Qt+ Tested | HomePilot`,
     description: page?.description
   }
 };

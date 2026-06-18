@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-manual-espresso-machines");
 
 export const metadata: Metadata = {
-  title: `Best Manual Espresso Machines | HomePilot`,
+  title: `Best Manual Espresso Machines 2026 — Lever Tested | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-manual-espresso-machines" },
   openGraph: {
-    title: `Best Manual Espresso Machines | HomePilot`,
+    title: `Best Manual Espresso Machines 2026 — Lever Tested | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-manual-espresso-machines`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Manual Espresso Machines | HomePilot`,
+    title: `Best Manual Espresso Machines 2026 — Lever Tested | HomePilot`,
     description: page?.description
   }
 };

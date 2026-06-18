@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-two-people");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Two People | HomePilot`,
+  title: `Best Air Fryers for Two People 2026 — Right-Sized Picks | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-two-people" },
   openGraph: {
-    title: `Best Air Fryers for Two People | HomePilot`,
+    title: `Best Air Fryers for Two People 2026 — Right-Sized Picks | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-air-fryers-for-two-people`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Air Fryers for Two People | HomePilot`,
+    title: `Best Air Fryers for Two People 2026 — Right-Sized Picks | HomePilot`,
     description: page?.description
   }
 };
