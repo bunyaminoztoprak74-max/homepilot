@@ -198,4 +198,14 @@ export default async function CategoryPage({ params }: Props) {
               {categories
                 .filter((item) => item.slug !== category.slug)
                 .map((item) => (
-                  <Link key={item.slug} className="text-neutral-600 hover:text-
+                  <Link key={item.slug} className="text-neutral-600 hover:text-neutral-950" href={`/${item.slug}`}>
+                    {item.name}
+                  </Link>
+                ))}
+            </div>
+          </div>
+        </aside>
+      </div>
+    </main>
+  );
+}
