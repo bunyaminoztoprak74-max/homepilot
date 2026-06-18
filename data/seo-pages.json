@@ -1048,5 +1048,464 @@
       "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
       "For a safer decision, compare this intent page with the main category guide and one related HomePilot buying guide. That keeps the recommendation focused while avoiding thin, duplicate shopping pages."
     ]
+  },
+  {
+    "slug": "best-burr-grinders-for-home",
+    "category": "coffee-grinders",
+    "title": "Best Burr Grinders for Home Use",
+    "description": "Best home burr coffee grinders in 2026 — consistent particle size for better extraction, ranked for drip, pour over, and espresso.",
+    "productIds": [
+      "baratza-encore-conical-burr",
+      "oxo-brew-conical-burr",
+      "breville-smart-grinder-pro",
+      "fellow-ode-brew-grinder-gen2",
+      "hario-mini-slim-plus"
+    ],
+    "sections": [
+      "This page is built for one buying situation: finding a reliable home burr grinder that improves coffee quality without overcomplicating the morning routine. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main coffee grinders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-coffee-grinders-for-espresso",
+    "category": "coffee-grinders",
+    "title": "Best Coffee Grinders for Espresso",
+    "description": "Best espresso grinders for home in 2026 — fine, consistent grind adjustment for repeatable espresso shots.",
+    "productIds": [
+      "breville-smart-grinder-pro",
+      "fellow-ode-brew-grinder-gen2",
+      "baratza-encore-conical-burr"
+    ],
+    "sections": [
+      "This page is built for one buying situation: espresso-level grind consistency at home. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main coffee grinders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-coffee-grinders-for-pour-over",
+    "category": "coffee-grinders",
+    "title": "Best Coffee Grinders for Pour Over",
+    "description": "Best grinders for pour over coffee in 2026 — uniform medium-fine grind for V60, Chemex, and Kalita Wave brewing.",
+    "productIds": [
+      "baratza-encore-conical-burr",
+      "fellow-ode-brew-grinder-gen2",
+      "oxo-brew-conical-burr",
+      "hario-mini-slim-plus"
+    ],
+    "sections": [
+      "This page is built for one buying situation: pour over brewing with consistent grind size. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main coffee grinders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-coffee-grinders-under-100",
+    "category": "coffee-grinders",
+    "title": "Best Coffee Grinders Under $100",
+    "description": "Best budget coffee grinders under $100 in 2026 — burr grinder performance without the premium price tag.",
+    "productIds": [
+      "baratza-encore-conical-burr",
+      "oxo-brew-conical-burr",
+      "hario-mini-slim-plus"
+    ],
+    "sections": [
+      "This page is built for one buying situation: getting real burr grinder performance on a budget. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main coffee grinders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-manual-coffee-grinders",
+    "category": "coffee-grinders",
+    "title": "Best Manual Coffee Grinders",
+    "description": "Best hand coffee grinders in 2026 — quiet, portable, and capable for travel, camping, and apartment brewing.",
+    "productIds": [
+      "hario-mini-slim-plus",
+      "baratza-encore-conical-burr"
+    ],
+    "sections": [
+      "This page is built for one buying situation: quiet or portable manual grinding for travel and small spaces. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main coffee grinders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-stand-mixers-for-bread",
+    "category": "stand-mixers",
+    "title": "Best Stand Mixers for Bread",
+    "description": "Best stand mixers for bread baking in 2026 — powerful motors and dough hooks that handle whole wheat and stiff doughs.",
+    "productIds": [
+      "bosch-universal-plus",
+      "kitchenaid-professional-600",
+      "kitchenaid-artisan-5qt",
+      "cuisinart-sm-50"
+    ],
+    "sections": [
+      "This page is built for one buying situation: kneading bread dough reliably without overheating. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main stand mixers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-stand-mixers-under-300",
+    "category": "stand-mixers",
+    "title": "Best Stand Mixers Under $300",
+    "description": "Best stand mixers under $300 in 2026 — capable baking performance without KitchenAid's premium price.",
+    "productIds": [
+      "cuisinart-sm-50",
+      "hamilton-beach-63390",
+      "kitchenaid-artisan-5qt"
+    ],
+    "sections": [
+      "This page is built for one buying situation: reliable stand mixer performance without premium pricing. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main stand mixers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-kitchenaid-alternatives",
+    "category": "stand-mixers",
+    "title": "Best KitchenAid Alternatives",
+    "description": "Best KitchenAid stand mixer alternatives in 2026 — comparable baking performance at a lower price point.",
+    "productIds": [
+      "cuisinart-sm-50",
+      "bosch-universal-plus",
+      "hamilton-beach-63390"
+    ],
+    "sections": [
+      "This page is built for one buying situation: finding stand mixer performance comparable to KitchenAid at lower cost. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main stand mixers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-stand-mixers-for-small-kitchens",
+    "category": "stand-mixers",
+    "title": "Best Stand Mixers for Small Kitchens",
+    "description": "Best compact stand mixers for small kitchens in 2026 — capable mixing without dominating limited counter space.",
+    "productIds": [
+      "hamilton-beach-63390",
+      "cuisinart-sm-50",
+      "kitchenaid-artisan-5qt"
+    ],
+    "sections": [
+      "This page is built for one buying situation: stand mixer capability in a small kitchen with limited counter space. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main stand mixers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-stand-mixers-for-baking-cakes",
+    "category": "stand-mixers",
+    "title": "Best Stand Mixers for Baking Cakes",
+    "description": "Best stand mixers for cake baking in 2026 — gentle mixing, good whipping, and easy bowl access for cake batters.",
+    "productIds": [
+      "kitchenaid-artisan-5qt",
+      "cuisinart-sm-50",
+      "hamilton-beach-63390",
+      "kitchenaid-professional-600"
+    ],
+    "sections": [
+      "This page is built for one buying situation: mixing cake batters and whipping cream reliably. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main stand mixers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-air-purifiers-for-allergies",
+    "category": "air-purifiers",
+    "title": "Best Air Purifiers for Allergies",
+    "description": "Best air purifiers for allergy relief in 2026 — True HEPA filtration for pollen, dust mites, and pet dander.",
+    "productIds": [
+      "coway-ap-1512hh",
+      "winix-5500-2",
+      "levoit-core-400s",
+      "blueair-blue-pure-211-plus"
+    ],
+    "sections": [
+      "This page is built for one buying situation: reducing airborne allergens like pollen, dust mites, and dander. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main air purifiers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-air-purifiers-for-bedrooms",
+    "category": "air-purifiers",
+    "title": "Best Air Purifiers for Bedrooms",
+    "description": "Best bedroom air purifiers in 2026 — quiet True HEPA units that run overnight without disturbing sleep.",
+    "productIds": [
+      "coway-ap-1512hh",
+      "levoit-core-400s",
+      "winix-5500-2"
+    ],
+    "sections": [
+      "This page is built for one buying situation: quiet overnight purification in a bedroom without sleep disruption. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main air purifiers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-air-purifiers-for-pets",
+    "category": "air-purifiers",
+    "title": "Best Air Purifiers for Pet Owners",
+    "description": "Best air purifiers for pet hair and dander in 2026 — strong CADR and activated carbon for pet odors.",
+    "productIds": [
+      "winix-5500-2",
+      "coway-ap-1512hh",
+      "levoit-core-400s",
+      "blueair-blue-pure-211-plus"
+    ],
+    "sections": [
+      "This page is built for one buying situation: reducing pet hair, dander, and odors in a home with dogs or cats. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main air purifiers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-air-purifiers-for-large-rooms",
+    "category": "air-purifiers",
+    "title": "Best Air Purifiers for Large Rooms",
+    "description": "Best air purifiers for large rooms and open plans in 2026 — high CADR models for spaces over 400 sq ft.",
+    "productIds": [
+      "blueair-blue-pure-211-plus",
+      "levoit-core-400s",
+      "dyson-purifier-cool-tp07",
+      "winix-5500-2"
+    ],
+    "sections": [
+      "This page is built for one buying situation: purifying air in a large living room or open-plan space effectively. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main air purifiers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-air-purifiers-under-150",
+    "category": "air-purifiers",
+    "title": "Best Air Purifiers Under $150",
+    "description": "Best budget air purifiers under $150 in 2026 — True HEPA performance without overpaying for sensors and screens.",
+    "productIds": [
+      "coway-ap-1512hh",
+      "winix-5500-2",
+      "levoit-core-400s"
+    ],
+    "sections": [
+      "This page is built for one buying situation: genuine True HEPA performance without spending over $150. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main air purifiers category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-blenders-for-smoothies",
+    "category": "blenders",
+    "title": "Best Blenders for Smoothies",
+    "description": "Best blenders for smoothies in 2026 — from high-performance Vitamix to personal single-serve models that crush frozen fruit.",
+    "productIds": [
+      "vitamix-e310-explorian",
+      "ninja-professional-bl610",
+      "nutribullet-pro-900",
+      "breville-super-q"
+    ],
+    "sections": [
+      "This page is built for one buying situation: daily smoothie making with frozen fruit, greens, and protein powder. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main blenders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-personal-blenders",
+    "category": "blenders",
+    "title": "Best Personal Blenders",
+    "description": "Best personal single-serve blenders in 2026 — compact, fast-cleanup blenders for daily on-the-go smoothies.",
+    "productIds": [
+      "nutribullet-pro-900",
+      "ninja-professional-bl610"
+    ],
+    "sections": [
+      "This page is built for one buying situation: quick single-serve smoothies with minimal cleanup. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main blenders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-high-performance-blenders",
+    "category": "blenders",
+    "title": "Best High-Performance Blenders",
+    "description": "Best professional-grade blenders in 2026 — Vitamix, Breville, and Blendtec for nut butters, hot soups, and daily heavy use.",
+    "productIds": [
+      "vitamix-e310-explorian",
+      "breville-super-q",
+      "ninja-professional-bl610"
+    ],
+    "sections": [
+      "This page is built for one buying situation: daily heavy use including nut butters, soups, and frozen drinks. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main blenders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-blenders-for-soups",
+    "category": "blenders",
+    "title": "Best Blenders for Soups",
+    "description": "Best blenders for hot soups in 2026 — high-performance models and immersion blenders that handle hot liquids safely.",
+    "productIds": [
+      "vitamix-e310-explorian",
+      "cuisinart-cso-300n-immersion",
+      "breville-super-q"
+    ],
+    "sections": [
+      "This page is built for one buying situation: blending hot soups and purees safely and smoothly. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main blenders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-blenders-under-100",
+    "category": "blenders",
+    "title": "Best Blenders Under $100",
+    "description": "Best affordable blenders under $100 in 2026 — reliable smoothie and frozen drink performance without premium pricing.",
+    "productIds": [
+      "ninja-professional-bl610",
+      "nutribullet-pro-900",
+      "cuisinart-cso-300n-immersion"
+    ],
+    "sections": [
+      "This page is built for one buying situation: reliable blending performance on a budget under $100. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main blenders category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-knife-sets-for-home-cooks",
+    "category": "knife-sets",
+    "title": "Best Knife Sets for Home Cooks",
+    "description": "Best kitchen knife sets for home cooks in 2026 — German and Japanese steel options ranked for sharpness, durability, and value.",
+    "productIds": [
+      "wusthof-classic-7-piece",
+      "henckels-classic-15-piece",
+      "victorinox-fibrox-pro-chef",
+      "mac-knife-professional-mth-80",
+      "global-g-2-chefs-knife"
+    ],
+    "sections": [
+      "This page is built for one buying situation: building a complete, reliable knife collection for everyday home cooking. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main knife sets category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-chef-knives-under-100",
+    "category": "knife-sets",
+    "title": "Best Chef Knives Under $100",
+    "description": "Best chef knives under $100 in 2026 — sharp, durable blades that outperform their price in professional kitchen tests.",
+    "productIds": [
+      "victorinox-fibrox-pro-chef",
+      "mac-knife-professional-mth-80",
+      "global-g-2-chefs-knife"
+    ],
+    "sections": [
+      "This page is built for one buying situation: finding a sharp, reliable chef knife without spending over $100. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main knife sets category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-german-knife-sets",
+    "category": "knife-sets",
+    "title": "Best German Kitchen Knife Sets",
+    "description": "Best German steel knife sets in 2026 — Wüsthof and Henckels compared for durability, balance, and long-term sharpness.",
+    "productIds": [
+      "wusthof-classic-7-piece",
+      "henckels-classic-15-piece",
+      "victorinox-fibrox-pro-chef"
+    ],
+    "sections": [
+      "This page is built for one buying situation: choosing between Wusthof and Henckels German steel knife sets. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main knife sets category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-japanese-chef-knives",
+    "category": "knife-sets",
+    "title": "Best Japanese Chef Knives",
+    "description": "Best Japanese chef knives in 2026 — MAC, Global, and Shun compared for sharpness, lightness, and precision cutting.",
+    "productIds": [
+      "mac-knife-professional-mth-80",
+      "global-g-2-chefs-knife",
+      "victorinox-fibrox-pro-chef"
+    ],
+    "sections": [
+      "This page is built for one buying situation: finding a lighter, sharper Japanese-style chef knife for precise cutting. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main knife sets category guide and one related HomePilot buying guide."
+    ]
+  },
+  {
+    "slug": "best-knife-sets-for-beginners",
+    "category": "knife-sets",
+    "title": "Best Knife Sets for Beginners",
+    "description": "Best beginner kitchen knife sets in 2026 — easy-to-maintain, durable knives for new home cooks starting their first kitchen.",
+    "productIds": [
+      "victorinox-fibrox-pro-chef",
+      "henckels-classic-15-piece",
+      "wusthof-classic-7-piece"
+    ],
+    "sections": [
+      "This page is built for one buying situation: choosing a first kitchen knife set that is easy to maintain and learn with. Start with your actual use case, kitchen setup, budget, and how often you will use the product before comparing models.",
+      "The best pick is usually the product that removes friction from a repeated habit. HomePilot shortlists products by fit, practical features, and ownership tradeoffs instead of publishing static prices, star ratings, or review counts.",
+      "Look closely at replacement parts, counter or storage footprint, noise, cleaning steps, included accessories, and return terms. These details often matter more than one headline feature when you live with the product every day.",
+      "Use the comparison table to build a short list, then open Amazon and eBay in new tabs to confirm current pricing, seller details, shipping, availability, and included accessories before you buy.",
+      "For a safer decision, compare this intent page with the main knife sets category guide and one related HomePilot buying guide."
+    ]
   }
 ]
