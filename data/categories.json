@@ -5,11 +5,31 @@
     "headline": "Cleaner floors with less daily effort",
     "description": "Compare robot vacuums for pet hair, self-empty docks, mapping, hard floors, and apartments.",
     "intro": "Robot vacuums are best when the right navigation, suction, brush design, and dock features match your home. HomePilot prioritizes practical fit over hype.",
-    "buyingGuide": ["Choose LiDAR or camera mapping for complex layouts where random navigation would miss rooms.", "Look for anti-tangle brush systems if you have pets, long hair, or rugs that shed fibers.", "Self-empty docks reduce daily maintenance but need open floor space and may use bags or filters.", "Check app controls, room zones, no-go zones, and replacement part availability before choosing a brand.", "Match suction and brush design to your floors: hard floors need debris pickup, while rugs need agitation and repeatable routes.", "If you have thresholds, cords, toys, or dining chairs, prioritize obstacle handling and give the robot a realistic path.", "Robot mopping is best for dust and light footprints; it should not be treated as a replacement for scrubbing sticky spills.", "For apartments, slim height and quiet operation can matter more than premium docks.", "For larger homes, recharge-and-resume and multi-floor maps are worth prioritizing.", "Budget for replacement brushes, filters, bags, and mop pads because maintenance cost shapes long-term value."],
+    "buyingGuide": [
+      "Choose LiDAR or camera mapping for complex layouts where random navigation would miss rooms.",
+      "Look for anti-tangle brush systems if you have pets, long hair, or rugs that shed fibers.",
+      "Self-empty docks reduce daily maintenance but need open floor space and may use bags or filters.",
+      "Check app controls, room zones, no-go zones, and replacement part availability before choosing a brand.",
+      "Match suction and brush design to your floors: hard floors need debris pickup, while rugs need agitation and repeatable routes.",
+      "If you have thresholds, cords, toys, or dining chairs, prioritize obstacle handling and give the robot a realistic path.",
+      "Robot mopping is best for dust and light footprints; it should not be treated as a replacement for scrubbing sticky spills.",
+      "For apartments, slim height and quiet operation can matter more than premium docks.",
+      "For larger homes, recharge-and-resume and multi-floor maps are worth prioritizing.",
+      "Budget for replacement brushes, filters, bags, and mop pads because maintenance cost shapes long-term value."
+    ],
     "faq": [
-      { "question": "Are robot vacuums worth it?", "answer": "They are worth it for daily maintenance cleaning, especially on hard floors and low-pile rugs. They do not fully replace deep cleaning." },
-      { "question": "Do robot vacuums work with pet hair?", "answer": "Yes, but homes with shedding pets should prioritize strong pickup, anti-tangle rollers, and a larger bin or self-empty dock." },
-      { "question": "Should I buy a robot vacuum with mopping?", "answer": "Mopping can help with light dust and footprints, but it is not a substitute for manual mopping on sticky spills." }
+      {
+        "question": "Are robot vacuums worth it?",
+        "answer": "They are worth it for daily maintenance cleaning, especially on hard floors and low-pile rugs. They do not fully replace deep cleaning."
+      },
+      {
+        "question": "Do robot vacuums work with pet hair?",
+        "answer": "Yes, but homes with shedding pets should prioritize strong pickup, anti-tangle rollers, and a larger bin or self-empty dock."
+      },
+      {
+        "question": "Should I buy a robot vacuum with mopping?",
+        "answer": "Mopping can help with light dust and footprints, but it is not a substitute for manual mopping on sticky spills."
+      }
     ]
   },
   {
@@ -18,11 +38,31 @@
     "headline": "Crispier weeknight cooking without the guesswork",
     "description": "Find compact, family-size, dual-basket, and budget air fryers for practical everyday meals.",
     "intro": "A good air fryer should fit your counter, cook evenly, and make cleanup painless. Capacity and basket design matter more than flashy presets.",
-    "buyingGuide": ["Pick capacity based on the food you actually cook, not only the advertised quart size.", "Square baskets usually use space better than round baskets for fries, vegetables, and chicken pieces.", "Dual baskets are useful for families cooking mains and sides that need different times or temperatures.", "Dishwasher-safe baskets and simple controls make everyday use easier on busy nights.", "A viewing window is helpful for browning, but it also adds a surface that needs cleaning.", "For small kitchens, measure the counter depth and the clearance needed behind the air fryer for exhaust.", "If you cook for one or two people, a compact basket may beat a large model that is annoying to store.", "Families should compare usable basket area, not just total volume.", "Presets are convenient, but manual time and temperature controls matter more for repeatable results.", "Nonstick coating quality and replacement basket availability can affect how long the appliance feels good to use."],
+    "buyingGuide": [
+      "Pick capacity based on the food you actually cook, not only the advertised quart size.",
+      "Square baskets usually use space better than round baskets for fries, vegetables, and chicken pieces.",
+      "Dual baskets are useful for families cooking mains and sides that need different times or temperatures.",
+      "Dishwasher-safe baskets and simple controls make everyday use easier on busy nights.",
+      "A viewing window is helpful for browning, but it also adds a surface that needs cleaning.",
+      "For small kitchens, measure the counter depth and the clearance needed behind the air fryer for exhaust.",
+      "If you cook for one or two people, a compact basket may beat a large model that is annoying to store.",
+      "Families should compare usable basket area, not just total volume.",
+      "Presets are convenient, but manual time and temperature controls matter more for repeatable results.",
+      "Nonstick coating quality and replacement basket availability can affect how long the appliance feels good to use."
+    ],
     "faq": [
-      { "question": "What size air fryer should I buy?", "answer": "Singles and couples can often use 3 to 5 quarts. Families usually benefit from 6 quarts or more, or a dual-basket model." },
-      { "question": "Is an air fryer better than an oven?", "answer": "An air fryer preheats faster and crisps small batches well. An oven is still better for large trays and baking." },
-      { "question": "Do air fryers use a lot of oil?", "answer": "No. Most recipes need little or no added oil compared with deep frying." }
+      {
+        "question": "What size air fryer should I buy?",
+        "answer": "Singles and couples can often use 3 to 5 quarts. Families usually benefit from 6 quarts or more, or a dual-basket model."
+      },
+      {
+        "question": "Is an air fryer better than an oven?",
+        "answer": "An air fryer preheats faster and crisps small batches well. An oven is still better for large trays and baking."
+      },
+      {
+        "question": "Do air fryers use a lot of oil?",
+        "answer": "No. Most recipes need little or no added oil compared with deep frying."
+      }
     ]
   },
   {
@@ -31,11 +71,196 @@
     "headline": "Better coffee at home, one upgrade at a time",
     "description": "Compare beginner espresso machines, grinders, semi-automatic models, and pod alternatives.",
     "intro": "Home espresso is a system: machine, grinder, water, beans, and workflow. The right pick depends on how much control you want each morning.",
-    "buyingGuide": ["Budget for a capable grinder if choosing a semi-automatic espresso machine.", "Beginners should look for stable pressure, forgiving controls, and a workflow that is easy to repeat.", "Thermoblock machines heat quickly; boiler machines can offer more thermal consistency for back-to-back drinks.", "Milk drinkers should compare steam power, wand ergonomics, and how easy the wand is to clean.", "If you want convenience over control, compare superautomatic machines instead of traditional portafilter machines.", "A built-in grinder saves space, but a separate grinder gives you more upgrade flexibility later.", "Water quality, fresh beans, dose consistency, and cleaning routines matter as much as the machine itself.", "Compact machines are easier to fit on the counter but may have smaller drip trays and water tanks.", "For lattes and cappuccinos, steam performance may matter more than advanced shot controls.", "For straight espresso, prioritize grinder quality, temperature stability, and repeatable puck prep."],
+    "buyingGuide": [
+      "Budget for a capable grinder if choosing a semi-automatic espresso machine.",
+      "Beginners should look for stable pressure, forgiving controls, and a workflow that is easy to repeat.",
+      "Thermoblock machines heat quickly; boiler machines can offer more thermal consistency for back-to-back drinks.",
+      "Milk drinkers should compare steam power, wand ergonomics, and how easy the wand is to clean.",
+      "If you want convenience over control, compare superautomatic machines instead of traditional portafilter machines.",
+      "A built-in grinder saves space, but a separate grinder gives you more upgrade flexibility later.",
+      "Water quality, fresh beans, dose consistency, and cleaning routines matter as much as the machine itself.",
+      "Compact machines are easier to fit on the counter but may have smaller drip trays and water tanks.",
+      "For lattes and cappuccinos, steam performance may matter more than advanced shot controls.",
+      "For straight espresso, prioritize grinder quality, temperature stability, and repeatable puck prep."
+    ],
     "faq": [
-      { "question": "Do I need a grinder for espresso?", "answer": "For semi-automatic espresso, yes. Fresh, fine, consistent grinding is one of the biggest quality factors." },
-      { "question": "Is Nespresso the same as espresso?", "answer": "Nespresso is convenient and espresso-like, but it does not offer the same control or texture as a traditional espresso setup." },
-      { "question": "What should beginners buy first?", "answer": "A forgiving machine and a good grinder. Consistency matters more than advanced features at the start." }
+      {
+        "question": "Do I need a grinder for espresso?",
+        "answer": "For semi-automatic espresso, yes. Fresh, fine, consistent grinding is one of the biggest quality factors."
+      },
+      {
+        "question": "Is Nespresso the same as espresso?",
+        "answer": "Nespresso is convenient and espresso-like, but it does not offer the same control or texture as a traditional espresso setup."
+      },
+      {
+        "question": "What should beginners buy first?",
+        "answer": "A forgiving machine and a good grinder. Consistency matters more than advanced features at the start."
+      }
+    ]
+  },
+  {
+    "slug": "coffee-grinders",
+    "name": "Coffee Grinders",
+    "headline": "Fresher coffee starts with the right grind",
+    "description": "Compare burr grinders for espresso, pour over, French press, and everyday drip coffee at every budget.",
+    "intro": "The grinder matters more than most people expect. Consistent particle size determines extraction evenness, flavor clarity, and repeatability. The right grinder depends on your brewing method and how much workflow you want each morning.",
+    "buyingGuide": [
+      "Burr grinders produce more consistent particles than blade grinders and are worth the upgrade for any serious brewing.",
+      "Conical burrs are quieter and retain less coffee; flat burrs can offer more uniformity at higher budgets.",
+      "Espresso requires very fine, consistent grounds and tight grind adjustment; not every grinder is suited for it.",
+      "For pour over and drip, a mid-range burr grinder like the Baratza Encore is a strong starting point.",
+      "Single-dose grinding reduces waste and stale coffee but may add steps to your morning routine.",
+      "RPM matters: slower grinders generate less heat and static, which can improve flavor in premium models.",
+      "Grind retention — coffee stuck in the burr chamber — affects taste between batches, especially when switching beans.",
+      "Manual grinders are quieter and portable but require effort; electric grinders are faster for daily use.",
+      "Check grind range: some grinders cover espresso to French press; others are optimized for a narrower range.",
+      "Budget for the grinder as part of your total coffee setup; a $100 grinder + $300 machine often outperforms a $400 machine with a cheap grinder."
+    ],
+    "faq": [
+      {
+        "question": "Do I really need a burr grinder?",
+        "answer": "Yes, if you care about consistent flavor. Blade grinders chop unevenly, leading to bitter and sour notes in the same cup."
+      },
+      {
+        "question": "What grinder is best for espresso?",
+        "answer": "Espresso needs fine, consistent grounds and stepped or stepless grind adjustment. The Baratza Sette 270, Fellow Ode Gen 2, and Breville Smart Grinder Pro are popular choices."
+      },
+      {
+        "question": "How often should I clean my grinder?",
+        "answer": "Weekly brush-out of the chute and chamber, monthly deep clean. Residual oils go stale and affect flavor."
+      }
+    ]
+  },
+  {
+    "slug": "stand-mixers",
+    "name": "Stand Mixers",
+    "headline": "Bake more with less hands-on effort",
+    "description": "Compare stand mixers for bread dough, cake batter, meringues, and everyday baking at every budget.",
+    "intro": "A stand mixer is one of the most versatile tools in the kitchen — if you choose the right size, power, and attachments for what you actually bake. HomePilot focuses on real-world performance over marketing specs.",
+    "buyingGuide": [
+      "Bowl capacity should match your typical batch: 3–4.5 quart for small batches, 5–7 quart for families or bread bakers.",
+      "Watt ratings are marketing; real-world motor torque and gear design matter more for stiff doughs.",
+      "Tilt-head mixers are easier to access the bowl; bowl-lift designs handle heavier loads and larger batches.",
+      "KitchenAid's attachment ecosystem is the widest in the category and a real reason to choose the platform.",
+      "Check whether bowl and attachments are dishwasher-safe before buying.",
+      "For bread baking, look for a mixer that handles stiff dough without overheating or walking on the counter.",
+      "Planetary mixing (single arm tracing the bowl) vs. spiral dough hooks can matter for bread texture.",
+      "Compact models save counter space but may struggle with double recipes.",
+      "Noise level matters if you bake early mornings or share walls.",
+      "Spiraling or tilting the bowl to scrape the sides by hand is normal even on premium models."
+    ],
+    "faq": [
+      {
+        "question": "Is a KitchenAid stand mixer worth it?",
+        "answer": "For regular bakers, yes. The attachment ecosystem, build quality, and resale value make it a long-term kitchen investment."
+      },
+      {
+        "question": "What size stand mixer do I need?",
+        "answer": "Most home bakers are well-served by a 5-quart bowl. Go larger if you regularly double recipes or make bread loaves."
+      },
+      {
+        "question": "Can a stand mixer knead bread dough?",
+        "answer": "Yes, most stand mixers include a dough hook. Heavier or stiffer doughs like whole wheat or bagels need a more powerful motor."
+      }
+    ]
+  },
+  {
+    "slug": "air-purifiers",
+    "name": "Air Purifiers",
+    "headline": "Cleaner indoor air for allergy and asthma relief",
+    "description": "Compare HEPA air purifiers for bedrooms, living rooms, allergies, pets, and smoke removal.",
+    "intro": "An air purifier is only as good as its filter design, room coverage, and how consistently it runs. HomePilot cuts through CADR numbers and noise claims to match purifiers to real household needs.",
+    "buyingGuide": [
+      "True HEPA filters capture 99.97% of particles at 0.3 microns — look for this certification, not 'HEPA-like' or 'HEPA-style' labels.",
+      "CADR (Clean Air Delivery Rate) is the most useful spec: match it to your room size for effective cleaning.",
+      "For a bedroom, prioritize low noise at the lowest speed setting — you will sleep better if it can run all night.",
+      "Activated carbon layers help with odors, smoke, and VOCs; HEPA alone does not address gases.",
+      "Change filters on schedule: a clogged HEPA filter reduces performance and can strain the motor.",
+      "Smart sensors and auto mode are convenient but optional; a purifier that runs on a consistent low setting often performs better.",
+      "Air purifiers work best in the room you occupy most — one unit per main living area is a reasonable starting point.",
+      "For pet owners, filter life and replacement cost are especially important to evaluate before buying.",
+      "UV-C and ionizer features add cost without consistent evidence of meaningful benefit; HEPA filtration remains the standard.",
+      "Higher ACH (air changes per hour) in a given room means better particle removal; target 4–5 ACH for allergy relief."
+    ],
+    "faq": [
+      {
+        "question": "Do air purifiers actually work?",
+        "answer": "Yes, for airborne particles like dust, pollen, pet dander, and smoke. True HEPA models with adequate CADR for the room consistently reduce particle counts."
+      },
+      {
+        "question": "Where should I place an air purifier?",
+        "answer": "In the room where you spend the most time — typically the bedroom or living room. Place it away from walls to allow airflow on all sides."
+      },
+      {
+        "question": "How often should I replace the filter?",
+        "answer": "Most HEPA filters need replacing every 6–12 months depending on usage and air quality. Pre-filters should be vacuumed or replaced more frequently."
+      }
+    ]
+  },
+  {
+    "slug": "blenders",
+    "name": "Blenders",
+    "headline": "Smoother smoothies and soups from the right blender",
+    "description": "Compare high-performance blenders, personal blenders, and immersion blenders for smoothies, soups, and meal prep.",
+    "intro": "The best blender depends on what you blend and how often. A Vitamix handles anything but costs more; a personal blender covers daily smoothies at a fraction of the price. HomePilot helps you choose based on your actual use, not peak horsepower claims.",
+    "buyingGuide": [
+      "Blade sharpness and motor torque together determine how well a blender handles frozen fruit, ice, fibrous greens, and nuts.",
+      "High-performance blenders (Vitamix, Blendtec) justify their cost for daily use, nut butters, and hot soups via friction.",
+      "Personal blenders (NutriBullet, Ninja Fit) are faster to use and clean for single-serve smoothies.",
+      "Tamper tools help with thick blends and avoid air pockets — check if the model you're considering includes one.",
+      "Variable speed dials give more control than preset programs for soups, sauces, and chunky blends.",
+      "Lid design matters: check for a vented cap and whether the lid seals reliably under pressure from hot liquids.",
+      "Wide jars handle leafy greens better than narrow jars; narrow jars produce better vortex for thick blends.",
+      "For hot soups, the blender must be rated for hot liquids — not all blenders are designed for this safely.",
+      "Cleaning: self-clean cycles (add water and soap, run briefly) save time on daily use.",
+      "Noise levels at high speed are significant — quieter models have sound enclosures but add bulk and cost."
+    ],
+    "faq": [
+      {
+        "question": "Is a Vitamix really worth the price?",
+        "answer": "For daily blending, nut butters, and hot soups, yes. Its motor, blade design, and build quality outlast cheaper alternatives by years. For occasional smoothies, a mid-range blender is sufficient."
+      },
+      {
+        "question": "What is the best blender for smoothies?",
+        "answer": "For daily smoothies with frozen fruit: Vitamix E310 or Ninja Professional. For single serve: NutriBullet Pro or Ninja Fit."
+      },
+      {
+        "question": "Can a regular blender make hot soup?",
+        "answer": "Most standard blenders are not rated for hot liquids. High-performance blenders like Vitamix can heat soup via friction. Check your model's temperature rating before blending hot food."
+      }
+    ]
+  },
+  {
+    "slug": "knife-sets",
+    "name": "Knife Sets",
+    "headline": "Sharper prep work with knives that match how you cook",
+    "description": "Compare chef knife sets, starter sets, and individual knives for everyday cooking, meal prep, and professional quality at home.",
+    "intro": "A good knife set doesn't need to be large — it needs to stay sharp, feel balanced, and suit your grip and cutting style. HomePilot focuses on what's worth spending money on versus what you can skip.",
+    "buyingGuide": [
+      "Three knives cover 90% of home cooking: an 8-inch chef knife, a 3–4 inch paring knife, and a serrated bread knife.",
+      "German steel (Wüsthof, Henckels) is tough, forgiving, and easier to hone; Japanese steel (Shun, Global) is harder, sharper, and more delicate.",
+      "Full tang construction (blade extends through the handle) typically indicates better balance and durability.",
+      "A heavier knife does not mean a better knife — balance and your grip style matter more than weight.",
+      "Large knife block sets look impressive but include pieces rarely used; a small set of great knives beats a large set of mediocre ones.",
+      "Keep in mind sharpening: harder steel holds an edge longer but requires more care to sharpen without chipping.",
+      "Dishwasher use damages knife edges quickly — hand washing and drying is strongly recommended for all quality knives.",
+      "Handles: wood handles need more care; synthetic or polymer handles are more durable and food-safe.",
+      "Test grip and balance if possible — a knife that feels right in your hand gets used more and stays safer.",
+      "A honing steel realigns the edge between sharpenings; a whetstone restores the edge when honing no longer helps."
+    ],
+    "faq": [
+      {
+        "question": "What knives do I actually need?",
+        "answer": "A good chef knife handles most tasks. Add a paring knife for detail work and a serrated knife for bread. Most other knives in a set are rarely used."
+      },
+      {
+        "question": "German vs Japanese knives — which is better?",
+        "answer": "German knives (Wüsthof, Henckels) are heavier, more durable, and easier to maintain. Japanese knives (MAC, Global, Shun) are lighter, sharper, and excellent for precise cutting but require more care."
+      },
+      {
+        "question": "How do I keep my knives sharp?",
+        "answer": "Hone regularly with a honing steel (weekly for daily cooks), sharpen on a whetstone or with a pull-through sharpener every few months, and never put them in the dishwasher."
+      }
     ]
   }
 ]
