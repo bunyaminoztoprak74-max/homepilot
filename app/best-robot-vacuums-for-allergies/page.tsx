@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-robot-vacuums-for-allergies");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums for Allergies 2026 — HEPA Tested | HomePilot`,
+  title: { absolute: `Best Robot Vacuums for Allergies 2026 — HEPA Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-robot-vacuums-for-allergies" },
   openGraph: {

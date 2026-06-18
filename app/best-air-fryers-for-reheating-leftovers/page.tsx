@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-reheating-leftovers");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Reheating Leftovers 2026 — Tested | HomePilot`,
+  title: { absolute: `Best Air Fryers for Reheating Leftovers 2026 — Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-reheating-leftovers" },
   openGraph: {

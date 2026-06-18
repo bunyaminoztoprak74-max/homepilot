@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-under-100");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers Under $100 (2026) — Budget Picks Tested | HomePilot`,
+  title: { absolute: `Best Air Fryers Under $100 (2026) — Budget Picks Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-under-100" },
   openGraph: {

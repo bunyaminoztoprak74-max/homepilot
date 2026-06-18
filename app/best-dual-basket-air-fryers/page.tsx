@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-dual-basket-air-fryers");
 
 export const metadata: Metadata = {
-  title: `Best Dual Basket Air Fryers 2026 — Two-Zone Tested | HomePilot`,
+  title: { absolute: `Best Dual Basket Air Fryers 2026 — Two-Zone Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-dual-basket-air-fryers" },
   openGraph: {

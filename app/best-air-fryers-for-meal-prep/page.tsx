@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-meal-prep");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Meal Prep 2026 — Batch Cooking Tested | HomePilot`,
+  title: { absolute: `Best Air Fryers for Meal Prep 2026 — Batch Cooking Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-meal-prep" },
   openGraph: {

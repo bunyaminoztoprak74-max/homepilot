@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-robot-vacuums-with-lidar");
 
 export const metadata: Metadata = {
-  title: `Best LiDAR Robot Vacuums 2026 — Smart Mapping Tested | HomePilot`,
+  title: { absolute: `Best LiDAR Robot Vacuums 2026 — Smart Mapping Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-robot-vacuums-with-lidar" },
   openGraph: {

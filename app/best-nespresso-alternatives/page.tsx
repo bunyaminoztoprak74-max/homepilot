@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-nespresso-alternatives");
 
 export const metadata: Metadata = {
-  title: `Best Nespresso Alternatives 2026 — Tested vs Capsule | HomePilot`,
+  title: { absolute: `Best Nespresso Alternatives 2026 — Tested vs Capsule | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-nespresso-alternatives" },
   openGraph: {

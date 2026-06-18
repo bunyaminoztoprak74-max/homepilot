@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-stainless-steel-air-fryers");
 
 export const metadata: Metadata = {
-  title: `Best Stainless Steel Air Fryers 2026 — Durable Tested | HomePilot`,
+  title: { absolute: `Best Stainless Steel Air Fryers 2026 — Durable Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-stainless-steel-air-fryers" },
   openGraph: {

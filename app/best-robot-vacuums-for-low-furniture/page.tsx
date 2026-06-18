@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-robot-vacuums-for-low-furniture");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums for Low Furniture 2026 — Ultra-Slim Picks | HomePilot`,
+  title: { absolute: `Best Robot Vacuums for Low Furniture 2026 — Ultra-Slim Picks | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-robot-vacuums-for-low-furniture" },
   openGraph: {

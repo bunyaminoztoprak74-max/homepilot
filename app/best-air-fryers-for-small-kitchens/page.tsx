@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-small-kitchens");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Small Kitchens 2026 — Compact Tested | HomePilot`,
+  title: { absolute: `Best Air Fryers for Small Kitchens 2026 — Compact Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-small-kitchens" },
   openGraph: {

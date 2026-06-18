@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-for-two-people");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryers for Two People 2026 — Right-Sized Picks | HomePilot`,
+  title: { absolute: `Best Air Fryers for Two People 2026 — Right-Sized Picks | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-for-two-people" },
   openGraph: {

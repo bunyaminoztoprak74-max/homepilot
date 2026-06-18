@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-espresso-grinders-for-home");
 
 export const metadata: Metadata = {
-  title: `Best Espresso Grinders for Home 2026 — Burr Grinder Tested | HomePilot`,
+  title: { absolute: `Best Espresso Grinders for Home 2026 — Burr Grinder Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-espresso-grinders-for-home" },
   openGraph: {

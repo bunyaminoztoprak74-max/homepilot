@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-easy-clean-air-fryers");
 
 export const metadata: Metadata = {
-  title: `Best Easy-to-Clean Air Fryers 2026 — Dishwasher-Safe Picks | HomePilot`,
+  title: { absolute: `Best Easy-to-Clean Air Fryers 2026 — Dishwasher-Safe Picks | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-easy-clean-air-fryers" },
   openGraph: {

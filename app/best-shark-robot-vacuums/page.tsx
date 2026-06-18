@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-shark-robot-vacuums");
 
 export const metadata: Metadata = {
-  title: `Best Shark Robot Vacuums 2026 — Matrix Clean Tested | HomePilot`,
+  title: { absolute: `Best Shark Robot Vacuums 2026 — Matrix Clean Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-shark-robot-vacuums" },
   openGraph: {

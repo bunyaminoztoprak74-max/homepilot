@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-compact-espresso-machines");
 
 export const metadata: Metadata = {
-  title: `Best Compact Espresso Machines 2026 — Small Footprint | HomePilot`,
+  title: { absolute: `Best Compact Espresso Machines 2026 — Small Footprint | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-compact-espresso-machines" },
   openGraph: {

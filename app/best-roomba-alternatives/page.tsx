@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-roomba-alternatives");
 
 export const metadata: Metadata = {
-  title: `Best Roomba Alternatives 2026 — Tested vs iRobot | HomePilot`,
+  title: { absolute: `Best Roomba Alternatives 2026 — Tested vs iRobot | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-roomba-alternatives" },
   openGraph: {

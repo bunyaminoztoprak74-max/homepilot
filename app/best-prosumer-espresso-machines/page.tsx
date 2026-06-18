@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-prosumer-espresso-machines");
 
 export const metadata: Metadata = {
-  title: `Best Prosumer Espresso Machines 2026 — Dual Boiler Tested | HomePilot`,
+  title: { absolute: `Best Prosumer Espresso Machines 2026 — Dual Boiler Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-prosumer-espresso-machines" },
   openGraph: {

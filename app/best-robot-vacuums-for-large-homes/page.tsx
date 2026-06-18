@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-robot-vacuums-for-large-homes");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums for Large Homes 2026 — Full Coverage | HomePilot`,
+  title: { absolute: `Best Robot Vacuums for Large Homes 2026 — Full Coverage | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-robot-vacuums-for-large-homes" },
   openGraph: {

@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-quiet-robot-vacuums");
 
 export const metadata: Metadata = {
-  title: `Quietest Robot Vacuums 2026 — Under 60 dB, Tested | HomePilot`,
+  title: { absolute: `Quietest Robot Vacuums 2026 — Under 60 dB, Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-quiet-robot-vacuums" },
   openGraph: {

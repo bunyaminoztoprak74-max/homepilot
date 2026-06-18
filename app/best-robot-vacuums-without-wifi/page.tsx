@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-robot-vacuums-without-wifi");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums Without WiFi 2026 — Offline Picks | HomePilot`,
+  title: { absolute: `Best Robot Vacuums Without WiFi 2026 — Offline Picks | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-robot-vacuums-without-wifi" },
   openGraph: {

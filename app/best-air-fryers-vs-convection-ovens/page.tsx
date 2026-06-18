@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryers-vs-convection-ovens");
 
 export const metadata: Metadata = {
-  title: `Air Fryer vs Convection Oven 2026 — Which Wins? | HomePilot`,
+  title: { absolute: `Air Fryer vs Convection Oven 2026 — Which Wins? | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-air-fryers-vs-convection-ovens" },
   openGraph: {

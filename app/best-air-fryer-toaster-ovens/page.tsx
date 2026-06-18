@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-air-fryer-toaster-ovens");
 
 export const metadata: Metadata = {
-  title: `Best Air Fryer Toaster Ovens 2026 — Countertop Tested | HomePilot`,
+  title: { absolute: `Best Air Fryer Toaster Ovens 2026 — Countertop Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-air-fryer-toaster-ovens" },
   openGraph: {

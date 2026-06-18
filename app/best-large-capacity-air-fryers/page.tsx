@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-large-capacity-air-fryers");
 
 export const metadata: Metadata = {
-  title: `Best Large Capacity Air Fryers 2026 — 7Qt+ Tested | HomePilot`,
+  title: { absolute: `Best Large Capacity Air Fryers 2026 — 7Qt+ Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-large-capacity-air-fryers" },
   openGraph: {

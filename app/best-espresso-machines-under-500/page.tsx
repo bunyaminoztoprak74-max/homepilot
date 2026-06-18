@@ -5,7 +5,7 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-espresso-machines-under-500");
 
 export const metadata: Metadata = {
-  title: `Best Espresso Machines Under $500 (2026) — Tested | HomePilot`,
+  title: { absolute: `Best Espresso Machines Under $500 (2026) — Tested | HomePilot` },
   description: page?.description,
   alternates: { canonical: "/best-espresso-machines-under-500" },
   openGraph: {
