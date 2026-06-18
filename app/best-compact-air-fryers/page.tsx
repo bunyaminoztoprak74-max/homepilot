@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-compact-air-fryers");
 
 export const metadata: Metadata = {
-  title: `Best Compact Air Fryers 2026 — Small Footprint Tested | HomePilot`,
+  title: `Best Compact Air Fryers | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-compact-air-fryers" },
   openGraph: {
-    title: `Best Compact Air Fryers 2026 — Small Footprint Tested | HomePilot`,
+    title: `Best Compact Air Fryers | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-compact-air-fryers`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Compact Air Fryers 2026 — Small Footprint Tested | HomePilot`,
+    title: `Best Compact Air Fryers | HomePilot`,
     description: page?.description
   }
 };

@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-espresso-machines-for-americanos");
 
 export const metadata: Metadata = {
-  title: `Best Espresso Machines for Americanos 2026 — Tested | HomePilot`,
+  title: `Best Espresso Machines for Americanos | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-espresso-machines-for-americanos" },
   openGraph: {
-    title: `Best Espresso Machines for Americanos 2026 — Tested | HomePilot`,
+    title: `Best Espresso Machines for Americanos | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-espresso-machines-for-americanos`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Espresso Machines for Americanos 2026 — Tested | HomePilot`,
+    title: `Best Espresso Machines for Americanos | HomePilot`,
     description: page?.description
   }
 };

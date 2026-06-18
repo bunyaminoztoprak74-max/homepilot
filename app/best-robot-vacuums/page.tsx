@@ -2,8 +2,8 @@ import { BestCategoryPage, bestCategoryMetadata } from "@/components/BestCategor
 
 const config = {
   categorySlug: "robot-vacuums",
-  title: "Best Robot Vacuums 2026: Top Picks Tested & Compared",
-  description: "Best robot vacuums of 2026 — tested for pet hair, LiDAR mapping, self-empty docks, and hardwood floors. Honest picks with real performance data and current Amazon pricing.",
+  title: "Best Robot Vacuums",
+  description: "Compare real Amazon robot vacuum listings for self-empty docks, LiDAR mapping, pet hair, and lower-maintenance floor care.",
   path: "/best-robot-vacuums"
 };
 

@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-robot-vacuums-for-seniors");
 
 export const metadata: Metadata = {
-  title: `Best Robot Vacuums for Seniors 2026 — Easy, Hands-Free | HomePilot`,
+  title: `Best Robot Vacuums for Seniors | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-robot-vacuums-for-seniors" },
   openGraph: {
-    title: `Best Robot Vacuums for Seniors 2026 — Easy, Hands-Free | HomePilot`,
+    title: `Best Robot Vacuums for Seniors | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-robot-vacuums-for-seniors`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Robot Vacuums for Seniors 2026 — Easy, Hands-Free | HomePilot`,
+    title: `Best Robot Vacuums for Seniors | HomePilot`,
     description: page?.description
   }
 };

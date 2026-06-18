@@ -10,7 +10,7 @@ export function Footer() {
             HomePilot
           </Link>
           <p className="mt-3 max-w-sm text-sm leading-6 text-neutral-300">
-            Expert buying guides for home products. Transparent Amazon Associates recommendations for practical home upgrades.
+            Expert buying guides for home products. Transparent Amazon Associates and eBay Partner Network recommendations for practical home upgrades.
           </p>
         </div>
         <div className="grid gap-6 sm:grid-cols-4">
@@ -49,7 +49,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 px-5 py-5 text-center text-xs text-neutral-400">
-        HomePilot uses Amazon Associates affiliate links with transparent disclosure.
+        HomePilot uses Amazon Associates and eBay Partner Network affiliate links with transparent disclosure.
       </div>
     </footer>
   );

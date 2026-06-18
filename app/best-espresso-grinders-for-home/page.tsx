@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-espresso-grinders-for-home");
 
 export const metadata: Metadata = {
-  title: `Best Espresso Grinders for Home 2026 — Burr Grinder Tested | HomePilot`,
+  title: `Best Espresso Grinders for Home | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-espresso-grinders-for-home" },
   openGraph: {
-    title: `Best Espresso Grinders for Home 2026 — Burr Grinder Tested | HomePilot`,
+    title: `Best Espresso Grinders for Home | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-espresso-grinders-for-home`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Espresso Grinders for Home 2026 — Burr Grinder Tested | HomePilot`,
+    title: `Best Espresso Grinders for Home | HomePilot`,
     description: page?.description
   }
 };

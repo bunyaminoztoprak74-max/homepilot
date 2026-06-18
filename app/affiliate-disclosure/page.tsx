@@ -14,9 +14,9 @@ export default function AffiliateDisclosurePage() {
       description="HomePilot may earn commissions from qualifying purchases through retailer links."
     >
       <p>
-        As an Amazon Associate we may earn from qualifying purchases. HomePilot may also link to eBay or other
-        retailers where tracking may be used. These links help fund the site without charging readers to access
-        buying guides.
+        As an Amazon Associate we may earn from qualifying purchases. HomePilot is also a member of the eBay
+        Partner Network and may earn a commission on qualifying purchases made through eBay links on this site,
+        at no extra cost to you. These links help fund the site without charging readers to access buying guides.
       </p>
       <p>
         Affiliate relationships do not allow us to publish fake prices, fake star ratings, fake review counts,

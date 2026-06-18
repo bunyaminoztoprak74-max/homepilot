@@ -2,8 +2,8 @@ import { BestCategoryPage, bestCategoryMetadata } from "@/components/BestCategor
 
 const config = {
   categorySlug: "air-fryers",
-  title: "Best Air Fryers 2026: Top Picks Tested & Compared",
-  description: "Best air fryers of 2026 — tested for crispiness, counter fit, cleanup, and usable cooking area. Honest picks for families, small kitchens, and budget buyers.",
+  title: "Best Air Fryers",
+  description: "Compare real Amazon air fryer listings for compact kitchens, families, dual-basket cooking, and weeknight meals.",
   path: "/best-air-fryers"
 };
 

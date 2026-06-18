@@ -2,8 +2,8 @@ import { BestCategoryPage, bestCategoryMetadata } from "@/components/BestCategor
 
 const config = {
   categorySlug: "espresso-machines",
-  title: "Best Espresso Machines 2026: Top Picks Tested & Compared",
-  description: "Best espresso machines of 2026 — tested for extraction consistency, steam performance, and daily workflow. Beginner to prosumer picks with real comparison data.",
+  title: "Best Espresso Machines",
+  description: "Compare real Amazon espresso machines and grinder picks for beginners, all-in-one setups, and better coffee at home.",
   path: "/best-espresso-machines"
 };
 

@@ -37,7 +37,7 @@ export default function Page() {
       <section>
         <h2 className="text-2xl font-semibold tracking-tight text-neutral-950">Affiliate disclosure and independence</h2>
         <p className="mt-3">
-          As an Amazon Associate we may earn from qualifying purchases. We may also link to other retailers such as eBay. Affiliate links do not determine the order of recommendations, and they do not allow us to publish unsupported claims. We do not show static Amazon prices, star ratings, or review counts unless they come from a compliant live source.
+          As an Amazon Associate and eBay Partner Network affiliate, we may earn from qualifying purchases. Affiliate links do not determine the order of recommendations, and they do not allow us to publish unsupported claims. We do not show static prices, star ratings, or review counts unless they come from a compliant live source.
         </p>
       </section>
       <section>

@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-espresso-machines-under-500");
 
 export const metadata: Metadata = {
-  title: `Best Espresso Machines Under $500 (2026) — Tested | HomePilot`,
+  title: `Best Espresso Machines Under $500 | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-espresso-machines-under-500" },
   openGraph: {
-    title: `Best Espresso Machines Under $500 (2026) — Tested | HomePilot`,
+    title: `Best Espresso Machines Under $500 | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-espresso-machines-under-500`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best Espresso Machines Under $500 (2026) — Tested | HomePilot`,
+    title: `Best Espresso Machines Under $500 | HomePilot`,
     description: page?.description
   }
 };

@@ -195,7 +195,13 @@ export default async function GuidePage({ params }: Props) {
           </section>
 
           {guideProducts[0] ? (
-            <CTA title="Compare current retailer options" href={guideProducts[0].amazonUrl} external />
+            <CTA
+              title="Compare current retailer options"
+              href={guideProducts[0].amazonUrl}
+              ebayHref={guideProducts[0].ebayUrl}
+              ebayCustomId={guideProducts[0].id}
+              external
+            />
           ) : null}
 
           <section>

@@ -5,18 +5,18 @@ import { getProductsByIds, getSeoPage } from "@/lib/content";
 const page = getSeoPage("best-robot-vacuums-with-lidar");
 
 export const metadata: Metadata = {
-  title: `Best LiDAR Robot Vacuums 2026 — Smart Mapping Tested | HomePilot`,
+  title: `Best Robot Vacuums with LiDAR | HomePilot`,
   description: page?.description,
   alternates: { canonical: "/best-robot-vacuums-with-lidar" },
   openGraph: {
-    title: `Best LiDAR Robot Vacuums 2026 — Smart Mapping Tested | HomePilot`,
+    title: `Best Robot Vacuums with LiDAR | HomePilot`,
     description: page?.description,
     url: `https://homepilot-iota.vercel.app/best-robot-vacuums-with-lidar`,
     type: "article"
   },
   twitter: {
     card: "summary_large_image",
-    title: `Best LiDAR Robot Vacuums 2026 — Smart Mapping Tested | HomePilot`,
+    title: `Best Robot Vacuums with LiDAR | HomePilot`,
     description: page?.description
   }
 };

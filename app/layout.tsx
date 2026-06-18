@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     template: "%s | HomePilot"
   },
   description:
-    "Expert buying guides for robot vacuums, air fryers, and espresso machines with compliant Amazon Associates links.",
+    "Expert buying guides for robot vacuums, air fryers, and espresso machines with compliant Amazon Associates and eBay Partner Network links.",
   applicationName: "HomePilot",
   openGraph: {
     title: "HomePilot",
