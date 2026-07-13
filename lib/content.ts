@@ -4,7 +4,8 @@ import productsJson from "@/data/products.json";
 import articlesJson from "@/data/articles.json";
 import seoPagesJson from "@/data/seo-pages.json";
 import authorsJson from "@/data/authors.json";
-import type { Article, Author, Category, Guide, Product, SeoPage } from "@/lib/types";
+import gscPriorityOverridesJson from "@/data/gsc-priority-overrides.json";
+import type { Article, Author, Category, Guide, GscPriorityOverride, Product, SeoPage } from "@/lib/types";
 
 export const siteUrl = "https://homepilot-iota.vercel.app";
 export const affiliateTag = "affiliater07c-20";
@@ -15,6 +16,7 @@ export const products = productsJson as Product[];
 export const articles = articlesJson as Article[];
 export const seoPages = seoPagesJson as SeoPage[];
 export const authors = authorsJson as Author[];
+export const gscPriorityOverrides = gscPriorityOverridesJson as GscPriorityOverride[];
 
 export function getCategory(slug: string) {
   return categories.find((category) => category.slug === slug);
@@ -32,6 +34,10 @@ export function getGuideProducts(guide: Guide) {
 
 export function getArticle(slug: string) {
   return articles.find((article) => article.slug === slug);
+}
+
+export function getGscPriorityOverride(slug: string) {
+  return gscPriorityOverrides.find((item) => item.slug === slug);
 }
 
 export function getAuthor(slug = "homepilot-editorial-team") {

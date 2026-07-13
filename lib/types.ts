@@ -60,6 +60,18 @@ export type Article = {
   sortOrder: number;
 };
 
+export type GscPriorityOverride = {
+  slug: string;
+  seoTitle: string;
+  metaDescription: string;
+  opening: string;
+  quickAnswer: string;
+  semanticSections: { heading: string; paragraphs: string[] }[];
+  internalLinks: { label: string; href: string }[];
+  faq: FAQItem[];
+  suggestedAdditions: string[];
+};
+
 export type SeoPage = {
   slug: string;
   title: string;
