@@ -549,5 +549,44 @@
         "Add original diagnostic photos for filter media, airflow, seals, and drying time.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "espresso-machine-maintenance-schedule",
+      "seoTitle": "Espresso Machine Maintenance Schedule: Daily to Yearly",
+      "metaDescription": "Use this espresso machine maintenance schedule for daily purging, weekly cleaning, backflushing, descaling, water filters, grinders, and seals.",
+      "opening": "A reliable espresso maintenance schedule separates coffee-oil cleaning from mineral-scale control. Purge and wipe milk and coffee surfaces daily, clean baskets and trays weekly, backflush compatible machines on schedule, and base descaling and water-filter changes on water hardness and manufacturer guidance.",
+      "quickAnswer": "Daily: purge and wipe the group and steam wand. Weekly: clean baskets, portafilter, tray, and approved removable parts. Monthly: inspect seals, water filter, grinder and shower screen. Descale and service only at the model- and water-specific interval in the manual.",
+      "semanticSections": [
+        {
+          "heading": "Coffee oils, scale, water hardness, and preventive service",
+          "paragraphs": [
+            "This section connects coffee oils, scale, water hardness, and preventive service so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/espresso-machines"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-espresso-machines"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for espresso machine maintenance schedule?",
+          "answer": "Daily: purge and wipe the group and steam wand. Weekly: clean baskets, portafilter, tray, and approved removable parts."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for coffee oils, scale, water hardness, and preventive service.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
