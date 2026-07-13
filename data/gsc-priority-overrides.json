@@ -1017,5 +1017,44 @@
         "Add original diagnostic photos for boiler architecture, pid control, steam recovery, grinder pairing, and ownership cost.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "robot-vacuum-replacement-parts-guide",
+      "seoTitle": "Robot Vacuum Replacement Parts: Buying Guide",
+      "metaDescription": "Choose compatible robot vacuum filters, brushes, mop pads, bags, batteries, wheels, and docks by model number, fit, filtration, and safety.",
+      "opening": "Robot vacuum replacement parts should be matched to the exact model number and revision, not just the brand or product family. Filters, brush hubs, screw lengths, bag collars, battery connectors, voltage, mop mounts, and wheel modules can look similar while fitting or performing differently.",
+      "quickAnswer": "Record the model and part number, compare dimensions and connector shape, and verify filtration seals, brush direction, battery voltage and certification, and seller return terms. Use manufacturer-approved electrical and battery parts; test third-party consumables for fit and dust leakage before unattended operation.",
+      "semanticSections": [
+        {
+          "heading": "Part numbers, revision compatibility, filtration seals, battery safety, and total cost",
+          "paragraphs": [
+            "This section connects part numbers, revision compatibility, filtration seals, battery safety, and total cost so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/robot-vacuums"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-robot-vacuums"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for robot vacuum replacement parts?",
+          "answer": "Record the model and part number, compare dimensions and connector shape, and verify filtration seals, brush direction, battery voltage and certification, and seller return terms. Use manufacturer-approved electrical and battery parts; test third-party consumables for fit and dust leakage before unattended operation."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for part numbers, revision compatibility, filtration seals, battery safety, and total cost.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
