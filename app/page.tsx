@@ -33,8 +33,8 @@ const homeFaq = [
     answer: "Yes. Amazon links use the configured HomePilot Associates tracking ID."
   },
   {
-    question: "How do I add products?",
-    answer: "Edit data/products.json. Page templates read from JSON and update automatically at build time."
+    question: "How does HomePilot choose products?",
+    answer: "HomePilot compares products against the needs of each buying guide, including intended use, maintenance, dimensions, and retailer availability. Always verify current listing details before buying."
   }
 ];
 
@@ -64,13 +64,10 @@ export default function Home() {
           {
             "@context": "https://schema.org",
             "@type": "WebSite",
+            "@id": "https://homepilot-iota.vercel.app/#website",
             name: "HomePilot",
             url: "https://homepilot-iota.vercel.app",
-            potentialAction: {
-              "@type": "SearchAction",
-              target: "https://homepilot-iota.vercel.app/search?q={search_term_string}",
-              "query-input": "required name=search_term_string"
-            }
+            publisher: { "@id": "https://homepilot-iota.vercel.app/#organization" }
           },
           {
             "@context": "https://schema.org",
@@ -104,7 +101,7 @@ export default function Home() {
               </Link>
             </div>
             <div className="mt-8 flex flex-wrap gap-3 text-sm font-semibold text-neutral-700">
-              {["Updated Monthly", "Independent Research", "Amazon Pricing"].map((badge) => (
+              {["Independent Research", "Current Retailer Links", "Prices May Change"].map((badge) => (
                 <span key={badge} className="rounded-full border border-neutral-200 bg-white px-4 py-2 shadow-sm">
                   <span aria-hidden="true">✓ </span>
                   {badge}

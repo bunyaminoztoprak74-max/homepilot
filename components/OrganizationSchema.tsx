@@ -7,6 +7,7 @@ export function OrganizationSchema() {
       data={{
         "@context": "https://schema.org",
         "@type": "Organization",
+        "@id": `${siteUrl}/#organization`,
         name: "HomePilot",
         url: siteUrl,
         slogan: "Expert buying guides for home products.",

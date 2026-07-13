@@ -12,7 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: siteUrl, lastModified: now, changeFrequency: "weekly", priority: 1 },
     // Category hub pages — best-{slug}
     ...categories.map((category) => ({
-      url: `${siteUrl}/best-${category.slug}`,
+      url: `${siteUrl}/${category.slug}`,
       lastModified: now,
       changeFrequency: "weekly" as const,
       priority: 0.9

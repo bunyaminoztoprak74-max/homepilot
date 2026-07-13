@@ -9,6 +9,7 @@ const nextConfig = {
   pageExtensions: ["ts", "tsx", "md", "mdx"],
   typedRoutes: false,
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: "https",
