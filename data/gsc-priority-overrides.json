@@ -86,5 +86,26 @@
       { "question": "Can mirrors confuse robot vacuum mapping?", "answer": "Yes. Low-mounted mirrors and reflective glass can create false distance readings for some LiDAR systems. Use app boundaries or temporarily cover the reflective lower section while testing." }
     ],
     "suggestedAdditions": ["Add screenshots for rotated maps, split rooms, and multi-floor selection.", "Add a LiDAR-versus-camera mapping error comparison table."]
+  },
+  {
+    "slug": "robot-vacuum-bumping-into-walls-causes-and-fixes",
+    "seoTitle": "Robot Vacuum Bumping Into Walls? Causes and Fixes",
+    "metaDescription": "Stop repeated wall collisions by cleaning bumper and navigation sensors, checking lighting and maps, and testing the front bumper safely.",
+    "opening": "A robot vacuum that repeatedly bumps hard into walls may have a stuck front bumper, dirty infrared or camera sensors, poor room lighting, an outdated map, or glossy and dark surfaces it cannot detect reliably. Power it off, press the bumper across its full width to confirm it clicks and springs back evenly, then clean every navigation window with a dry microfiber cloth.",
+    "quickAnswer": "Clean the robot's front bumper, infrared windows, camera or LiDAR cover, and cliff sensors. Press both sides of the bumper and confirm it returns freely, restore normal room lighting, and test on a clear hard floor. If collisions happen only at one dark, reflective, or low object, add a no-go zone; if they happen everywhere, reset the map or inspect the bumper switch.",
+    "semanticSections": [
+      { "heading": "Bumper switches, obstacle sensors, and wall tracking", "paragraphs": ["Robot vacuums combine a mechanical bumper with infrared, structured-light, camera, ultrasonic, or LiDAR sensing. Soft contact can be normal during edge cleaning, but repeated high-speed impacts or failure to turn indicate that the bumper switch or obstacle-detection path is not responding correctly.", "Black furniture, mirror bases, glass doors, direct sunlight, and very low crossbars can reduce detection reliability. Test whether the behavior follows one surface or occurs throughout the home before replacing hardware."] }
+    ],
+    "internalLinks": [
+      { "label": "Fix robot vacuum mapping errors", "href": "/blog/robot-vacuum-mapping-errors-troubleshooting-guide" },
+      { "label": "Clean robot vacuum sensors", "href": "/blog/how-to-clean-robot-vacuum-sensors-and-cameras" },
+      { "label": "Create a no-go zone", "href": "/blog/how-to-set-up-no-go-zones-and-maps" }
+    ],
+    "faq": [
+      { "question": "Is it normal for a robot vacuum to touch walls?", "answer": "Light contact can be normal during edge cleaning. Repeated forceful impacts, failure to turn, or collisions throughout the room need troubleshooting." },
+      { "question": "Why does my robot vacuum hit dark furniture?", "answer": "Some optical and infrared sensors have difficulty detecting very dark, reflective, transparent, or unusually low surfaces." },
+      { "question": "How do I test a robot vacuum bumper?", "answer": "With power off, press the bumper at the center and both corners. It should move smoothly, click where applicable, and spring back without sticking." }
+    ],
+    "suggestedAdditions": ["Add a normal soft-contact versus faulty collision video.", "Add a surface-specific troubleshooting table for black, glass, mirrored, and low furniture."]
   }
 ]
