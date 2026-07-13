@@ -128,5 +128,26 @@
       { "question": "Should water drip from the mop tank when removed?", "answer": "A brief drop can be normal on some gravity-fed designs, but continuous flow indicates a valve, seal, cap, or tank problem." }
     ],
     "suggestedAdditions": ["Add a leak-location diagram for cap, seam, valve, and pad.", "Add a table comparing gravity-fed and electronically pumped mop systems."]
+  },
+  {
+    "slug": "robot-vacuum-side-brush-problems-and-fixes",
+    "seoTitle": "Robot Vacuum Side Brush Not Spinning? 8 Fixes",
+    "metaDescription": "Fix a robot vacuum side brush that stops, spins slowly, falls off, or tangles. Clean the axle, inspect the brush, reset errors, and test the motor.",
+    "opening": "A robot vacuum side brush usually stops spinning because hair is wound under the hub, the brush screw is loose, bristles are bent against the housing, debris has entered the axle, or the side-brush motor is overloaded. Turn the robot off, remove the brush and its fastener, clean beneath the hub, and inspect the mounting shape before testing it on a hard floor.",
+    "quickAnswer": "Power off the robot, remove the side brush, and cut away hair from the hub and axle. Check for bent bristles, a cracked mounting socket, a loose screw, and debris that prevents free rotation. Reinstall the correct brush, restart the robot, and test edge cleaning. Repeated errors, clicking, or no motor movement may require a side-brush module replacement.",
+    "semanticSections": [
+      { "heading": "Side-brush motor load and edge-cleaning behavior", "paragraphs": ["Side brushes sweep debris from walls and corners toward the main intake. Some robots intentionally vary brush speed or pause it on carpet, during turns, or when an obstacle is detected, so intermittent movement is not always a failure.", "A deformed brush increases drag and can overload the small gearmotor. Confirm that the replacement has the correct connector shape, screw length, diameter, and bristle direction for the model."] }
+    ],
+    "internalLinks": [
+      { "label": "Fix robot vacuum drive wheels", "href": "/blog/robot-vacuum-wheels-not-moving-troubleshooting" },
+      { "label": "Fix a main brush that is not spinning", "href": "/blog/robot-vacuum-brush-not-spinning-how-to-fix-it" },
+      { "label": "Robot vacuum error codes explained", "href": "/blog/robot-vacuum-error-codes-explained" }
+    ],
+    "faq": [
+      { "question": "Should a robot vacuum side brush spin constantly?", "answer": "Not necessarily. Some models reduce speed or pause the brush on carpet, near obstacles, or during turns. Check the model's normal behavior before replacing parts." },
+      { "question": "Why does my robot vacuum side brush keep falling off?", "answer": "The screw may be loose or incorrect, or the brush hub and motor shaft may be cracked or stripped. Replace damaged mounting parts rather than overtightening them." },
+      { "question": "Can bent side-brush bristles be fixed?", "answer": "Minor deformation may relax in warm water if the manufacturer permits it, but cracked, permanently curled, or shortened bristles should be replaced." }
+    ],
+    "suggestedAdditions": ["Add a labeled side-brush hub and axle cleaning photo.", "Add a normal versus failed side-brush behavior table."]
   }
 ]
