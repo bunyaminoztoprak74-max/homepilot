@@ -432,5 +432,44 @@
         "Add original diagnostic photos for pump pressure, puck resistance, and gauge interpretation.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "how-to-maintain-robot-vacuum-mop-pads",
+      "seoTitle": "How to Clean Robot Vacuum Mop Pads Properly",
+      "metaDescription": "Wash, dry, rotate, and replace robot vacuum mop pads without damaging microfiber, hook-and-loop backing, floors, or dock washing systems.",
+      "opening": "Robot vacuum mop pads should be removed after each wet run, rinsed until water runs clear, washed according to the care label, and air-dried completely. Leaving a dirty pad attached traps moisture, spreads odor and residue, flattens microfiber, and can transfer grime during the next scheduled run.",
+      "quickAnswer": "Remove the pad after every mopping run, shake off debris, rinse it, and wash it with the approved method and mild residue-free detergent. Avoid fabric softener and high heat, which reduce microfiber absorbency. Reattach only when fully dry and replace pads that remain flat, torn, stiff, or odorous.",
+      "semanticSections": [
+        {
+          "heading": "Microfiber care, detergent residue, and pad rotation",
+          "paragraphs": [
+            "This section connects microfiber care, detergent residue, and pad rotation so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/robot-vacuums"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-robot-vacuums"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for how to clean robot vacuum mop pads properly?",
+          "answer": "Remove the pad after every mopping run, shake off debris, rinse it, and wash it with the approved method and mild residue-free detergent. Avoid fabric softener and high heat, which reduce microfiber absorbency."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for microfiber care, detergent residue, and pad rotation.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
