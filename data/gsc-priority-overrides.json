@@ -744,5 +744,44 @@
         "Add original diagnostic photos for deep discharge, dock voltage, battery protection, and reset behavior.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "robot-vacuum-making-loud-noises-what-it-means",
+      "seoTitle": "Robot Vacuum Making Loud Noise? Identify the Sound",
+      "metaDescription": "Identify grinding, clicking, rattling, squealing, fan, brush, wheel, and dock noises—and know which robot vacuum sounds require immediate service.",
+      "opening": "A new robot-vacuum noise is easiest to locate by removing detachable cleaning parts one at a time with power off, then testing briefly on hard floor. Rattling often comes from debris in the brush or bin, clicking from tangled brushes or gears, squealing from wheels, and a rising roar from restricted airflow or fan damage.",
+      "quickAnswer": "Power off the robot and inspect the main brush, side brush, wheels, bin, filter, and intake for hair or hard debris. Reassemble and test briefly in standard mode. Stop immediately for grinding, burning odor, heat, battery noise, or a sound that continues after all user-serviceable parts are clean.",
+      "semanticSections": [
+        {
+          "heading": "Acoustic symptoms, brush bearings, wheel gears, airflow, and fan load",
+          "paragraphs": [
+            "This section connects acoustic symptoms, brush bearings, wheel gears, airflow, and fan load so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/robot-vacuums"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-robot-vacuums"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for robot vacuum making loud noise?",
+          "answer": "Power off the robot and inspect the main brush, side brush, wheels, bin, filter, and intake for hair or hard debris. Reassemble and test briefly in standard mode."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for acoustic symptoms, brush bearings, wheel gears, airflow, and fan load.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
