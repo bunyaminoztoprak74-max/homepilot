@@ -299,5 +299,16 @@
     "internalLinks": [{"label":"Fix robot vacuum mapping errors","href":"/blog/robot-vacuum-mapping-errors-troubleshooting-guide"},{"label":"Stop a robot getting stuck on rugs","href":"/blog/robot-vacuum-stuck-on-rugs-how-to-fix-it"},{"label":"Robot vacuum no-go zones guide","href":"/blog/robot-vacuum-no-go-zones"}],
     "faq": [{"question":"How much margin should a no-go zone have?","answer":"Use several inches of margin and increase it if the robot crosses the boundary at speed or from an angle."},{"question":"Will no-go zones work without Wi-Fi?","answer":"Saved boundaries may continue working offline on some models, but editing and cloud-synced maps usually require the app."}],
     "suggestedAdditions": ["Add annotated map screenshots.","Add a no-go versus no-mop versus virtual-wall table."]
+  },
+  {
+    "slug": "portafilter-basket-clogging-issues",
+    "seoTitle": "Portafilter Basket Clogged? Causes and Safe Fixes",
+    "metaDescription": "Clear a clogged espresso basket safely. Diagnose blocked holes, coffee oils, grind size, overdosing, blind baskets, and pressurized baskets.",
+    "opening": "A portafilter basket clogs when fine coffee particles and oils block its holes, the grind is too fine, the dose leaves no headspace, or a pressurized basket's single outlet becomes obstructed. Remove the basket, hold it toward a light to identify blocked holes, and clean it separately before changing grinder settings.",
+    "quickAnswer": "Remove the basket and soak it in manufacturer-approved espresso cleaner, then rinse and inspect every hole against a light. Use a soft nylon brush or the basket maker's cleaning tool; do not enlarge holes with a pin. If a clean basket chokes the machine, grind coarser, lower the dose, and confirm the pump produces water without the portafilter.",
+    "semanticSections": [{"heading":"Basket geometry, fines, and flow resistance","paragraphs":["Precision, pressurized, blind, single, and double baskets have different outlet patterns. Coffee fines migrate into holes when grind distribution, dose, or cleaning is poor, increasing hydraulic resistance and slowing extraction."]}],
+    "internalLinks": [{"label":"Fix a portafilter that will not lock","href":"/blog/portafilter-wont-lock-in-fixes"},{"label":"Troubleshoot low espresso pressure","href":"/blog/espresso-machine-not-producing-pressure-causes-and-fixes"},{"label":"Espresso backflushing guide","href":"/blog/espresso-machine-backflushing-guide"}],
+    "faq": [{"question":"Can I unclog basket holes with a needle?","answer":"Avoid hard needles that enlarge or deform precision holes. Soak, brush, and use only an approved basket-cleaning tool."},{"question":"Why does espresso barely drip from a clean basket?","answer":"The grind may be too fine, the dose too high, or the machine water path may be restricted."}],
+    "suggestedAdditions": ["Add backlit photos of clean and clogged basket holes.","Add a basket-type troubleshooting table."]
   }
 ]
