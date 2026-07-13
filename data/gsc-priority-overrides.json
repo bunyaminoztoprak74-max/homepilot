@@ -149,5 +149,26 @@
       { "question": "Can bent side-brush bristles be fixed?", "answer": "Minor deformation may relax in warm water if the manufacturer permits it, but cracked, permanently curled, or shortened bristles should be replaced." }
     ],
     "suggestedAdditions": ["Add a labeled side-brush hub and axle cleaning photo.", "Add a normal versus failed side-brush behavior table."]
+  },
+  {
+    "slug": "robot-vacuum-stuck-on-rugs-how-to-fix-it",
+    "seoTitle": "Robot Vacuum Stuck on Rugs? 9 Practical Fixes",
+    "metaDescription": "Stop a robot vacuum getting stuck on rug edges, tassels, dark patterns, or thick pile. Adjust the rug, sensors, maps, suction, and no-go zones.",
+    "opening": "Robot vacuums get stuck on rugs when a curled edge catches the bumper, tassels wrap around a wheel or brush, thick pile lifts the chassis, dark patterns trigger cliff sensors, or the rug exceeds the robot's climbing clearance. Flatten and secure the rug, tuck away fringe, clean the sensors and wheels, then observe one approach to identify the exact contact point.",
+    "quickAnswer": "Flatten curled rug edges with a nonslip pad or rug-safe tape, tuck or secure tassels, and remove hair from the wheels and brush roll. Clean the cliff sensors and test the robot approaching from several angles. For thick, shaggy, dark, or unstable rugs that still cause problems, create a no-go zone instead of disabling safety sensors.",
+    "semanticSections": [
+      { "heading": "Pile height, threshold clearance, and cliff sensors", "paragraphs": ["Successful rug climbing depends on edge profile, pile compression, wheel traction, bumper height, and the robot's rated threshold clearance. A robot may climb a firm threshold of the same height but fail on a soft rug edge that folds beneath it.", "Dark geometric patterns can absorb infrared light and resemble a drop to cliff sensors. Never permanently cover cliff sensors in a home with stairs; use map boundaries or a physical barrier when a rug repeatedly triggers them."] }
+    ],
+    "internalLinks": [
+      { "label": "Robot vacuum threshold guide", "href": "/blog/robot-vacuum-threshold-guide" },
+      { "label": "Set up a no-go zone", "href": "/blog/how-to-set-up-no-go-zones-and-maps" },
+      { "label": "Best robot vacuums for carpet", "href": "/best-robot-vacuums-for-carpet" }
+    ],
+    "faq": [
+      { "question": "Why does my robot vacuum get stuck on one rug only?", "answer": "That rug may have a curled edge, loose fringe, higher pile, a slippery backing, or a dark pattern that triggers cliff detection." },
+      { "question": "Can a robot vacuum clean a shag rug?", "answer": "Many cannot clean long or loose pile reliably. Fibers may wrap around brushes and wheels, so use a no-go zone unless the manufacturer confirms compatibility." },
+      { "question": "Should I cover cliff sensors to make a robot cross dark rugs?", "answer": "No in any area with stairs or drops. Covering safety sensors can cause a fall; use app boundaries or exclude the rug instead." }
+    ],
+    "suggestedAdditions": ["Add a rug-problem matrix for fringe, shag, curled edges, and dark patterns.", "Add an approach-angle video showing where the chassis catches."]
   }
 ]
