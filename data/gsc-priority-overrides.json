@@ -212,5 +212,26 @@
       { "question": "Can descaling fix an espresso pump?", "answer": "It can improve a mineral-restricted water path, but it cannot repair a failed pump, coil, switch, control board, or damaged valve." }
     ],
     "suggestedAdditions": ["Add a sound-based diagnostic table for silent, hollow buzzing, and strained pumps.", "Add model-specific priming steps sourced from official manuals."]
+  },
+  {
+    "slug": "robot-vacuum-smells-bad-causes-and-solutions",
+    "seoTitle": "Robot Vacuum Smells Bad? Causes and Safe Fixes",
+    "metaDescription": "Remove bad robot vacuum odors from the bin, filter, brush, wheels, mop pad, and dock—and spot moisture, pet waste, or motor warning signs.",
+    "opening": "A bad-smelling robot vacuum usually contains damp dust, pet hair, food debris, a dirty filter, a sour mop pad, or residue hidden around the brush roll and wheels. Stop using it immediately if the odor is electrical, hot-plastic, smoky, or linked to pet waste; isolate the robot, power it off, and inspect it before contamination or overheating spreads.",
+    "quickAnswer": "Empty and wash only the washable dustbin parts, replace or clean the filter according to its label, remove hair from the brush and wheels, and launder or replace the mop pad. Let every washable part dry completely before reassembly. For burning, battery, sewage, or pet-waste odors inside the chassis, stop the robot and use professional cleaning or service.",
+    "semanticSections": [
+      { "heading": "Odor sources: microbial growth, filters, and overheating", "paragraphs": ["Organic dust and moisture support bacterial and fungal growth, especially in sealed bins, wet mop pads, and self-empty docks. HEPA-style filters can retain odor when clogged or damp, but many are not washable; follow the filter marking and model manual.", "A sharp electrical or melting-plastic smell can indicate a stalled motor, overheated wheel or brush module, damaged charger, or battery fault. Cleaning fragrances must never be sprayed into motors, batteries, charging contacts, or air passages."] }
+    ],
+    "internalLinks": [
+      { "label": "Clean a robot vacuum dustbin", "href": "/blog/how-to-clean-a-robot-vacuum-dustbin" },
+      { "label": "Clean robot vacuum filters", "href": "/blog/how-to-clean-robot-vacuum-filters" },
+      { "label": "Maintain robot vacuum mop pads", "href": "/blog/how-to-maintain-robot-vacuum-mop-pads" }
+    ],
+    "faq": [
+      { "question": "Why does my robot vacuum smell after mopping?", "answer": "The pad or tank may have remained damp, or dirty water and debris may be trapped around the pad plate. Wash approved parts and dry them fully." },
+      { "question": "Can I put baking soda in a robot vacuum?", "answer": "Do not add loose powder to the bin or air path. Fine powder can clog filters, damage motors, and redistribute into the room." },
+      { "question": "What does an electrical smell from a robot vacuum mean?", "answer": "It may indicate an overheated motor, jammed moving part, charger fault, wiring damage, or battery problem. Stop, unplug the dock, and seek service." }
+    ],
+    "suggestedAdditions": ["Add an odor-to-source diagnostic chart.", "Add a contamination cleanup protocol for pet accidents using manufacturer-safe steps."]
   }
 ]
