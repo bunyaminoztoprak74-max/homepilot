@@ -65,5 +65,26 @@
       "Add a wheel-symptom diagnostic table covering stuck, clicking, spinning, and overload behavior.",
       "Add model-specific wheel-module removal photos after manufacturer guidance is verified."
     ]
+  },
+  {
+    "slug": "robot-vacuum-mapping-errors-troubleshooting-guide",
+    "seoTitle": "Robot Vacuum Mapping Errors: 9 Fixes to Try",
+    "metaDescription": "Fix a wrong, rotated, split, or missing robot vacuum map by checking sensors, dock placement, lighting, thresholds, Wi-Fi, and map settings.",
+    "opening": "Robot vacuum mapping errors are commonly caused by dirty LiDAR or camera sensors, a moved charging dock, interrupted cleaning runs, poor lighting, wheel slip, or an accidental new-map command. Return the dock to its saved position, clean the navigation sensors and wheels, then run one uninterrupted mapping cycle with doors open and obstacles removed.",
+    "quickAnswer": "To fix a robot vacuum map, put the dock back in its original position, clean the LiDAR or camera, cliff sensors, and wheels, and remove temporary obstacles. Confirm the correct floor and saved map in the app, then start a complete run from the dock. Delete and rebuild the map only after these checks because remapping removes room divisions and no-go zones.",
+    "semanticSections": [
+      { "heading": "LiDAR localization and visual navigation", "paragraphs": ["LiDAR robots match measured walls and objects to a saved coordinate map, while camera-based systems also depend on stable visual features and adequate light. Mirrors, direct sunlight, moved furniture, wheel slip, and a relocated dock can produce map rotation, duplicated rooms, or failed localization.", "Multi-floor maps require the correct saved floor to be selected and the robot to begin from a recognizable location. Preserve room boundaries, cleaning sequences, virtual walls, and no-go zones before using a reset or map-delete command."] }
+    ],
+    "internalLinks": [
+      { "label": "Set up maps and no-go zones", "href": "/blog/how-to-set-up-no-go-zones-and-maps" },
+      { "label": "Clean robot vacuum sensors and cameras", "href": "/blog/how-to-clean-robot-vacuum-sensors-and-cameras" },
+      { "label": "Fix robot vacuum app connection problems", "href": "/blog/robot-vacuum-app-not-connecting-fixes-that-work" }
+    ],
+    "faq": [
+      { "question": "Why did my robot vacuum map rotate?", "answer": "The robot may have lost localization because the dock moved, wheels slipped, sensors were obstructed, or the surroundings changed significantly." },
+      { "question": "Should I delete a bad robot vacuum map?", "answer": "Only after cleaning sensors, restoring dock placement, selecting the correct floor, and trying a complete run. Deleting the map also removes room labels and virtual boundaries." },
+      { "question": "Can mirrors confuse robot vacuum mapping?", "answer": "Yes. Low-mounted mirrors and reflective glass can create false distance readings for some LiDAR systems. Use app boundaries or temporarily cover the reflective lower section while testing." }
+    ],
+    "suggestedAdditions": ["Add screenshots for rotated maps, split rooms, and multi-floor selection.", "Add a LiDAR-versus-camera mapping error comparison table."]
   }
 ]
