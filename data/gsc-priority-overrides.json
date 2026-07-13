@@ -939,5 +939,44 @@
         "Add original diagnostic photos for floor preparation, dock clearance, thresholds, pet safety, and first mapping.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "espresso-machine-water-quality",
+      "seoTitle": "Best Water for Espresso Machines: Hardness and Scale",
+      "metaDescription": "Choose espresso water with balanced hardness and alkalinity to protect boilers, reduce scale and corrosion, and improve extraction without using unsafe pure water.",
+      "opening": "Espresso-machine water must balance flavor with equipment protection. Very hard water causes scale; highly softened or near-zero-mineral water can taste flat and may increase corrosion or confuse level sensors. Use the manufacturer's water specification, test local hardness and alkalinity, and match filtration to the machine.",
+      "quickAnswer": "Test source water for hardness and alkalinity, compare the result with the machine maker's range, and use an approved filter or formulated water when needed. Avoid distilled or reverse-osmosis water without remineralization unless the manufacturer explicitly permits it. Adjust descaling intervals to measured water conditions.",
+      "semanticSections": [
+        {
+          "heading": "Hardness, alkalinity, scale, corrosion, filtration, and remineralization",
+          "paragraphs": [
+            "This section connects hardness, alkalinity, scale, corrosion, filtration, and remineralization so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/espresso-machines"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-espresso-machines"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for best water for espresso machines?",
+          "answer": "Test source water for hardness and alkalinity, compare the result with the machine maker's range, and use an approved filter or formulated water when needed. Avoid distilled or reverse-osmosis water without remineralization unless the manufacturer explicitly permits it."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for hardness, alkalinity, scale, corrosion, filtration, and remineralization.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
