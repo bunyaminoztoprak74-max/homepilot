@@ -354,5 +354,44 @@
     "internalLinks": [{"label":"Fix portafilter lock-in problems","href":"/blog/portafilter-wont-lock-in-fixes"},{"label":"Troubleshoot the group head","href":"/blog/espresso-group-head-troubleshooting-guide"},{"label":"Espresso maintenance schedule","href":"/blog/espresso-machine-maintenance-schedule"}],
     "faq": [{"question":"Why does water leak around the portafilter?","answer":"Coffee on the rim, overdosing, a damaged group gasket, wrong basket, or worn locking surfaces can prevent a seal."},{"question":"Is water in the drip tray normal?","answer":"Some water is normal from pressure relief and rinsing, but rapid unexplained filling or water beneath the machine needs investigation."}],
     "suggestedAdditions": ["Add a leak-location diagram.","Add a symptom table organized by filling, heating, brewing, and steaming."]
-  }
+  },
+  {
+      "slug": "espresso-shots-pulling-too-fast-causes-and-fixes",
+      "seoTitle": "Espresso Shot Pulling Too Fast? 8 Fixes",
+      "metaDescription": "Fix fast espresso shots by adjusting grind size, dose, puck preparation, basket, freshness, pressure, and brew ratio for a balanced extraction.",
+      "opening": "An espresso shot pulls too fast when water finds too little resistance through a coarse grind, low dose, uneven puck, stale coffee, or mismatched basket. Weigh the dose and yield, time the shot from pump start, then grind finer in small steps while keeping every other variable stable.",
+      "quickAnswer": "For a fast espresso shot, grind finer first, then confirm the basket dose, level distribution, firm tamp, and a dry clean rim. Measure both input and output with a scale. Change one variable at a time; if flow remains fast with a fine grind, inspect basket fit, channeling, and brew pressure.",
+      "semanticSections": [
+        {
+          "heading": "Grind size, brew ratio, and channeling",
+          "paragraphs": [
+            "This section connects grind size, brew ratio, and channeling so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/espresso-machines"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-espresso-machines"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for espresso shot pulling too fast?",
+          "answer": "For a fast espresso shot, grind finer first, then confirm the basket dose, level distribution, firm tamp, and a dry clean rim. Measure both input and output with a scale."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for grind size, brew ratio, and channeling.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
+    }
 ]
