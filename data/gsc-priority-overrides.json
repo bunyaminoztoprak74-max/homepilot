@@ -822,5 +822,44 @@
         "Add original diagnostic photos for restart, network reset, factory reset, maps, and account binding.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "espresso-machine-wont-heat-up",
+      "seoTitle": "Espresso Machine Not Heating? 9 Safe Checks",
+      "metaDescription": "Diagnose an espresso machine that stays cold or heats slowly by checking mode, warm-up, water level, scale, thermostat, heater, and safety cutoff.",
+      "opening": "An espresso machine may not heat because it is in standby, the water tank or boiler is not filled, a thermal cutoff has tripped, scale insulates the heating path, or the thermostat, sensor, heater, relay, or control board has failed. Verify mode, water supply, and normal warm-up time before opening anything.",
+      "quickAnswer": "Confirm the machine is in brew mode, the tank is filled and seated, and any required priming cycle is complete. Restart once after cooling and allow the full manual warm-up period. Stop and seek service if breakers trip, the case overheats, wiring smells, or the machine remains cold.",
+      "semanticSections": [
+        {
+          "heading": "Thermoblock, boiler, thermostat, thermal fuse, and temperature sensor",
+          "paragraphs": [
+            "This section connects thermoblock, boiler, thermostat, thermal fuse, and temperature sensor so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/espresso-machines"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-espresso-machines"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for espresso machine not heating?",
+          "answer": "Confirm the machine is in brew mode, the tank is filled and seated, and any required priming cycle is complete. Restart once after cooling and allow the full manual warm-up period."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for thermoblock, boiler, thermostat, thermal fuse, and temperature sensor.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
