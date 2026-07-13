@@ -666,5 +666,44 @@
         "Add original diagnostic photos for firmware delivery, battery safeguards, cloud service, and rollback risk.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "espresso-machine-steam-wand-not-working",
+      "seoTitle": "Steam Wand Not Working? 9 Espresso Machine Fixes",
+      "metaDescription": "Restore steam-wand pressure by checking warm-up mode, purge flow, milk blockage, tip holes, scale, valves, and boiler readiness safely.",
+      "opening": "A steam wand may stop working because the machine has not reached steam temperature, the tip holes are blocked by dried milk, the valve is closed or worn, the boiler needs refilling, or mineral scale restricts flow. Purge briefly without milk and note whether the wand releases steam, water, or nothing.",
+      "quickAnswer": "Let the machine reach steam-ready temperature, open the valve fully, and purge briefly. Once cool, remove and soak the approved wand tip, clear its holes with the supplied tool, rinse, and reinstall. Stop for internal leaks, electrical faults, or a valve that produces no flow after approved cleaning.",
+      "semanticSections": [
+        {
+          "heading": "Steam boiler, thermoblock, valve, tip holes, and milk residue",
+          "paragraphs": [
+            "This section connects steam boiler, thermoblock, valve, tip holes, and milk residue so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/espresso-machines"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-espresso-machines"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for steam wand not working?",
+          "answer": "Let the machine reach steam-ready temperature, open the valve fully, and purge briefly. Once cool, remove and soak the approved wand tip, clear its holes with the supplied tool, rinse, and reinstall."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for steam boiler, thermoblock, valve, tip holes, and milk residue.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
