@@ -310,5 +310,16 @@
     "internalLinks": [{"label":"Fix a portafilter that will not lock","href":"/blog/portafilter-wont-lock-in-fixes"},{"label":"Troubleshoot low espresso pressure","href":"/blog/espresso-machine-not-producing-pressure-causes-and-fixes"},{"label":"Espresso backflushing guide","href":"/blog/espresso-machine-backflushing-guide"}],
     "faq": [{"question":"Can I unclog basket holes with a needle?","answer":"Avoid hard needles that enlarge or deform precision holes. Soak, brush, and use only an approved basket-cleaning tool."},{"question":"Why does espresso barely drip from a clean basket?","answer":"The grind may be too fine, the dose too high, or the machine water path may be restricted."}],
     "suggestedAdditions": ["Add backlit photos of clean and clogged basket holes.","Add a basket-type troubleshooting table."]
+  },
+  {
+    "slug": "espresso-crema-disappearing-causes-and-fixes",
+    "seoTitle": "Espresso Crema Disappears Fast? 8 Reasons Why",
+    "metaDescription": "Learn why espresso crema fades quickly and adjust bean freshness, roast, grind, dose, extraction time, temperature, pressure, and cup cleanliness.",
+    "opening": "Espresso crema disappears quickly when coffee is stale, the roast releases little carbon dioxide, extraction runs too fast, water temperature or pressure is unstable, or oils and detergent remain in the cup. Crema is gas trapped in an emulsion, so its amount and persistence change with bean age, roast style, recipe, grinder quality, and basket type.",
+    "quickAnswer": "Use fresh whole beans, grind immediately before brewing, heat and rinse the cup, and target a balanced shot rather than crema volume alone. If the shot runs fast, grind finer or improve puck preparation; if it tastes bitter and crema is dark and broken, reduce over-extraction. Judge flavor, body, and extraction together because robusta blends and pressurized baskets naturally create more crema.",
+    "semanticSections": [{"heading":"Carbon dioxide, emulsified oils, and extraction","paragraphs":["Crema forms when brewing pressure releases carbon dioxide from coffee and disperses gas through emulsified oils and fine particles. Freshness increases gas, but extremely fresh coffee can produce unstable foam and uneven extraction."]}],
+    "internalLinks": [{"label":"Fix fast espresso shots","href":"/blog/espresso-shots-pulling-too-fast-causes-and-fixes"},{"label":"Espresso grind size explained","href":"/blog/espresso-grind-size-explained"},{"label":"Fix sour espresso","href":"/blog/espresso-tastes-sour-causes-and-fixes"}],
+    "faq": [{"question":"How long should espresso crema last?","answer":"There is no universal target; crema naturally thins within minutes and varies with coffee, recipe, basket, and machine."},{"question":"Does more crema mean better espresso?","answer":"No. Pressurized baskets and robusta can create abundant crema even when flavor is not balanced."}],
+    "suggestedAdditions": ["Add a crema color and texture photo guide.","Add a freshness-versus-extraction diagnostic table."]
   }
 ]
