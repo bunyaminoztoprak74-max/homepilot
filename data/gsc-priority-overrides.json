@@ -288,5 +288,16 @@
     "internalLinks": [{"label":"Robot vacuum maintenance checklist","href":"/blog/robot-vacuum-maintenance-checklist"},{"label":"How often to replace robot vacuum parts","href":"/blog/how-often-to-replace-robot-vacuum-parts"},{"label":"Best robot vacuums for pet hair","href":"/best-robot-vacuums-for-pet-hair"}],
     "faq": [{"question":"Should a robot vacuum run every day with pets?","answer":"Daily is a useful starting point; increase frequency for heavy shedding and reduce it if bins stay empty or pets are stressed."},{"question":"Is it safe to run a robot vacuum when pets are alone?","answer":"Only after removing cords, bowls, toys, and accident risks and confirming the pet is comfortable with the robot."}],
     "suggestedAdditions": ["Add schedules for one pet, multiple pets, and shedding season.","Add a pet-stress and accident-safety checklist."]
+  },
+  {
+    "slug": "how-to-set-up-no-go-zones-and-maps",
+    "seoTitle": "How to Set Up Robot Vacuum No-Go Zones and Maps",
+    "metaDescription": "Create accurate robot vacuum maps, room divisions, no-go zones, no-mop zones, and virtual walls without blocking docks or doorways.",
+    "opening": "Set up reliable no-go zones by completing one uninterrupted mapping run from the dock before editing room boundaries. Open the doors you want mapped, remove temporary obstacles, clean navigation sensors, and keep the dock in its permanent position; then place virtual boundaries slightly wider than the hazard instead of tracing its exact edge.",
+    "quickAnswer": "Start a complete mapping run from the dock with doors open and floors clear. Save the map, divide and label rooms, then add no-go zones for cables, pet bowls, fragile furniture, and problem rugs; add separate no-mop zones for carpet. Leave extra margin around each hazard and test every boundary while supervising the first run.",
+    "semanticSections": [{"heading":"Virtual walls, no-mop zones, and map accuracy","paragraphs":["No-go zones exclude all cleaning, while no-mop zones may allow vacuuming after the pad is removed or lifted. Boundary accuracy depends on localization, dock placement, wheel traction, and the mapping technology."]}],
+    "internalLinks": [{"label":"Fix robot vacuum mapping errors","href":"/blog/robot-vacuum-mapping-errors-troubleshooting-guide"},{"label":"Stop a robot getting stuck on rugs","href":"/blog/robot-vacuum-stuck-on-rugs-how-to-fix-it"},{"label":"Robot vacuum no-go zones guide","href":"/blog/robot-vacuum-no-go-zones"}],
+    "faq": [{"question":"How much margin should a no-go zone have?","answer":"Use several inches of margin and increase it if the robot crosses the boundary at speed or from an angle."},{"question":"Will no-go zones work without Wi-Fi?","answer":"Saved boundaries may continue working offline on some models, but editing and cloud-synced maps usually require the app."}],
+    "suggestedAdditions": ["Add annotated map screenshots.","Add a no-go versus no-mop versus virtual-wall table."]
   }
 ]
