@@ -588,5 +588,44 @@
         "Add original diagnostic photos for coffee oils, scale, water hardness, and preventive service.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "air-fryer-temperature-conversion-guide",
+      "seoTitle": "Air Fryer Temperature Conversion Chart and Formula",
+      "metaDescription": "Convert oven temperatures and cooking times for an air fryer using a practical starting formula, food-safety checks, and adjustments for basket size.",
+      "opening": "A practical air-fryer conversion is to lower a conventional oven temperature by about 25°F (15°C) and begin checking food roughly 20% earlier. That is a starting point, not a safety rule: food thickness, load, basket airflow, breading, and appliance power can change the result.",
+      "quickAnswer": "Start 25°F (15°C) below the conventional-oven setting and check 20% sooner. Keep food in a single layer where possible, turn or shake during cooking, and use a food thermometer for meat and poultry. Add time in short increments until texture and safe internal temperature are reached.",
+      "semanticSections": [
+        {
+          "heading": "Convection heat, time conversion, load size, and food safety",
+          "paragraphs": [
+            "This section connects convection heat, time conversion, load size, and food safety so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/air-fryers"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-air-fryers"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for air fryer temperature conversion chart and formula?",
+          "answer": "Start 25°F (15°C) below the conventional-oven setting and check 20% sooner. Keep food in a single layer where possible, turn or shake during cooking, and use a food thermometer for meat and poultry."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for convection heat, time conversion, load size, and food safety.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
