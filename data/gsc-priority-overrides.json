@@ -510,5 +510,44 @@
         "Add original diagnostic photos for shower screen, group gasket, solenoid, and thermal stability.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "how-to-clean-robot-vacuum-filters",
+      "seoTitle": "How to Clean Robot Vacuum Filters Without Damage",
+      "metaDescription": "Clean washable and non-washable robot vacuum filters correctly, restore airflow, prevent dust leaks, and know when filter media needs replacement.",
+      "opening": "Robot vacuum filters lose airflow when fine dust fills their pleats, but washing a non-washable filter can ruin its media and motor protection. Remove the bin outdoors, check the filter label and manual, tap loose dust gently, and use water only when the manufacturer explicitly marks the filter washable.",
+      "quickAnswer": "Remove the filter with the robot powered off. Tap or brush a dry-only filter using the approved method; rinse a washable filter with cool water and no harsh detergent. Let it dry completely—often at least 24 hours—before reinstalling. Replace torn, warped, stained, or persistently clogged media.",
+      "semanticSections": [
+        {
+          "heading": "Filter media, airflow, seals, and drying time",
+          "paragraphs": [
+            "This section connects filter media, airflow, seals, and drying time so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/robot-vacuums"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-robot-vacuums"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for how to clean robot vacuum filters without damage?",
+          "answer": "Remove the filter with the robot powered off. Tap or brush a dry-only filter using the approved method; rinse a washable filter with cool water and no harsh detergent."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for filter media, airflow, seals, and drying time.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
