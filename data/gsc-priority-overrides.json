@@ -191,5 +191,26 @@
       { "question": "When should I stop using a robot vacuum with an error?", "answer": "Stop immediately for burning smells, smoke, battery swelling, unusual heat, liquid inside the chassis, grinding gears, or a repeated electrical or battery error." }
     ],
     "suggestedAdditions": ["Add brand-specific code tables only after verifying official manuals.", "Add a printable diagnostic checklist for code, model, symptoms, and attempted fixes."]
+  },
+  {
+    "slug": "espresso-machine-pump-not-working",
+    "seoTitle": "Espresso Machine Pump Not Working? 9 Fixes",
+    "metaDescription": "Espresso machine pump silent, buzzing, or not moving water? Check the tank, airlock, inlet valve, prime cycle, scale, and pump safely.",
+    "opening": "An espresso machine pump that runs without moving water is often airlocked, starved by an empty or poorly seated reservoir, blocked by a stuck tank valve, or restricted by scale. A completely silent machine may instead have a control, switch, thermal protection, wiring, or pump failure. Note whether the pump is silent, buzzing, or changing pitch before troubleshooting.",
+    "quickAnswer": "Fill and firmly reseat the water tank, open the steam or hot-water valve, and run the manufacturer's priming procedure in short intervals. Check that the tank outlet valve moves freely and remove the portafilter to rule out a coffee blockage. If the pump stays silent, overheats, leaks, or only hums after priming, unplug the machine and arrange service rather than opening a pressurized appliance.",
+    "semanticSections": [
+      { "heading": "Airlocks, vibration pumps, and water-path restrictions", "paragraphs": ["Many home machines use an electromagnetic vibration pump whose sound rises as pressure builds. A loud hollow buzz with no flow often indicates an airlock or dry inlet, while a quieter strained sound can point to scale, a blocked flow meter, solenoid, thermoblock, or overpressure path.", "Prime only for the intervals allowed by the manual so the pump does not run dry or overheat. Descaling is appropriate only when the manufacturer recommends it for the symptoms and water circuit; it cannot repair a failed pump coil or damaged valve."] }
+    ],
+    "internalLinks": [
+      { "label": "Fix low espresso pressure", "href": "/blog/espresso-machine-not-producing-pressure-causes-and-fixes" },
+      { "label": "Troubleshoot espresso water reservoirs", "href": "/blog/espresso-machine-water-reservoir-issues" },
+      { "label": "Espresso machine descaling guide", "href": "/blog/espresso-machine-descaling-guide" }
+    ],
+    "faq": [
+      { "question": "Why is my espresso pump buzzing but no water comes out?", "answer": "The pump may be airlocked, the reservoir valve may be closed, or scale and debris may be restricting the inlet or downstream water path." },
+      { "question": "How do I prime an espresso machine pump?", "answer": "Fill and seat the tank, open the hot-water or steam path, and follow the model's priming instructions in short cycles. Do not run the pump dry continuously." },
+      { "question": "Can descaling fix an espresso pump?", "answer": "It can improve a mineral-restricted water path, but it cannot repair a failed pump, coil, switch, control board, or damaged valve." }
+    ],
+    "suggestedAdditions": ["Add a sound-based diagnostic table for silent, hollow buzzing, and strained pumps.", "Add model-specific priming steps sourced from official manuals."]
   }
 ]
