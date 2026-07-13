@@ -1056,5 +1056,44 @@
         "Add original diagnostic photos for part numbers, revision compatibility, filtration seals, battery safety, and total cost.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "espresso-machine-not-turning-on",
+      "seoTitle": "Espresso Machine Won't Turn On? 10 Safe Checks",
+      "metaDescription": "Troubleshoot an espresso machine with no power by checking the outlet, plug, switch, standby mode, tank seating, thermal cutoff, and service indicators.",
+      "opening": "An espresso machine that will not turn on may have a dead outlet, loose plug, master switch off, standby behavior, improperly seated tank or tray interlock, overheated thermal protection, damaged cord, fuse, power board, or control panel. Begin with external checks and never open a plugged-in appliance.",
+      "quickAnswer": "Test the outlet with another device, inspect the plug and cord, use the physical master switch, seat the tank, tray, door, and brew unit, then let an overheated machine cool before one restart. Stop for breaker trips, liquid entry, scorch marks, burning odor, or repeated power loss.",
+      "semanticSections": [
+        {
+          "heading": "Power interlocks, thermal protection, fuses, relays, and control boards",
+          "paragraphs": [
+            "This section connects power interlocks, thermal protection, fuses, relays, and control boards so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/espresso-machines"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-espresso-machines"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for espresso machine won't turn on?",
+          "answer": "Test the outlet with another device, inspect the plug and cord, use the physical master switch, seat the tank, tray, door, and brew unit, then let an overheated machine cool before one restart. Stop for breaker trips, liquid entry, scorch marks, burning odor, or repeated power loss."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for power interlocks, thermal protection, fuses, relays, and control boards.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
