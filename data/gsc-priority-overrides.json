@@ -233,5 +233,16 @@
       { "question": "What does an electrical smell from a robot vacuum mean?", "answer": "It may indicate an overheated motor, jammed moving part, charger fault, wiring damage, or battery problem. Stop, unplug the dock, and seek service." }
     ],
     "suggestedAdditions": ["Add an odor-to-source diagnostic chart.", "Add a contamination cleanup protocol for pet accidents using manufacturer-safe steps."]
+  },
+  {
+    "slug": "robot-vacuum-battery-draining-fast-what-to-do",
+    "seoTitle": "Robot Vacuum Battery Draining Fast? 9 Fixes",
+    "metaDescription": "Fix short robot vacuum runtime by cleaning brushes and wheels, checking charging contacts, settings, temperature, battery age, and dock power.",
+    "opening": "A robot vacuum battery drains quickly when brush or wheel resistance raises motor load, charging contacts are dirty, maximum suction is enabled, the dock cannot complete a charge, or the lithium-ion pack has lost capacity. Fully charge the robot, record its runtime on a clear hard floor in standard mode, and compare that repeatable test after cleaning moving parts and contacts.",
+    "quickAnswer": "Clean hair from the main brush, side brush, and wheels; wipe the robot and dock charging contacts; confirm the dock has continuous power; and charge to 100% at room temperature. Test in standard suction without mopping. If runtime remains far below the model's normal range after several full cycles, the aging battery or charging system may need service.",
+    "semanticSections": [{"heading":"Battery capacity, motor load, and charging cycles","paragraphs":["Lithium-ion capacity declines with age, heat, deep discharge, and long storage at empty charge. Runtime also changes with carpet, maximum suction, obstacle density, repeated localization, mop pumps, and cold rooms.","A battery percentage that jumps, a robot that shuts down under load, swelling, excess heat, or a chemical smell requires immediate shutdown and manufacturer-approved service or battery replacement."]}],
+    "internalLinks": [{"label":"Fix robot vacuum charging problems","href":"/blog/robot-vacuum-wont-charge-causes-and-fixes"},{"label":"Clean charging contacts","href":"/blog/how-to-clean-robot-vacuum-charging-contacts"},{"label":"Robot vacuum battery life guide","href":"/blog/robot-vacuum-battery-life-guide"}],
+    "faq": [{"question":"How long should a robot vacuum battery last per charge?","answer":"Runtime varies by model, suction, floor type, mapping, and battery age. Compare your measured standard-mode runtime with the model manual."},{"question":"Why does maximum suction drain the battery faster?","answer":"Higher fan speed draws more current, and carpet or tangled brushes add motor load, reducing cleaning time."},{"question":"When should a robot vacuum battery be replaced?","answer":"Consider replacement when verified runtime remains substantially reduced, shutdowns occur under normal load, or the manufacturer reports a battery fault."}],
+    "suggestedAdditions": ["Add a repeatable runtime-test worksheet.","Add a battery symptom and action table covering age, heat, swelling, and charge jumps."]
   }
 ]
