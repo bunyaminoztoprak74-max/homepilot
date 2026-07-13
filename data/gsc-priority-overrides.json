@@ -471,5 +471,44 @@
         "Add original diagnostic photos for microfiber care, detergent residue, and pad rotation.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "espresso-group-head-troubleshooting-guide",
+      "seoTitle": "Espresso Group Head Problems: Diagnosis and Fixes",
+      "metaDescription": "Troubleshoot weak flow, leaks, blocked screens, dirty gaskets, uneven water, and group-head temperature problems without unsafe disassembly.",
+      "opening": "Group-head problems usually appear as water leaking around the portafilter, uneven shower-screen flow, slow delivery without coffee, loose seals, or unstable temperature. Remove the portafilter, cool the machine, clean the screen and gasket area, and compare water flow before and after routine cleaning.",
+      "quickAnswer": "With the machine cool, clean the group gasket and shower screen, then test water flow without the portafilter. Reinstall a clean basket and correct dose. Replace a worn gasket and follow approved backflushing steps where supported; stop for internal leaks, exposed wiring, or hot pressurized faults.",
+      "semanticSections": [
+        {
+          "heading": "Shower screen, group gasket, solenoid, and thermal stability",
+          "paragraphs": [
+            "This section connects shower screen, group gasket, solenoid, and thermal stability so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/espresso-machines"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-espresso-machines"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for espresso group head problems?",
+          "answer": "With the machine cool, clean the group gasket and shower screen, then test water flow without the portafilter. Reinstall a clean basket and correct dose."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for shower screen, group gasket, solenoid, and thermal stability.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
