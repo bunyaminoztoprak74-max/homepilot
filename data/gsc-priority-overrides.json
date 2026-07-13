@@ -343,5 +343,16 @@
     "internalLinks": [{"label":"Fix robot vacuum charging problems","href":"/blog/robot-vacuum-wont-charge-causes-and-fixes"},{"label":"Robot vacuum battery drain fixes","href":"/blog/robot-vacuum-battery-draining-fast-what-to-do"},{"label":"Clean a self-empty dock","href":"/blog/how-to-clean-a-robot-vacuum-self-empty-dock"}],
     "faq": [{"question":"Can I use rubbing alcohol on charging contacts?","answer":"Only if the manufacturer permits it; apply a small amount to a cloth with all power disconnected and allow full drying."},{"question":"Why does my robot keep leaving and returning to the dock?","answer":"Dirty contacts, dock movement, stuck pins, weak power, poor alignment, or battery faults can interrupt charging."}],
     "suggestedAdditions": ["Add close-up photos of clean, dirty, and oxidized contacts.","Add a dock-alignment checklist."]
+  },
+  {
+    "slug": "espresso-machine-leaking-water-troubleshooting",
+    "seoTitle": "Espresso Machine Leaking Water? Find the Source",
+    "metaDescription": "Diagnose espresso machine leaks from the tank, group head, portafilter, steam wand, drip tray, hoses, valves, boiler, and seals safely.",
+    "opening": "An espresso machine leak is easiest to diagnose by when and where it appears: while filling, heating, brewing, steaming, or sitting idle. Unplug and cool the machine, dry the exterior and drip tray, then inspect the reservoir and visible fittings before running a brief supervised test; water near electrical parts requires immediate service.",
+    "quickAnswer": "Unplug and cool the espresso machine, remove and reseat the water tank, inspect its valve and seals, empty the drip tray, and clean the group gasket and portafilter rim. During a short supervised test, identify whether water appears at the tank, group head, steam valve, tray, or underneath. Stop immediately for internal, electrical, boiler, or hot pressurized leaks.",
+    "semanticSections": [{"heading":"Static, brewing, and pressurized leaks","paragraphs":["Leaks at rest usually involve the reservoir, inlet valve, hoses, or seals. Brewing leaks often point to the group gasket, portafilter fit, three-way valve, or overpressure return; steaming leaks implicate wand valves and hot pressurized fittings."]}],
+    "internalLinks": [{"label":"Fix portafilter lock-in problems","href":"/blog/portafilter-wont-lock-in-fixes"},{"label":"Troubleshoot the group head","href":"/blog/espresso-group-head-troubleshooting-guide"},{"label":"Espresso maintenance schedule","href":"/blog/espresso-machine-maintenance-schedule"}],
+    "faq": [{"question":"Why does water leak around the portafilter?","answer":"Coffee on the rim, overdosing, a damaged group gasket, wrong basket, or worn locking surfaces can prevent a seal."},{"question":"Is water in the drip tray normal?","answer":"Some water is normal from pressure relief and rinsing, but rapid unexplained filling or water beneath the machine needs investigation."}],
+    "suggestedAdditions": ["Add a leak-location diagram.","Add a symptom table organized by filling, heating, brewing, and steaming."]
   }
 ]
