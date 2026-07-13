@@ -35,5 +35,35 @@
       "Add original photos showing an empty-basket fit test and shower-screen puck imprint.",
       "Add a compatibility table for stock, bottomless, and precision baskets by internal diameter and depth."
     ]
+  },
+  {
+    "slug": "robot-vacuum-wheels-not-moving-troubleshooting",
+    "seoTitle": "Robot Vacuum Wheels Not Moving? Fix Them in 7 Steps",
+    "metaDescription": "Robot vacuum wheels not moving? Remove trapped hair, test wheel travel, clean sensors, reset the robot, and identify motor or gearbox failure.",
+    "opening": "Robot vacuum wheels usually stop moving because hair is wrapped around an axle, debris is wedged inside the suspension well, a cliff sensor is dirty, or the wheel motor has entered overload protection. Power the robot off, remove the main brush, and compare how far each drive wheel presses down, springs back, and turns by hand before resetting it.",
+    "quickAnswer": "Turn the robot vacuum off, remove hair and debris from both drive wheels, then press and rotate each wheel to compare resistance and spring travel. Clean the cliff sensors and charging contacts, reinstall the brush and bin, and restart the robot on a hard floor. A wheel that remains stiff, does not spring back, or triggers the same error may need a wheel-module replacement.",
+    "semanticSections": [
+      {
+        "heading": "Wheel motor, suspension, and encoder checks",
+        "paragraphs": [
+          "Each powered wheel module contains a motor, gearbox, suspension spring, and rotation feedback sensor or encoder. Unequal wheel travel makes the robot veer, spin in circles, stop with an overload alert, or report that it is stuck even on a clear floor.",
+          "Test on a flat hard surface after cleaning. Repeated clicking, grinding, heat, a burning smell, or a wheel that cannot be turned with moderate finger pressure points to internal damage rather than a mapping or app problem."
+        ]
+      }
+    ],
+    "internalLinks": [
+      { "label": "Fix a robot vacuum brush that is not spinning", "href": "/blog/robot-vacuum-brush-not-spinning-how-to-fix-it" },
+      { "label": "Decode robot vacuum error messages", "href": "/blog/robot-vacuum-error-codes-explained" },
+      { "label": "Follow the robot vacuum maintenance checklist", "href": "/blog/robot-vacuum-maintenance-checklist" }
+    ],
+    "faq": [
+      { "question": "Why is only one robot vacuum wheel moving?", "answer": "Hair, a jammed suspension, a damaged gearbox, a disconnected wheel module, or a failed motor can stop one side. Compare both wheels with the power off and clean the stiff side first." },
+      { "question": "Can I use lubricant on robot vacuum wheels?", "answer": "Do not spray household lubricant into a wheel module. It can attract dust or reach the motor and sensors. Follow the manufacturer's service instructions." },
+      { "question": "Why does my robot vacuum spin in circles?", "answer": "One drive wheel may be jammed or providing incorrect encoder feedback. Dirty cliff sensors can also make the robot turn away from a floor area repeatedly." }
+    ],
+    "suggestedAdditions": [
+      "Add a wheel-symptom diagnostic table covering stuck, clicking, spinning, and overload behavior.",
+      "Add model-specific wheel-module removal photos after manufacturer guidance is verified."
+    ]
   }
 ]
