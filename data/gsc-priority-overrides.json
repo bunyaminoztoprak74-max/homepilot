@@ -900,5 +900,44 @@
         "Add original diagnostic photos for moisture migration, browning, cut size, oil film, and batch loading.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "how-to-prepare-your-home-for-a-robot-vacuum",
+      "seoTitle": "How to Prepare Your Home for a Robot Vacuum",
+      "metaDescription": "Prepare floors, cords, rugs, stairs, pet areas, furniture, thresholds, dock space, maps, and no-go zones before the first robot vacuum run.",
+      "opening": "Before a robot vacuum's first run, remove cords, socks, toys, paper, liquids, and fragile objects; secure rug fringe; block stairs if safety is uncertain; and choose a permanent dock position with clear approach space. A supervised mapping run reveals low furniture, thresholds, reflective surfaces, and pet areas that need boundaries.",
+      "quickAnswer": "Clear small objects and cables, secure loose rugs and curtains, move bowls and fragile decor, check under furniture, and provide clear space around the powered dock. Open desired rooms, close excluded ones, supervise the first map, then add no-go and no-mop zones for repeat hazards.",
+      "semanticSections": [
+        {
+          "heading": "Floor preparation, dock clearance, thresholds, pet safety, and first mapping",
+          "paragraphs": [
+            "This section connects floor preparation, dock clearance, thresholds, pet safety, and first mapping so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/robot-vacuums"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-robot-vacuums"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for how to prepare your home for a robot vacuum?",
+          "answer": "Clear small objects and cables, secure loose rugs and curtains, move bowls and fragile decor, check under furniture, and provide clear space around the powered dock. Open desired rooms, close excluded ones, supervise the first map, then add no-go and no-mop zones for repeat hazards."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for floor preparation, dock clearance, thresholds, pet safety, and first mapping.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
