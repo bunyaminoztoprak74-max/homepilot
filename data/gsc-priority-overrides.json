@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "slug": "portafilter-wont-lock-in-fixes",
+    "seoTitle": "Portafilter Won't Lock In? 7 Fixes That Work",
+    "metaDescription": "Portafilter won't lock into the group head? Diagnose excess coffee, basket fit, gasket wear, dirty lugs, and alignment safely.",
+    "opening": "A portafilter that will not lock into an espresso machine is usually blocked by an overfilled basket, coffee on the group-head rim, the wrong basket depth, a swollen group gasket, or misaligned locking lugs. Remove the basket, clean the mating surfaces, and test the empty portafilter first; that single check separates a dose problem from a mechanical fit problem.",
+    "quickAnswer": "If a portafilter will not lock in, remove the basket and test the empty handle. If it locks, reduce the coffee dose or reseat the basket. If it still does not lock, clean the group head and inspect the gasket and locking lugs. Never force the handle because bent lugs and damaged group collars are expensive to repair.",
+    "semanticSections": [
+      {
+        "heading": "Basket depth, dose, and headspace",
+        "paragraphs": [
+          "A deeper precision basket can sit differently from the original basket, while an overfilled puck can touch the shower screen before the portafilter reaches its locked position. Check basket compatibility, reduce the dose in one-gram steps, and look for a shower-screen imprint on the dry puck.",
+          "Headspace is the gap between the tamped coffee and shower screen. Too little headspace can prevent rotation, disturb the puck, and contribute to channeling. Dose by basket capacity rather than copying a recipe designed for another basket."
+        ]
+      },
+      {
+        "heading": "Group gasket and locking-lug wear",
+        "paragraphs": [
+          "Heat, coffee oils, and age can harden or swell the group gasket. A new gasket may also feel tighter for its first several uses. Inspect it for cracks, flattening, loose fragments, and uneven seating before assuming the portafilter itself is bent.",
+          "The portafilter ears and group-head ramps should be clean and visibly intact. If an empty, correct-model portafilter stops abruptly or sits crooked, discontinue use and have the collar, lugs, and gasket inspected."
+        ]
+      }
+    ],
+    "internalLinks": [
+      { "label": "Fix a clogged portafilter basket", "href": "/blog/portafilter-basket-clogging-issues" },
+      { "label": "Troubleshoot the espresso group head", "href": "/blog/espresso-group-head-troubleshooting-guide" },
+      { "label": "Follow the espresso maintenance schedule", "href": "/blog/espresso-machine-maintenance-schedule" }
+    ],
+    "faq": [
+      { "question": "Why does my portafilter lock in without the basket?", "answer": "The basket is probably overfilled, not fully seated, too deep for the machine, or holding enough coffee to contact the shower screen. Reseat it and test a lower dose." },
+      { "question": "Should a portafilter lock at exactly six o'clock?", "answer": "Not always. The final handle position varies by machine, gasket age, and basket. A secure seal without forcing matters more than an exact clock position." },
+      { "question": "Can I lubricate a portafilter gasket?", "answer": "Use only a manufacturer-approved food-safe lubricant if the manual permits it. Coffee oils are not a substitute, and forcing a dry or damaged seal can worsen wear." }
+    ],
+    "suggestedAdditions": [
+      "Add original photos showing an empty-basket fit test and shower-screen puck imprint.",
+      "Add a compatibility table for stock, bottomless, and precision baskets by internal diameter and depth."
+    ]
+  }
+]
