@@ -705,5 +705,44 @@
         "Add original diagnostic photos for steam boiler, thermoblock, valve, tip holes, and milk residue.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "robot-vacuum-wont-turn-on-troubleshooting-steps",
+      "seoTitle": "Robot Vacuum Won't Turn On? 10 Safe Checks",
+      "metaDescription": "Troubleshoot a robot vacuum with no power by checking the main switch, battery, dock, contacts, charger, temperature, reset, and warning signs.",
+      "opening": "A robot vacuum that will not turn on may have its main switch off, a deeply discharged battery, dirty charging contacts, an unpowered dock, a stuck button, temperature protection, or a failed battery or control board. Check the physical switch and dock power before attempting resets.",
+      "quickAnswer": "Turn on the physical master switch, plug the dock directly into a working outlet, clean and align both charging contacts, and leave the robot charging for the manual's recovery period. Try the documented restart. Stop for swelling, excess heat, liquid exposure, burning odor, or a damaged charger.",
+      "semanticSections": [
+        {
+          "heading": "Deep discharge, dock voltage, battery protection, and reset behavior",
+          "paragraphs": [
+            "This section connects deep discharge, dock voltage, battery protection, and reset behavior so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/robot-vacuums"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-robot-vacuums"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for robot vacuum won't turn on?",
+          "answer": "Turn on the physical master switch, plug the dock directly into a working outlet, clean and align both charging contacts, and leave the robot charging for the manual's recovery period. Try the documented restart."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for deep discharge, dock voltage, battery protection, and reset behavior.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
