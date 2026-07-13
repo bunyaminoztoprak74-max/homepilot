@@ -943,7 +943,7 @@
   {
       "slug": "espresso-machine-water-quality",
       "seoTitle": "Best Water for Espresso Machines: Hardness and Scale",
-      "metaDescription": "Choose espresso water with balanced hardness and alkalinity to protect boilers, reduce scale and corrosion, and improve extraction without using unsafe pure water.",
+    "metaDescription": "Choose espresso water with balanced hardness and alkalinity to reduce scale and corrosion, protect boilers, and improve extraction.",
       "opening": "Espresso-machine water must balance flavor with equipment protection. Very hard water causes scale; highly softened or near-zero-mineral water can taste flat and may increase corrosion or confuse level sensors. Use the manufacturer's water specification, test local hardness and alkalinity, and match filtration to the machine.",
       "quickAnswer": "Test source water for hardness and alkalinity, compare the result with the machine maker's range, and use an approved filter or formulated water when needed. Avoid distilled or reverse-osmosis water without remineralization unless the manufacturer explicitly permits it. Adjust descaling intervals to measured water conditions.",
       "semanticSections": [
@@ -982,7 +982,7 @@
   {
       "slug": "espresso-machine-under-1000-tradeoffs",
       "seoTitle": "Espresso Machines Under $1,000: Key Tradeoffs",
-      "metaDescription": "Understand espresso machine tradeoffs under $1,000, including temperature control, boiler design, steaming, warm-up, grinder budget, repairability, and workflow.",
+    "metaDescription": "Compare espresso machines under $1,000 by temperature control, boiler design, steaming, warm-up, grinder budget, workflow, and repairability.",
       "opening": "An espresso machine under $1,000 can produce excellent coffee, but buyers usually trade simultaneous brewing and steaming, thermal stability, warm-up speed, automation, build materials, or serviceability. Reserve enough budget for a capable grinder, scale, water treatment, and accessories rather than spending everything on the machine.",
       "quickAnswer": "Prioritize the workflow you use daily: straight espresso needs temperature and pressure consistency; milk drinks need steam recovery; busy mornings reward fast heat-up and assisted dosing. Compare single boiler, thermoblock, heat-exchanger, and dual-heater designs, then budget separately for the grinder.",
       "semanticSections": [
