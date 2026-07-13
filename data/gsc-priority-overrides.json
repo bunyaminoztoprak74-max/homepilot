@@ -393,5 +393,44 @@
         "Add original diagnostic photos for grind size, brew ratio, and channeling.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "espresso-machine-not-producing-pressure-causes-and-fixes",
+      "seoTitle": "Espresso Machine Has No Pressure? 9 Checks",
+      "metaDescription": "Diagnose low or zero espresso pressure by checking grind, dose, basket flow, pump priming, leaks, scale, gauge behavior, and valves safely.",
+      "opening": "Low espresso pressure can come from coffee that is too coarse, an underfilled basket, channeling, a gauge that reads only brew resistance, an airlocked pump, a leak, or a restricted valve. Test water flow without coffee, then use a correctly fitted basket and measured recipe before assuming the pump has failed.",
+      "quickAnswer": "Confirm the tank is full and seated, prime the pump, and test water flow without the portafilter. If flow is normal, use fresh coffee, a finer grind, correct dose, even distribution, and a firm level tamp. If flow is weak everywhere or water leaks internally, stop and service the hydraulic system.",
+      "semanticSections": [
+        {
+          "heading": "Pump pressure, puck resistance, and gauge interpretation",
+          "paragraphs": [
+            "This section connects pump pressure, puck resistance, and gauge interpretation so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/espresso-machines"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-espresso-machines"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for espresso machine has no pressure?",
+          "answer": "Confirm the tank is full and seated, prime the pump, and test water flow without the portafilter. If flow is normal, use fresh coffee, a finer grind, correct dose, even distribution, and a firm level tamp."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for pump pressure, puck resistance, and gauge interpretation.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
