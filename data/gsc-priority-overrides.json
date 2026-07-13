@@ -861,5 +861,44 @@
         "Add original diagnostic photos for thermoblock, boiler, thermostat, thermal fuse, and temperature sensor.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "how-to-cook-vegetables-without-drying-them-out",
+      "seoTitle": "How to Air Fry Vegetables Without Drying Them Out",
+      "metaDescription": "Keep air-fried vegetables tender and browned by matching size, oil, temperature, moisture, basket load, timing, and finishing method.",
+      "opening": "Vegetables dry out in an air fryer when pieces are too small, temperature is too low for too long, the basket is overloaded, or lean produce gets no protective oil. Cut evenly, dry only excess surface water, coat lightly with oil, and use a hot short cook with early checks.",
+      "quickAnswer": "Cut vegetables into even pieces, coat with a thin film of oil, preheat if the model benefits, and cook in a loose single layer. Shake halfway and begin checking early. Dense vegetables may need brief steaming or smaller cuts; watery vegetables need higher heat and space to brown.",
+      "semanticSections": [
+        {
+          "heading": "Moisture migration, browning, cut size, oil film, and batch loading",
+          "paragraphs": [
+            "This section connects moisture migration, browning, cut size, oil film, and batch loading so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/air-fryers"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-air-fryers"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for how to air fry vegetables without drying them out?",
+          "answer": "Cut vegetables into even pieces, coat with a thin film of oil, preheat if the model benefits, and cook in a loose single layer. Shake halfway and begin checking early."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for moisture migration, browning, cut size, oil film, and batch loading.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
