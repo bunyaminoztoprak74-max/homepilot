@@ -321,5 +321,16 @@
     "internalLinks": [{"label":"Fix fast espresso shots","href":"/blog/espresso-shots-pulling-too-fast-causes-and-fixes"},{"label":"Espresso grind size explained","href":"/blog/espresso-grind-size-explained"},{"label":"Fix sour espresso","href":"/blog/espresso-tastes-sour-causes-and-fixes"}],
     "faq": [{"question":"How long should espresso crema last?","answer":"There is no universal target; crema naturally thins within minutes and varies with coffee, recipe, basket, and machine."},{"question":"Does more crema mean better espresso?","answer":"No. Pressurized baskets and robusta can create abundant crema even when flavor is not balanced."}],
     "suggestedAdditions": ["Add a crema color and texture photo guide.","Add a freshness-versus-extraction diagnostic table."]
+  },
+  {
+    "slug": "how-often-to-replace-robot-vacuum-parts",
+    "seoTitle": "When to Replace Robot Vacuum Parts: Full Schedule",
+    "metaDescription": "Know when to replace robot vacuum filters, side brushes, main brushes, mop pads, bags, batteries, wheels, and seals based on condition and use.",
+    "opening": "Robot vacuum replacement intervals depend more on wear, pets, floor type, and cleaning frequency than a fixed calendar. Inspect filters, brushes, mop pads, bags, seals, and wheels regularly and replace them when airflow, bristle shape, traction, fit, or cleaning performance declines—not simply because an app timer expires.",
+    "quickAnswer": "Inspect the filter and brushes weekly. Replace filters when cleaning no longer restores airflow, side brushes when bristles stay bent or split, main brushes when fins or bristles wear, mop pads when fibers flatten, and dock bags when full or airflow drops. Replace batteries when verified runtime remains substantially reduced; wheels and motors are condition-based service parts.",
+    "semanticSections": [{"heading":"Wear indicators and total ownership cost","paragraphs":["Pet hair, abrasive grit, carpet, daily schedules, and fine dust accelerate consumable wear. Genuine fit, filtration seal, brush geometry, and material quality matter more than a low multipack price."]}],
+    "internalLinks": [{"label":"Robot vacuum maintenance checklist","href":"/blog/robot-vacuum-maintenance-checklist"},{"label":"Robot vacuum maintenance costs","href":"/blog/robot-vacuum-maintenance-costs-explained"},{"label":"Replacement parts guide","href":"/blog/robot-vacuum-replacement-parts-guide"}],
+    "faq": [{"question":"How often should robot vacuum filters be replaced?","answer":"Replace them when approved cleaning no longer restores airflow or when media, seals, or frames are damaged."},{"question":"Are app replacement reminders accurate?","answer":"They are usage estimates, not physical sensors on many models. Inspect actual condition before replacing."}],
+    "suggestedAdditions": ["Add a condition-based replacement table.","Add annual consumable-cost examples for pet and non-pet homes."]
   }
 ]
