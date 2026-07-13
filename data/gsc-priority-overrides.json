@@ -170,5 +170,26 @@
       { "question": "Should I cover cliff sensors to make a robot cross dark rugs?", "answer": "No in any area with stairs or drops. Covering safety sensors can cause a fall; use app boundaries or exclude the rug instead." }
     ],
     "suggestedAdditions": ["Add a rug-problem matrix for fringe, shag, curled edges, and dark patterns.", "Add an approach-angle video showing where the chassis catches."]
+  },
+  {
+    "slug": "robot-vacuum-error-codes-explained",
+    "seoTitle": "Robot Vacuum Error Codes: Meanings and Fixes",
+    "metaDescription": "Decode common robot vacuum errors for wheels, brushes, sensors, bins, docks, batteries, maps, and Wi-Fi, with safe troubleshooting steps.",
+    "opening": "Robot vacuum error codes usually identify the system that stopped a cleaning run: drive wheels, main or side brush, cliff and navigation sensors, dustbin, battery, charging dock, mop tank, map, or Wi-Fi connection. Record the exact number, spoken message, light pattern, and model before restarting because identical numbers can mean different faults across brands.",
+    "quickAnswer": "Write down the full error code and robot model, power the robot off, and inspect the named component for hair, dust, poor seating, or blocked movement. Clean removable parts and sensors, reinstall the bin and brushes, place the robot on a flat floor, and restart it. Do not repeatedly reset battery, motor, or overheating errors; consult the model manual or service provider if they return.",
+    "semanticSections": [
+      { "heading": "How to diagnose codes without losing the evidence", "paragraphs": ["A useful diagnosis includes the code, app message, LED color and blink pattern, sound, cleaning mode, floor type, and the action immediately before the fault. Photograph the message before clearing it and check whether the same code appears after moving the robot to a clean hard floor.", "Error families commonly cover wheel overload, brush jam, blocked cliff sensor, LiDAR obstruction, missing dustbin, low charging voltage, battery temperature, pump failure, localization loss, and network authentication. Brand-specific manuals remain the authoritative code reference."] }
+    ],
+    "internalLinks": [
+      { "label": "Fix robot vacuum wheels", "href": "/blog/robot-vacuum-wheels-not-moving-troubleshooting" },
+      { "label": "Fix side-brush errors", "href": "/blog/robot-vacuum-side-brush-problems-and-fixes" },
+      { "label": "Fix robot vacuum charging problems", "href": "/blog/robot-vacuum-wont-charge-causes-and-fixes" }
+    ],
+    "faq": [
+      { "question": "Are robot vacuum error codes universal?", "answer": "No. The same number can mean different things by brand and model, so match it with the exact manual or app message." },
+      { "question": "Will resetting a robot vacuum clear an error?", "answer": "A restart may clear a temporary state, but it will not remove hair, repair a failed motor, cool an overheating battery, or fix damaged sensors." },
+      { "question": "When should I stop using a robot vacuum with an error?", "answer": "Stop immediately for burning smells, smoke, battery swelling, unusual heat, liquid inside the chassis, grinding gears, or a repeated electrical or battery error." }
+    ],
+    "suggestedAdditions": ["Add brand-specific code tables only after verifying official manuals.", "Add a printable diagnostic checklist for code, model, symptoms, and attempted fixes."]
   }
 ]
