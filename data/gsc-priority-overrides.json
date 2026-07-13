@@ -332,5 +332,16 @@
     "internalLinks": [{"label":"Robot vacuum maintenance checklist","href":"/blog/robot-vacuum-maintenance-checklist"},{"label":"Robot vacuum maintenance costs","href":"/blog/robot-vacuum-maintenance-costs-explained"},{"label":"Replacement parts guide","href":"/blog/robot-vacuum-replacement-parts-guide"}],
     "faq": [{"question":"How often should robot vacuum filters be replaced?","answer":"Replace them when approved cleaning no longer restores airflow or when media, seals, or frames are damaged."},{"question":"Are app replacement reminders accurate?","answer":"They are usage estimates, not physical sensors on many models. Inspect actual condition before replacing."}],
     "suggestedAdditions": ["Add a condition-based replacement table.","Add annual consumable-cost examples for pet and non-pet homes."]
+  },
+  {
+    "slug": "how-to-clean-robot-vacuum-charging-contacts",
+    "seoTitle": "How to Clean Robot Vacuum Charging Contacts Safely",
+    "metaDescription": "Clean oxidized or dirty robot vacuum charging contacts safely with power off, a dry cloth, and approved alcohol—without damaging the dock.",
+    "opening": "Dirty robot vacuum charging contacts cause slow charging, repeated docking, intermittent power, and 'not charging' errors when dust, hair, floor cleaner, or oxidation increases electrical resistance. Unplug the dock, power off the robot, and wipe both sets of metal contacts with a clean dry microfiber cloth before using any approved cleaning liquid.",
+    "quickAnswer": "Unplug the charging dock and switch off the robot. Remove loose dust, then wipe the robot and dock contacts with a dry lint-free cloth. For stubborn residue, lightly dampen the cloth—not the device—with manufacturer-approved isopropyl alcohol and let contacts dry fully. Do not use abrasives, water, oil, or metal tools.",
+    "semanticSections": [{"heading":"Contact resistance, alignment, and oxidation","paragraphs":["Spring-loaded contacts need clean metal surfaces and even physical pressure. A shifted dock, warped mat, stuck contact pin, or worn plating can mimic dirt by breaking alignment."]}],
+    "internalLinks": [{"label":"Fix robot vacuum charging problems","href":"/blog/robot-vacuum-wont-charge-causes-and-fixes"},{"label":"Robot vacuum battery drain fixes","href":"/blog/robot-vacuum-battery-draining-fast-what-to-do"},{"label":"Clean a self-empty dock","href":"/blog/how-to-clean-a-robot-vacuum-self-empty-dock"}],
+    "faq": [{"question":"Can I use rubbing alcohol on charging contacts?","answer":"Only if the manufacturer permits it; apply a small amount to a cloth with all power disconnected and allow full drying."},{"question":"Why does my robot keep leaving and returning to the dock?","answer":"Dirty contacts, dock movement, stuck pins, weak power, poor alignment, or battery faults can interrupt charging."}],
+    "suggestedAdditions": ["Add close-up photos of clean, dirty, and oxidized contacts.","Add a dock-alignment checklist."]
   }
 ]
