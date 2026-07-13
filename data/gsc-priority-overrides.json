@@ -783,5 +783,44 @@
         "Add original diagnostic photos for acoustic symptoms, brush bearings, wheel gears, airflow, and fan load.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
+  },
+  {
+      "slug": "how-to-reset-a-robot-vacuum",
+      "seoTitle": "How to Reset a Robot Vacuum Without Losing Maps",
+      "metaDescription": "Restart, network-reset, or factory-reset a robot vacuum safely, preserve maps where possible, and choose the least destructive reset for the problem.",
+      "opening": "Robot vacuums usually offer three different actions: a restart that preserves settings, a Wi-Fi reset that removes network credentials, and a factory reset that may erase maps, rooms, schedules, and ownership data. Use the least destructive option that matches the fault and record account details first.",
+      "quickAnswer": "Start with a normal restart from the power button or app. Use a network reset only for connection problems. Before a factory reset, confirm the account password, map backup, device ownership, and model-specific button sequence. Keep the robot charged and do not interrupt the reset.",
+      "semanticSections": [
+        {
+          "heading": "Restart, network reset, factory reset, maps, and account binding",
+          "paragraphs": [
+            "This section connects restart, network reset, factory reset, maps, and account binding so readers can distinguish normal behavior, maintenance needs, and faults that require service."
+          ]
+        }
+      ],
+      "internalLinks": [
+        {
+          "label": "Browse related HomePilot guides",
+          "href": "/robot-vacuums"
+        },
+        {
+          "label": "Compare category recommendations",
+          "href": "/best-robot-vacuums"
+        }
+      ],
+      "faq": [
+        {
+          "question": "What is the safest first step for how to reset a robot vacuum without losing maps?",
+          "answer": "Start with a normal restart from the power button or app. Use a network reset only for connection problems."
+        },
+        {
+          "question": "When should I stop troubleshooting and arrange service?",
+          "answer": "Stop for smoke, burning odors, excess heat, battery swelling, liquid near electrical parts, damaged wiring, or repeated faults after approved cleaning and resets."
+        }
+      ],
+      "suggestedAdditions": [
+        "Add original diagnostic photos for restart, network reset, factory reset, maps, and account binding.",
+        "Add a symptom, likely cause, safe check, and service threshold table."
+      ]
     }
 ]
