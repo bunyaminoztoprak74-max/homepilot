@@ -107,5 +107,26 @@
       { "question": "How do I test a robot vacuum bumper?", "answer": "With power off, press the bumper at the center and both corners. It should move smoothly, click where applicable, and spring back without sticking." }
     ],
     "suggestedAdditions": ["Add a normal soft-contact versus faulty collision video.", "Add a surface-specific troubleshooting table for black, glass, mirrored, and low furniture."]
+  },
+  {
+    "slug": "robot-vacuum-leaking-water-from-the-mop-tank",
+    "seoTitle": "Robot Vacuum Mop Tank Leaking? 8 Fixes",
+    "metaDescription": "Find why a robot vacuum mop tank leaks. Check the fill cap, gasket, outlet valve, tank cracks, mop fit, approved solution, and water setting.",
+    "opening": "A leaking robot vacuum mop tank usually has a loose fill cap, displaced gasket, stuck outlet valve, hair around the water port, a cracked reservoir, or an incorrectly fitted mop pad. Remove the tank over a sink, dry it completely, fill it halfway with plain approved water, and watch the cap, seams, and outlet separately to locate the leak before reinstalling it.",
+    "quickAnswer": "Remove and dry the mop tank, then inspect the fill cap, rubber seal, seams, outlet valve, and water port. Reseat the gasket and mop pad, clear visible debris without enlarging the outlet, and use only water or cleaning solution approved by the manufacturer. Replace a cracked tank or damaged seal; do not use glue where it can contaminate the water path or floor.",
+    "semanticSections": [
+      { "heading": "Gravity tanks, pumps, valves, and mop-pad flow", "paragraphs": ["Passive tanks use gravity and small outlet valves, while electronic systems meter water with a pump. A saturated or incorrectly attached pad can look like a reservoir leak, and a high water-flow setting can leave puddles when the robot pauses.", "Vinegar, detergents, essential oils, and hot water may swell seals, clog channels, damage pumps, or void warranty coverage. Use only liquids and concentrations listed for the model."] }
+    ],
+    "internalLinks": [
+      { "label": "Maintain robot vacuum mop pads", "href": "/blog/how-to-maintain-robot-vacuum-mop-pads" },
+      { "label": "Robot vacuum mop maintenance guide", "href": "/blog/robot-vacuum-mop-maintenance-guide" },
+      { "label": "Fix streaks while mopping", "href": "/blog/robot-vacuum-leaving-streaks-when-mopping" }
+    ],
+    "faq": [
+      { "question": "Why does my robot vacuum leak while parked?", "answer": "A loose cap, damaged gasket, stuck outlet valve, overfilled tank, or saturated pad can let water escape while the robot is stationary." },
+      { "question": "Can I put vinegar in a robot vacuum mop tank?", "answer": "Only if the manufacturer explicitly approves it. Acidic or foaming cleaners can damage seals, pumps, and internal channels." },
+      { "question": "Should water drip from the mop tank when removed?", "answer": "A brief drop can be normal on some gravity-fed designs, but continuous flow indicates a valve, seal, cap, or tank problem." }
+    ],
+    "suggestedAdditions": ["Add a leak-location diagram for cap, seam, valve, and pad.", "Add a table comparing gravity-fed and electronically pumped mop systems."]
   }
 ]
