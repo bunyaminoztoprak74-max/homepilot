@@ -1,5 +1,6 @@
 import type { Product } from "@/lib/types";
 import { EbayButton } from "@/components/EbayButton";
+import { AffiliateLink } from "@/components/AffiliateLink";
 
 export function ProductComparisonTable({ products }: { products: Product[] }) {
   return (
@@ -24,14 +25,17 @@ export function ProductComparisonTable({ products }: { products: Product[] }) {
                 </td>
                 <td className="px-4 py-4 text-neutral-700">{product.bestFor}</td>
                 <td className="px-4 py-4">
-                  <a
+                  <AffiliateLink
                     className="inline-flex whitespace-nowrap rounded-full bg-neutral-950 px-4 py-2 text-xs font-semibold text-white transition hover:-translate-y-0.5 hover:bg-neutral-700"
                     href={product.amazonUrl}
                     target="_blank"
                     rel="nofollow sponsored noopener"
+                    retailer="amazon"
+                    productId={product.id}
+                    placement="comparison-table"
                   >
                     Check Amazon Price
-                  </a>
+                  </AffiliateLink>
                 </td>
                 <td className="px-4 py-4">
                   <EbayButton

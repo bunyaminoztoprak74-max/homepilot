@@ -1,5 +1,6 @@
 import type { Product } from "@/lib/types";
 import { EbayButton } from "@/components/EbayButton";
+import { AffiliateLink } from "@/components/AffiliateLink";
 
 const AMAZON_CLASSES =
   "inline-flex items-center justify-center rounded-full bg-neutral-950 px-2 py-2.5 text-center text-[11px] font-semibold leading-tight text-white transition hover:-translate-y-0.5 hover:bg-neutral-700 sm:px-4 sm:text-xs";
@@ -14,14 +15,17 @@ export function RetailerButtons({ product, compact = false }: { product: Product
         Compare prices across retailers
       </p>
       <div className={compact ? "grid gap-2" : "grid grid-cols-2 gap-2"}>
-        <a
+        <AffiliateLink
           className={AMAZON_CLASSES}
           href={product.amazonUrl}
           target="_blank"
           rel="nofollow sponsored noopener"
+          retailer="amazon"
+          productId={product.id}
+          placement="product-card"
         >
           Check Amazon Price
-        </a>
+        </AffiliateLink>
         <EbayButton href={product.ebayUrl} customId={product.id} label="Check eBay Price" className={EBAY_CLASSES} />
       </div>
       <p className="mt-2 text-[11px] leading-5 text-neutral-500">

@@ -22,6 +22,7 @@ export function ProductImage({ src, alt, className = "", imageClassName = "", pr
           src={src}
           alt={alt}
           fill
+          unoptimized
           priority={priority}
           sizes={sizes}
           className={`object-contain ${imageClassName}`}

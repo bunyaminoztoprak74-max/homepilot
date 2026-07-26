@@ -1,4 +1,5 @@
 import { buildEbayAffiliateUrl } from "@/lib/ebay-config";
+import { AffiliateLink } from "@/components/AffiliateLink";
 
 type EbayButtonProps = {
   /** Plain ebay.com URL (search results or item page). */
@@ -31,8 +32,16 @@ export function EbayButton({ href, customId, label = "Check Price on eBay", vari
   const classes = className ?? (variant === "primary" ? PRIMARY_CLASSES : SECONDARY_CLASSES);
 
   return (
-    <a className={classes} href={trackedHref} target="_blank" rel="nofollow sponsored noopener" data-affiliate="ebay">
+    <AffiliateLink
+      className={classes}
+      href={trackedHref}
+      target="_blank"
+      rel="nofollow sponsored noopener"
+      retailer="ebay"
+      productId={customId}
+      placement="retailer-button"
+    >
       {label}
-    </a>
+    </AffiliateLink>
   );
 }

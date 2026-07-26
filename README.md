@@ -24,4 +24,10 @@ Retailer URLs are stored per product in `data/products.json` as `amazonUrl` and 
 
 ## Deploy
 
-This project is ready for Vercel. Import the repository, keep the default Next.js settings, and deploy.
+HomePilot uses its existing Vercel project. Complete and validate the full batch locally, then push one final commit to let that existing project deploy once. Do not create a second Vercel project.
+
+## Optional GA4 affiliate-click tracking
+
+Set `NEXT_PUBLIC_GA4_ID` to the measurement ID of a HomePilot GA4 web data stream. The site then loads GA4 and sends an `affiliate_click` event with `retailer`, `product_id`, `placement`, and `page_path`. Without this variable, the site works normally and does not load Google Analytics.
+
+Use `.env.example` as the local configuration template. Configure the same variable in the existing hosting project only after a dedicated HomePilot GA4 stream exists.

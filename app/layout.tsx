@@ -3,6 +3,7 @@ import "./globals.css";
 import { Footer } from "@/components/Footer";
 import { Header } from "@/components/Header";
 import { OrganizationSchema } from "@/components/OrganizationSchema";
+import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://homepilot-iota.vercel.app"),
@@ -38,6 +39,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
+        <GoogleAnalytics />
         <OrganizationSchema />
         <Header />
         {children}

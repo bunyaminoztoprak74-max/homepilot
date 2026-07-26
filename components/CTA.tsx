@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { EbayButton } from "@/components/EbayButton";
+import { AffiliateLink } from "@/components/AffiliateLink";
 
 export function CTA({
   title,
@@ -29,9 +30,17 @@ export function CTA({
       </p>
       {external ? (
         <div className="mt-5 flex flex-wrap gap-3">
-          <a className={className} href={href} target="_blank" rel="nofollow sponsored noopener">
+          <AffiliateLink
+            className={className}
+            href={href}
+            target="_blank"
+            rel="nofollow sponsored noopener"
+            retailer="amazon"
+            productId={ebayCustomId}
+            placement="article-cta"
+          >
             View on Amazon
-          </a>
+          </AffiliateLink>
           {ebayHref ? (
             <EbayButton href={ebayHref} customId={ebayCustomId} label="View on eBay" className={ebayClassName} />
           ) : null}

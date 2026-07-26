@@ -5,6 +5,7 @@ import { FAQ } from "@/components/FAQ";
 import { JsonLd } from "@/components/JsonLd";
 import { AuthorBox } from "@/components/AuthorBox";
 import { RelatedContent } from "@/components/RelatedContent";
+import { ArticleInsightTable } from "@/components/ArticleInsightTable";
 import { articles, categories, getArticle, getAuthor, getGscPriorityOverride, guides, products, siteUrl } from "@/lib/content";
 
 type Props = {
@@ -125,6 +126,9 @@ export default async function ArticlePage({ params }: Props) {
            </section>
          ))}
       </article>
+      <div className="mt-10">
+        <ArticleInsightTable slug={article.slug} />
+      </div>
       <div className="mt-10 rounded-lg border border-neutral-200 bg-white p-6">
         <h2 className="text-xl font-semibold tracking-tight text-neutral-950">Related HomePilot guides</h2>
         <div className="mt-4 flex flex-wrap gap-3">
