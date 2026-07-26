@@ -1095,5 +1095,128 @@
         "Add original diagnostic photos for power interlocks, thermal protection, fuses, relays, and control boards.",
         "Add a symptom, likely cause, safe check, and service threshold table."
       ]
-    }
+  },
+  {
+    "slug": "beginner-espresso-setup",
+    "seoTitle": "Home Espresso Setup: What Beginners Actually Need",
+    "metaDescription": "Build a practical home espresso setup with the right machine, grinder, scale, tamper, water, and cleaning tools—without buying unnecessary gear.",
+    "opening": "A reliable home espresso setup starts with a capable grinder, a machine that matches your drink routine, fresh coffee, suitable water, a scale, and basic cleaning tools. Spend for grind consistency before accessories: the grinder usually changes shot quality more than decorative upgrades.",
+    "quickAnswer": "For a beginner home espresso setup, buy a machine, espresso-capable burr grinder, 0.1-gram scale, fitted tamper, milk pitcher if you make milk drinks, and cleaning supplies. Confirm portafilter size and included accessories before ordering.",
+    "semanticSections": [
+      {
+        "heading": "Essential home espresso setup checklist",
+        "paragraphs": [
+          "Choose the machine around the drinks you make most. Straight espresso favors temperature and pressure consistency; frequent lattes make steam speed and recovery more important. Measure counter depth and overhead clearance before buying.",
+          "Match the grinder to espresso rather than choosing a general coffee grinder. Fine adjustment steps, low retention, and a repeatable dose make dialing in easier. Add a simple scale before spending on distribution tools or premium accessories."
+        ]
+      }
+    ],
+    "internalLinks": [
+      {
+        "label": "Choose an espresso grinder",
+        "href": "/blog/espresso-grinder-buying-guide"
+      },
+      {
+        "label": "Compare manual and automatic machines",
+        "href": "/blog/manual-vs-automatic-espresso-machine"
+      },
+      {
+        "label": "Espresso maintenance schedule",
+        "href": "/blog/espresso-machine-maintenance-schedule"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the first thing to buy for a home espresso setup?",
+        "answer": "Choose the machine and espresso-capable grinder together. A consistent grinder is essential for controlling flow and is usually more valuable than optional accessories."
+      },
+      {
+        "question": "Do beginners need an espresso scale?",
+        "answer": "Yes. A scale that reads to 0.1 gram makes dose and yield repeatable, which removes guesswork while learning."
+      }
+    ],
+    "suggestedAdditions": []
+  },
+  {
+    "slug": "air-fryer-for-family-meals",
+    "seoTitle": "How to Pick the Right Air Fryer for Your Family",
+    "metaDescription": "Choose the right family air fryer by usable basket area, meal size, counter space, cleaning effort, power, and single- versus dual-basket workflow.",
+    "opening": "Pick a family air fryer by the amount of food that must cook in one layer, not by quart capacity alone. A wide single basket suits larger portions of one food; dual baskets are useful when two foods need different times or temperatures.",
+    "quickAnswer": "For a family, prioritize usable basket area, enough room for one-layer cooking, easy cleaning, and a footprint that can stay on the counter. Compare single- and dual-basket workflows, then verify dimensions, included parts, and current terms at the retailer.",
+    "semanticSections": [
+      {
+        "heading": "Family size, basket shape, and batch planning",
+        "paragraphs": [
+          "A family of four often needs a broad cooking surface more than a tall basket. Overcrowding blocks airflow, so a smaller quoted capacity may work better when its basket is wider and easier to arrange in one layer.",
+          "Estimate the largest weeknight portion you cook and whether two foods must finish together. Dual zones add flexibility but also increase counter width and cleaning; one large basket is simpler for shared meals."
+        ]
+      }
+    ],
+    "internalLinks": [
+      {
+        "label": "Capacity guide for a family of four",
+        "href": "/blog/air-fryer-capacity-for-family-of-four"
+      },
+      {
+        "label": "Read the Air Fryers guide",
+        "href": "/air-fryers"
+      },
+      {
+        "label": "Compare top air fryer picks",
+        "href": "/best-air-fryers"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What air fryer size is best for a family?",
+        "answer": "Choose enough usable basket area for your normal meal in one layer. Family size matters, but food shape, batch tolerance, and whether you need two zones matter too."
+      },
+      {
+        "question": "Is one large basket or two baskets better for a family?",
+        "answer": "One large basket is simpler for a shared main dish; two baskets are better when foods need different temperatures or finish times."
+      }
+    ],
+    "suggestedAdditions": []
+  },
+  {
+    "slug": "robot-vacuum-maintenance-costs-explained",
+    "seoTitle": "Robot Vacuum Ownership Cost: Filters, Brushes and Pets",
+    "metaDescription": "Estimate robot vacuum ownership costs for filters, brushes, bags, batteries, and pet hair. Build a realistic annual maintenance plan.",
+    "opening": "Robot vacuum ownership cost includes filters, side brushes, main rollers, dock bags, mop pads, cleaning time, and an occasional battery. Pet households usually replace filters and brushes more often because fur and dander increase loading and tangles.",
+    "quickAnswer": "Build an annual budget from your model's actual replacement schedule: several filters, two to four side brushes, about one main roller, six to twelve dock bags if applicable, and a future battery reserve. A three-dog household should plan for more frequent filter and brush changes.",
+    "semanticSections": [
+      {
+        "heading": "Annual cost for a multi-pet household",
+        "paragraphs": [
+          "For a home with several dogs, calculate cost from the current price of compatible multipacks and the replacement intervals your own debris load requires. Do not rely on a universal dollar estimate because model-specific parts and retailer prices change.",
+          "Track each replacement for six months, including bags and the time spent detangling brushes. Doubling that total gives a more honest household-specific annual estimate and makes competing models easier to compare."
+        ]
+      }
+    ],
+    "internalLinks": [
+      {
+        "label": "Robot vacuum schedule for pet hair",
+        "href": "/blog/robot-vacuum-cleaning-schedule-for-pet-owners"
+      },
+      {
+        "label": "When to replace robot vacuum parts",
+        "href": "/blog/how-often-to-replace-robot-vacuum-parts"
+      },
+      {
+        "label": "Robot vacuum replacement parts guide",
+        "href": "/blog/robot-vacuum-replacement-parts-guide"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Do robot vacuums cost more to maintain in homes with dogs?",
+        "answer": "Usually yes. Fur and dander load filters and brushes faster, especially with multiple or heavy-shedding dogs."
+      },
+      {
+        "question": "How can I estimate annual robot vacuum ownership cost?",
+        "answer": "Multiply each compatible part's current price by your real replacement frequency, add dock bags or mop supplies, and reserve for a battery replacement over the expected ownership period."
+      }
+    ],
+    "suggestedAdditions": []
+  }
 ]
