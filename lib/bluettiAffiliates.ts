@@ -31,7 +31,13 @@ export const BLUETTI_LINK_SPECS: Record<string, { host: string; linkId: string; 
   "fridgepower": { host: "https://www.tkqlhce.com", linkId: "17306584", caLinkId: "17130962" },
   "charger-2": { host: "https://www.dpbolvw.net", linkId: "17227807", caLinkId: "17130962" },
   "bluetti-5off": { host: "https://www.anrdoezrs.net", linkId: "16981946", caLinkId: "17130962" },
-  "bluetti-store": { host: "https://www.tkqlhce.com", linkId: "15736238", caLinkId: "17130962" }
+  "bluetti-store": { host: "https://www.tkqlhce.com", linkId: "15736238", caLinkId: "17130962" },
+  // Verified ALLPOWERS (7797916) Active CJ Multi-Store Links (EU 230V, Balcony Solar, AU & Global 10% OFF)
+  "allpowers-eu": { host: "https://www.anrdoezrs.net", linkId: "17227112", euLinkId: "17227112" },
+  "allpowers-balcony": { host: "https://www.dpbolvw.net", linkId: "17317129", euLinkId: "17317129" },
+  "allpowers-5kwh-eu": { host: "https://www.anrdoezrs.net", linkId: "17317153", euLinkId: "17317153" },
+  "allpowers-deal": { host: "https://www.anrdoezrs.net", linkId: "17373492", euLinkId: "17227112" },
+  "allpowers-au": { host: "https://www.tkqlhce.com", linkId: "17280052" }
 };
 
 const EU_COUNTRIES = new Set([

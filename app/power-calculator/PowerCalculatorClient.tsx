@@ -492,6 +492,54 @@ export function PowerCalculatorClient() {
           })}
         </div>
       </div>
+
+      {/* Step 3: Official 230V Europe / UK / Australia & Global Multi-Store Partner (ALLPOWERS) */}
+      <div className="rounded-2xl border border-blue-200 bg-gradient-to-br from-slate-950 to-blue-950 p-6 text-white shadow-md">
+        <div className="flex flex-wrap items-center justify-between gap-4">
+          <div className="max-w-2xl">
+            <span className="inline-block rounded-full bg-blue-500/20 px-3 py-1 text-xs font-bold uppercase tracking-wider text-blue-300">
+              🌍 230V Europe, UK, Australia &amp; Budget Multi-Store Option
+            </span>
+            <h2 className="mt-2 text-xl font-extrabold text-white">
+              Ordering Outside North America (EU / UK / AU) or Comparing Budget LiFePO₄?
+            </h2>
+            <p className="mt-1.5 text-sm text-slate-300">
+              ALLPOWERS ships 230V Schuko/UK portable power stations, <strong>BS2500/BS5000 PRO Balcony Solar Storage (Balkonkraftwerk)</strong>, and high-output R-Series backups directly from local European, UK, US &amp; Australian warehouses — with an extra <strong>10% OFF</strong> reader coupon.
+            </p>
+          </div>
+          <div className="flex flex-col gap-2.5 sm:min-w-[270px]">
+            <div className="flex items-center justify-between rounded-lg bg-white/10 px-3 py-2 text-xs">
+              <span>
+                Extra 10% Code: <strong className="font-mono text-amber-300">APBF10</strong> /{" "}
+                <strong className="font-mono text-amber-300">ALLPOWERS26</strong>
+              </span>
+              <button
+                type="button"
+                onClick={() => copyCoupon("APBF10")}
+                className="rounded bg-white/15 px-2.5 py-1 font-semibold text-white hover:bg-white/25"
+              >
+                {copiedCode === "APBF10" ? "Copied ✓" : "Copy 10%"}
+              </button>
+            </div>
+            <a
+              href="/go/allpowers-eu?src=calc"
+              target="_blank"
+              rel="nofollow sponsored noopener"
+              className="block rounded-xl bg-emerald-500 px-4 py-2.5 text-center text-xs font-extrabold text-neutral-950 transition hover:bg-emerald-400"
+            >
+              🇪🇺🇬🇧 Shop Official EU / Global Store (-10%) →
+            </a>
+            <a
+              href="/go/allpowers-balcony?src=calc"
+              target="_blank"
+              rel="nofollow sponsored noopener"
+              className="block rounded-xl border border-white/25 bg-white/10 px-4 py-2 text-center text-xs font-bold text-white transition hover:bg-white/20"
+            >
+              🏢 EU Balcony Solar 2.5kWh–5kWh (BS2500/BS5000 PRO) →
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
