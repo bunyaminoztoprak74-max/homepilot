@@ -41,28 +41,45 @@ export const BLUETTI_LINK_SPECS: Record<string, { host: string; linkId: string; 
 };
 
 const EU_COUNTRIES = new Set([
-  "DE", "FR", "NL", "SE", "AT", "BE", "IT", "ES", "PL", "DK", "FI", "IE", "PT", "CZ", "GR", "HU", "RO", "CH", "NO", "GB"
+  "DE", "FR", "NL", "SE", "AT", "BE", "IT", "ES", "PL", "DK", "FI", "IE", "PT",
+  "CZ", "GR", "HU", "RO", "CH", "NO", "GB", "SK", "SI", "HR", "BG", "LT", "LV", "EE", "LU"
 ]);
 
-export function buildBluettiCjUrl(slug: string, isCalculatorClick: boolean, countryCode = "US"): string {
+export function buildBluettiCjUrl(
+  slug: string,
+  isCalculatorClick: boolean,
+  countryCode = "US",
+  forceUsStore = false
+): string {
   const cleanSlug = slug.toLowerCase();
   const spec = BLUETTI_LINK_SPECS[cleanSlug] ?? BLUETTI_LINK_SPECS["bluetti-5off"];
   const pid = isCalculatorClick ? CJ_PID_WEBSITE : CJ_PID_GRIDSPEC_YT;
   const cc = countryCode.toUpperCase();
 
+  let chosenHost = spec.host;
   let chosenLinkId = spec.linkId;
-  if (cc === "CA" && spec.caLinkId) {
-    chosenLinkId = spec.caLinkId;
-  } else if (EU_COUNTRIES.has(cc) && spec.euLinkId) {
-    chosenLinkId = spec.euLinkId;
-  } else if (EU_COUNTRIES.has(cc)) {
-    // Evergreen Bluetti Global link (15736238) allows Bluetti's storefront region banner for EU/UK visitors until dedicated EU PID links are added
-    chosenLinkId = spec.linkId;
+
+  if (!forceUsStore) {
+    if (cc === "CA" && spec.caLinkId) {
+      chosenLinkId = spec.caLinkId;
+    } else if (cc === "AU") {
+      // Bluetti Global (6191107) only services US/CA/NZ; route AU 230V buyers to ALLPOWERS AU Official Store (7797916)
+      chosenHost = "https://www.tkqlhce.com";
+      chosenLinkId = "17280052";
+    } else if (EU_COUNTRIES.has(cc)) {
+      // Bluetti Global (6191107) only services US/CA/NZ; route EU/UK 230V buyers to ALLPOWERS EU 230V Official Store (7797916)
+      if (spec.euLinkId) {
+        chosenLinkId = spec.euLinkId;
+      } else {
+        chosenHost = "https://www.anrdoezrs.net";
+        chosenLinkId = "17227112";
+      }
+    }
   }
 
   const sidPrefix = isCalculatorClick ? "calc" : "gridspec_yt";
   const safeSid = `${sidPrefix}_${cleanSlug.replace(/[^a-z0-9_-]/g, "")}_${cc.toLowerCase()}`;
-  return `${spec.host}/click-${pid}-${chosenLinkId}?sid=${safeSid}`;
+  return `${chosenHost}/click-${pid}-${chosenLinkId}?sid=${safeSid}`;
 }
 
 export const BLUETTI_MODELS: BluettiModelSpec[] = [

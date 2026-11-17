@@ -10,6 +10,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
   return [
     { url: siteUrl, lastModified: now, changeFrequency: "weekly", priority: 1 },
+    { url: `${siteUrl}/power-calculator`, lastModified: now, changeFrequency: "weekly", priority: 0.95 },
     // Category hub pages — best-{slug}
     ...categories.map((category) => ({
       url: `${siteUrl}/${category.slug}`,

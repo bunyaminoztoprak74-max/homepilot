@@ -8862,5 +8862,181 @@
       }
     ],
     "sortOrder": 176
+  },
+  {
+    "slug": "72-hour-blackout-battery-calculator-guide",
+    "title": "The 72-Hour Blackout Rule: Exact Home Battery & Solar Kit Sizing Math (US 120V & EU 230V)",
+    "category": "power-stations",
+    "description": "Calculate exact LiFePO4 watt-hour capacity and solar input needed to survive a 72-hour grid outage across US FEMA and European 230V emergency preparedness standards.",
+    "updatedAt": "2026-11-17",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [],
+    "body": [
+      "Both US FEMA emergency preparedness guidelines and the European Union 72-hour civil readiness advisories recommend every household maintain three full days of independent backup power, food preservation, and communications. Yet most homeowners dramatically underestimate 72-hour battery sizing because box-label watt-hour numbers ignore continuous AC inverter idle consumption and DC-to-AC conversion losses.",
+      "Whether your home runs on North American 120V/60Hz split-phase power or European, UK, and Australian 230V/50Hz circuits, watt-hours (Wh) work identically. A modern full-size refrigerator averages roughly 60W to 70W across its compressor duty cycle (plus brief 450W defrost heater cycles and a 1,200W locked-rotor startup surge), while a fiber ONT and Wi-Fi router add 15W continuously.",
+      "Over a 72-hour blackout, an 80W essential household load consumes 5,760 Wh by itself. Once you add a typical 12W to 18W AC inverter tare draw over 72 hours (another 864 Wh to 1,296 Wh) and account for an 85% usable LiFePO4 depth-of-discharge reserve, surviving three days with zero solar recharge requires roughly 7,800 Wh of rated battery storage — which is why a standalone 1kWh box fails on Day 1.",
+      "Instead of overspending $15,000+ on hardwired wall batteries (especially after the expiration of the US federal Section 25D residential clean energy credit), pairing a high-efficiency 2kWh to 3kWh LiFePO4 station (such as the BLUETTI Elite 200 V2 or expandable Apex 300 in North America, or 230V ALLPOWERS R-Series / BS2500 Balcony Solar storage in Europe) with 400W to 800W of portable solar panels replenishes 1,300 Wh to 2,600 Wh every afternoon.",
+      "Apartment and flat dwellers face an additional legal and safety constraint: portable gasoline, propane, and dual-fuel generators emit lethal carbon monoxide and are strictly prohibited on balconies, breezeways, and indoor spaces. Silent indoor LiFePO4 battery stations paired with window or balcony solar panels remain the only compliant 72-hour blackout architecture for multi-unit buildings.",
+      "Before ordering any backup bundle, open our interactive 72-Hour Outage Sizing Calculator, select your exact appliances (fridge, chest freezer, CPAP, sump pump, or gas furnace blower), and verify both continuous watt-hours and peak inductive startup surge."
+    ],
+    "internalLinks": [
+      {
+        "label": "Open Interactive 72h Outage Calculator",
+        "href": "/power-calculator?preset=72h"
+      },
+      {
+        "label": "Apartment 72h Preset (No Gas)",
+        "href": "/power-calculator?preset=apartment"
+      },
+      {
+        "label": "What size power station runs a refrigerator?",
+        "href": "/blog/what-size-power-station-to-run-a-refrigerator"
+      },
+      {
+        "label": "BLUETTI Elite 200 V2 vs AC200L",
+        "href": "/blog/bluetti-elite-200-v2-vs-ac200l-comparison"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does a 2,000Wh power station really deliver 2,000Wh to my appliances?",
+        "answer": "No. After ~85% usable DC-to-AC conversion efficiency and the inverter's own 11W–24W continuous idle draw, a 2,000Wh LiFePO4 station typically delivers 1,450Wh to 1,650Wh of net AC energy across a 24-hour outage."
+      },
+      {
+        "question": " Does 120V vs 230V change the battery watt-hours needed for 72 hours?",
+        "answer": "Watt-hours (Wh) measure total energy regardless of voltage, so the sizing math is identical. However, you must purchase a regional 120V unit for US/Canada or a 230V Schuko/UK/AU unit for Europe, the UK, and Australia."
+      }
+    ],
+    "sortOrder": 177
+  },
+  {
+    "slug": "what-size-power-station-to-run-a-refrigerator",
+    "title": "What Size Portable Power Station Runs a Full-Size Refrigerator? (Real Duty-Cycle & Tare Math)",
+    "category": "power-stations",
+    "description": "Stop multiplying your fridge sticker amps by 120V. Learn the real compressor duty cycle, defrost spike, and inverter idle draw formula for 12h, 24h, and 72h outages.",
+    "updatedAt": "2026-11-17",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [],
+    "body": [
+      "The biggest mistake buyers make when sizing a refrigerator backup battery is reading the inside door sticker — which often lists 6.5A at 120V (780W) — and multiplying 780W by 24 hours to conclude they need an 18,720Wh battery. That doorplate rating reflects peak defrost heater and locked-rotor current, not continuous running watts.",
+      "In real kitchen testing, an Energy Star French-door or bottom-freezer refrigerator cycles its compressor roughly 35% to 45% of the hour, averaging 55W to 70W over 24 hours, punctuated by a 20-minute 400W–500W defrost cycle once or twice daily and a split-second 1,000W–1,400W compressor startup surge.",
+      "Because the refrigerator stays plugged into the AC outlet 24 hours a day waiting for the thermostat to call for cooling, your power station's AC inverter can never enter sleep mode. If a budget power station wastes 28W just keeping its inverter energized, it burns 672 Wh per day doing nothing — nearly half of a 1,500Wh battery!",
+      "That is why low-idle-draw architecture matters so much for cold-food preservation: a 1,024Wh unit like the BLUETTI Elite 100 V2 (~11W idle) reliably covers 11 to 13 hours overnight, while a 2,073Wh BLUETTI Elite 200 V2 (~12W idle) hits the 23-to-26-hour sweet spot for a full-size refrigerator plus a home Wi-Fi router.",
+      "For 36 to 48+ hours without touching solar panels, step up to a 3kWh single-box unit (BLUETTI Elite 300) or an expandable system like the BLUETTI Apex 300 + B300K (5,530Wh total), which also handles basement sump pumps and manual transfer switches."
+    ],
+    "internalLinks": [
+      {
+        "label": "Test Your Exact Fridge Runtime in Calculator",
+        "href": "/power-calculator?preset=24h"
+      },
+      {
+        "label": "72-Hour Blackout Rule Sizing Guide",
+        "href": "/blog/72-hour-blackout-battery-calculator-guide"
+      },
+      {
+        "label": "BLUETTI Elite 200 V2 vs AC200L",
+        "href": "/blog/bluetti-elite-200-v2-vs-ac200l-comparison"
+      },
+      {
+        "label": "BLUETTI Apex 300 vs Elite 300",
+        "href": "/blog/bluetti-apex-300-vs-elite-300-home-backup-guide"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can a 1,000Wh power station start a full-size kitchen refrigerator?",
+        "answer": "Yes, provided its inverter offers at least 1,500W continuous and 2,400W+ surge capacity (such as the 1,800W / 2,700W surge BLUETTI Elite 100 V2). Expect 11 to 12.5 hours of runtime before recharging."
+      },
+      {
+        "question": "How do I extend refrigerator battery runtime during a multi-day blackout?",
+        "answer": "Set the fridge to 38°F (3°C) and freezer to 0°F (-18°C), minimize door openings, turn off automatic ice makers and door water heaters, and connect a 200W–400W portable solar panel during daylight hours."
+      }
+    ],
+    "sortOrder": 178
+  },
+  {
+    "slug": "bluetti-elite-200-v2-vs-ac200l-comparison",
+    "title": "BLUETTI Elite 200 V2 vs AC200L: Which 2kWh LiFePO4 Power Station Should You Buy?",
+    "category": "power-stations",
+    "description": "Side-by-side engineering breakdown of BLUETTI Elite 200 V2 (2,073Wh) vs AC200L (2,048Wh): inverter idle tare loss, cycle life, RV ports, and expansion batteries.",
+    "updatedAt": "2026-11-17",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [],
+    "body": [
+      "Shoppers comparing 2kWh portable power stations almost always narrow their shortlist down to two siblings from the same brand: the newer ultra-compact BLUETTI Elite 200 V2 (2,073.6Wh, 2,600W continuous) and the modular BLUETTI AC200L (2,048Wh, 2,400W continuous). On paper their watt-hours look identical, but their internal inverter efficiency and expansion architecture serve two very different buyers.",
+      "If you want a standalone grab-and-go blackout cube for your kitchen refrigerator, CPAP machine, and home office, the BLUETTI Elite 200 V2 wins decisively. Its updated inverter topology cuts no-load AC idle consumption down to roughly 10W–12W (compared with ~22W–26W on larger expandable inverters), yielding up to 3.5 extra hours of real-world refrigerator runtime from virtually the same 2kWh battery.",
+      "The Elite 200 V2 also upgrades to automotive-grade prismatic LiFePO4 cells rated for 6,000+ cycles to 80% capacity while shrinking the chassis footprint by roughly 35%, making it far easier to store in an apartment closet or lift into an SUV.",
+      "Where does the BLUETTI AC200L still win? Modularity and RV DC integration. Unlike the fixed-capacity Elite 200 V2, the AC200L accepts B210, B300, and B300K expansion batteries up to 8,192Wh, takes up to 1,200W of solar input (versus 1,000W on Elite 200 V2), and supports dedicated high-amp RV regulated DC accessories.",
+      "Bottom line: buy the Elite 200 V2 if you want maximum single-box 24-hour efficiency at a lower weight and street price; step up to the AC200L or Apex 300 only if you plan to add external expansion batteries for 48–72 hour whole-home circuits."
+    ],
+    "internalLinks": [
+      {
+        "label": "Compare Both Live in Outage Calculator",
+        "href": "/power-calculator?preset=24h"
+      },
+      {
+        "label": "BLUETTI Apex 300 vs Elite 300 Comparison",
+        "href": "/blog/bluetti-apex-300-vs-elite-300-home-backup-guide"
+      },
+      {
+        "label": "72-Hour Blackout Sizing Math",
+        "href": "/blog/72-hour-blackout-battery-calculator-guide"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Can the BLUETTI Elite 200 V2 accept expansion batteries?",
+        "answer": "No. The Elite 200 V2 is engineered as a sealed, ultra-dense standalone 2,073Wh station. If you want modular battery expansion, choose the AC200L or the newer 120V/240V Apex 300."
+      },
+      {
+        "question": "Are reader discount codes available for the Elite 200 V2?",
+        "answer": "Yes — check current official bundle promotions via our calculator links and test code AFFEV5% or AFF5OFF at checkout on eligible US/CA configurations."
+      }
+    ],
+    "sortOrder": 179
+  },
+  {
+    "slug": "bluetti-apex-300-vs-elite-300-home-backup-guide",
+    "title": "BLUETTI Apex 300 vs Elite 300: 3kWh Plug-In Simplicity vs Expandable 120V/240V Home Backup",
+    "category": "power-stations",
+    "description": "Compare BLUETTI Elite 300 (3,014Wh single-box) against BLUETTI Apex 300 (2,765Wh expandable to 16.5kWh, 3,840W 120V/240V) for multi-day home outages and transfer switches.",
+    "updatedAt": "2026-11-17",
+    "author": "HomePilot Editorial Team",
+    "authorSlug": "homepilot-editorial-team",
+    "relatedProducts": [],
+    "body": [
+      "Once your outage math crosses the 2.5kWh threshold — typically because you are running a refrigerator plus a basement chest freezer, sump pump, or winter gas furnace blower — you face a fork in the road between two 3kWh-class architectures: the single-box BLUETTI Elite 300 (3,014Wh, 2,400W) and the modular BLUETTI Apex 300 (2,765Wh base, 3,840W continuous, expandable to 16.5kWh).",
+      "Choose the BLUETTI Elite 300 when you want zero cabling complexity and maximum watt-hours per pound in one self-contained unit. With 3,014Wh of LiFePO4 storage and a low ~14W inverter idle draw, it runs a refrigerator and Wi-Fi router for roughly 34 to 38 hours straight on standard extension cords with zero electrician labor.",
+      "Choose the BLUETTI Apex 300 when your home relies on heavy inductive motors, a 6-to-10-circuit manual transfer switch, or 240V split-phase loads (such as deep-well water pumps). Its 3,840W continuous / 7,680W surge inverter shrugs off motor startup spikes that trip smaller 2,400W stations, and a single B300K expansion pack doubles storage past 5.5kWh for true 72-hour winter resilience.",
+      "Financially, pairing an Apex 300 + B300K with a $350 UL-listed manual transfer switch typically lands under $3,200 installed — saving over $11,000 compared with hardwired single-vendor wall batteries while remaining 100% portable if you move homes."
+    ],
+    "internalLinks": [
+      {
+        "label": "Model Winter & Sump Pump Loads in Calculator",
+        "href": "/power-calculator?preset=winter"
+      },
+      {
+        "label": "72-Hour Blackout Rule Sizing Guide",
+        "href": "/blog/72-hour-blackout-battery-calculator-guide"
+      },
+      {
+        "label": "BLUETTI Elite 200 V2 vs AC200L",
+        "href": "/blog/bluetti-elite-200-v2-vs-ac200l-comparison"
+      }
+    ],
+    "faq": [
+      {
+        "question": "Do I need a smart home panel to connect the BLUETTI Apex 300 to my house?",
+        "answer": "No. Most homeowners save thousands in electrician labor by installing a standard 30A manual transfer switch (such as a Pro/Tran 2) for 6 to 10 critical circuits rather than a proprietary smart subpanel."
+      },
+      {
+        "question": "What is the European 230V equivalent for 3kWh–5kWh blackout backup?",
+        "answer": "In 230V European, UK, and Australian grids, compare modular 2.5kWh–5kWh LiFePO4 systems such as the ALLPOWERS R3500/R4000 portable stations or BS2500/BS5000 PRO balcony solar storage kits inside our calculator."
+      }
+    ],
+    "sortOrder": 180
   }
 ]

@@ -107,6 +107,51 @@ export default async function ArticlePage({ params }: Props) {
           <h2 id="quick-answer" className="text-xl font-semibold tracking-tight text-neutral-950">Quick answer</h2>
           <p className="mt-3">{quickAnswer}</p>
         </section>
+        {article.category === "power-stations" && (
+          <section className="rounded-2xl border border-emerald-500/40 bg-neutral-950 p-6 text-white shadow-md">
+            <span className="inline-block rounded-full bg-emerald-500/20 px-3 py-1 text-xs font-bold uppercase tracking-wider text-emerald-400">
+              ⚡ Interactive Sizing + Verified Direct Coupons (US 120V &amp; EU 230V)
+            </span>
+            <h2 className="mt-2 text-2xl font-bold text-white">
+              Run Your Exact Outage Loads Before You Buy
+            </h2>
+            <p className="mt-2 text-sm leading-6 text-neutral-300">
+              Select your refrigerator, Wi-Fi router, CPAP, sump pump, or gas furnace blower in our engineering calculator to deduct real inverter tare loss — and unlock verified reader discount codes (<strong>AFFEV5%</strong>, <strong>AFF5OFF</strong>, and 230V EU/AU <strong>APBF10</strong>).
+            </p>
+            <div className="mt-4 flex flex-wrap gap-3">
+              <Link
+                href="/power-calculator?preset=72h"
+                className="rounded-xl bg-emerald-500 px-4 py-2.5 text-xs font-extrabold text-neutral-950 transition hover:bg-emerald-400"
+              >
+                ⚡ Open 72-Hour Outage Calculator -&gt;
+              </Link>
+              <a
+                href="/go/elite-200-v2?src=calc"
+                target="_blank"
+                rel="nofollow sponsored noopener"
+                className="rounded-xl border border-white/25 bg-white/10 px-4 py-2.5 text-xs font-bold text-white transition hover:bg-white/20"
+              >
+                Check 2kWh Elite 200 V2 Offer -&gt;
+              </a>
+              <a
+                href="/go/apex-300?src=calc"
+                target="_blank"
+                rel="nofollow sponsored noopener"
+                className="rounded-xl border border-white/25 bg-white/10 px-4 py-2.5 text-xs font-bold text-white transition hover:bg-white/20"
+              >
+                Check Expandable Apex 300 Offer -&gt;
+              </a>
+              <a
+                href="/go/allpowers-eu?src=calc"
+                target="_blank"
+                rel="nofollow sponsored noopener"
+                className="rounded-xl border border-blue-400/40 bg-blue-500/15 px-4 py-2.5 text-xs font-bold text-blue-200 transition hover:bg-blue-500/25"
+              >
+                230V EU / UK / AU Store (-10% APBF10) -&gt;
+              </a>
+            </div>
+          </section>
+        )}
         <section aria-labelledby="what-to-know">
           <h2 id="what-to-know" className="text-2xl font-semibold tracking-tight text-neutral-950">What you need to know</h2>
           <div className="mt-4 space-y-6">

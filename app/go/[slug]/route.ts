@@ -8,6 +8,7 @@ export async function GET(
   const { slug } = await context.params;
   const url = new URL(request.url);
   const srcParam = url.searchParams.get("src") ?? "";
+  const forceUsStore = url.searchParams.get("store") === "us";
   const referer = (request.headers.get("referer") ?? "").toLowerCase();
   const countryCode = request.headers.get("x-vercel-ip-country") ?? "US";
 
@@ -15,7 +16,7 @@ export async function GET(
   const isCalculatorClick =
     srcParam === "calc" || referer.includes("homepilot-iota.vercel.app");
 
-  const target = buildBluettiCjUrl(slug, isCalculatorClick, countryCode);
+  const target = buildBluettiCjUrl(slug, isCalculatorClick, countryCode, forceUsStore);
 
   return NextResponse.redirect(target, {
     status: 302,

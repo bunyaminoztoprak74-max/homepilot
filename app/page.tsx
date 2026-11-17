@@ -141,6 +141,42 @@ export default function Home() {
         </div>
       </section>
 
+      <section className="border-b border-neutral-200 bg-neutral-950 text-white">
+        <div className="mx-auto flex max-w-7xl flex-col items-start justify-between gap-6 px-5 py-8 sm:px-6 lg:flex-row lg:items-center lg:px-8">
+          <div className="max-w-3xl">
+            <span className="inline-block rounded-full bg-emerald-500/20 px-3 py-1 text-xs font-bold uppercase tracking-wider text-emerald-400">
+              ⚡ Interactive Engineering Tool • US 120V &amp; EU 230V Ready
+            </span>
+            <h2 className="mt-2 text-2xl font-bold tracking-tight text-white">
+              72-Hour Home Blackout &amp; Refrigerator Battery Sizing Calculator
+            </h2>
+            <p className="mt-1.5 text-sm text-neutral-300">
+              Calculate true LiFePO4 runtime after inverter idle loss, defrost heater spikes, and motor startup surge — plus compare verified 1kWh to 5.5kWh backup kits.
+            </p>
+            <div className="mt-3 flex flex-wrap gap-3 text-xs font-semibold text-emerald-300">
+              <Link href="/blog/72-hour-blackout-battery-calculator-guide" className="hover:underline">
+                72-Hour Blackout Math Guide -&gt;
+              </Link>
+              <Link href="/blog/what-size-power-station-to-run-a-refrigerator" className="hover:underline">
+                Refrigerator Battery Sizing -&gt;
+              </Link>
+              <Link href="/blog/bluetti-elite-200-v2-vs-ac200l-comparison" className="hover:underline">
+                Elite 200 V2 vs AC200L -&gt;
+              </Link>
+              <Link href="/blog/bluetti-apex-300-vs-elite-300-home-backup-guide" className="hover:underline">
+                Apex 300 vs Elite 300 -&gt;
+              </Link>
+            </div>
+          </div>
+          <Link
+            href="/power-calculator?preset=72h"
+            className="shrink-0 rounded-full bg-emerald-500 px-6 py-3.5 text-sm font-extrabold text-neutral-950 transition hover:bg-emerald-400"
+          >
+            Open 72h Power Calculator -&gt;
+          </Link>
+        </div>
+      </section>
+
       <section className="mx-auto max-w-7xl px-5 py-14 sm:px-6 lg:px-8">
         <SectionHeader eyebrow="Featured categories" title="Start with the room-changing upgrades." />
         <div className="mt-8 grid gap-4 md:grid-cols-3">
