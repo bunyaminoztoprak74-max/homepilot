@@ -15,21 +15,33 @@ export interface BluettiModelSpec {
   bestFor: string;
 }
 
-// Verified CJ Affiliate Links for Publisher Property 101761537 (Bluetti Global Active)
-export const BLUETTI_REDIRECTS: Record<string, string> = {
-  "elite-100-v2": "https://www.kqzyfj.com/click-101761537-17331988",
-  "elite-100-mini": "https://www.kqzyfj.com/click-101761537-17347374",
-  "elite-200-v2": "https://www.anrdoezrs.net/click-101761537-16961653",
-  "ac200l": "https://www.kqzyfj.com/click-101761537-17110659",
-  "apex-200": "https://www.kqzyfj.com/click-101761537-17373661",
-  "elite-300": "https://www.jdoqocy.com/click-101761537-17258101",
-  "apex-300": "https://www.kqzyfj.com/click-101761537-17071597",
-  "home-backup": "https://www.kqzyfj.com/click-101761537-15816209",
-  "fridgepower": "https://www.tkqlhce.com/click-101761537-17306584",
-  "charger-2": "https://www.dpbolvw.net/click-101761537-17227807",
-  "bluetti-5off": "https://www.jdoqocy.com/click-101761537-16981946",
-  "bluetti-store": "https://www.jdoqocy.com/click-101761537-15736238"
+export const CJ_PID_WEBSITE = "101761537"; // HomePilot Web Property
+export const CJ_PID_GRIDSPEC_YT = "101930704"; // GridSpec Lab Official YouTube Property
+
+// Verified Bluetti Global (6191107) Link IDs & CJ Tracking Domains
+export const BLUETTI_LINK_SPECS: Record<string, { host: string; linkId: string }> = {
+  "elite-100-v2": { host: "https://www.kqzyfj.com", linkId: "17331988" },
+  "elite-100-mini": { host: "https://www.kqzyfj.com", linkId: "17347374" },
+  "elite-200-v2": { host: "https://www.tkqlhce.com", linkId: "16961653" },
+  "ac200l": { host: "https://www.dpbolvw.net", linkId: "17110659" },
+  "apex-200": { host: "https://www.tkqlhce.com", linkId: "17373661" },
+  "elite-300": { host: "https://www.dpbolvw.net", linkId: "17258101" },
+  "apex-300": { host: "https://www.anrdoezrs.net", linkId: "17071597" },
+  "home-backup": { host: "https://www.anrdoezrs.net", linkId: "15816209" },
+  "fridgepower": { host: "https://www.tkqlhce.com", linkId: "17306584" },
+  "charger-2": { host: "https://www.dpbolvw.net", linkId: "17227807" },
+  "bluetti-5off": { host: "https://www.anrdoezrs.net", linkId: "16981946" },
+  "bluetti-store": { host: "https://www.tkqlhce.com", linkId: "15736238" }
 };
+
+export function buildBluettiCjUrl(slug: string, isCalculatorClick: boolean): string {
+  const cleanSlug = slug.toLowerCase();
+  const spec = BLUETTI_LINK_SPECS[cleanSlug] ?? BLUETTI_LINK_SPECS["bluetti-5off"];
+  const pid = isCalculatorClick ? CJ_PID_WEBSITE : CJ_PID_GRIDSPEC_YT;
+  const sidPrefix = isCalculatorClick ? "calc" : "gridspec_yt";
+  const safeSid = `${sidPrefix}_${cleanSlug.replace(/[^a-z0-9_-]/g, "")}`;
+  return `${spec.host}/click-${pid}-${spec.linkId}?sid=${safeSid}`;
+}
 
 export const BLUETTI_MODELS: BluettiModelSpec[] = [
   {
@@ -42,7 +54,7 @@ export const BLUETTI_MODELS: BluettiModelSpec[] = [
     idleLossW: 11,
     upsMs: 10,
     expandableToWh: 1024,
-    cjUrl: "/go/elite-100-v2",
+    cjUrl: "/go/elite-100-v2?src=calc",
     couponCode: "ELITE5OFF",
     couponNote: "Extra 5% OFF Elite 100 V2 & Bundles",
     typicalPriceUsd: "$499–$699",
@@ -58,7 +70,7 @@ export const BLUETTI_MODELS: BluettiModelSpec[] = [
     idleLossW: 12,
     upsMs: 15,
     expandableToWh: 2073,
-    cjUrl: "/go/elite-200-v2",
+    cjUrl: "/go/elite-200-v2?src=calc",
     couponCode: "AFFEV5%",
     couponNote: "Extra 5% OFF Elite 200 V2",
     typicalPriceUsd: "$899–$1,199",
@@ -74,7 +86,7 @@ export const BLUETTI_MODELS: BluettiModelSpec[] = [
     idleLossW: 14,
     upsMs: 10,
     expandableToWh: 3014,
-    cjUrl: "/go/elite-300",
+    cjUrl: "/go/elite-300?src=calc",
     couponCode: "AFF5OFF",
     couponNote: "Extra 5% OFF Sitewide Code",
     typicalPriceUsd: "$1,299–$1,499",
@@ -90,7 +102,7 @@ export const BLUETTI_MODELS: BluettiModelSpec[] = [
     idleLossW: 18,
     upsMs: 0,
     expandableToWh: 16588,
-    cjUrl: "/go/apex-300",
+    cjUrl: "/go/apex-300?src=calc",
     couponCode: "AFF5OFF",
     couponNote: "Extra 5% OFF Sitewide Code",
     typicalPriceUsd: "$1,499 ($2,599 w/ B300K 5.5kWh)",
@@ -106,7 +118,7 @@ export const BLUETTI_MODELS: BluettiModelSpec[] = [
     idleLossW: 24,
     upsMs: 15,
     expandableToWh: 18432,
-    cjUrl: "/go/home-backup",
+    cjUrl: "/go/home-backup?src=calc",
     couponCode: "power5",
     couponNote: "Extra 5% OFF AC300/AC500 + Solar Kits",
     typicalPriceUsd: "$2,499–$4,299",

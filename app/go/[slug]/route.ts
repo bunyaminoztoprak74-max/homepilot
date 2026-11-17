@@ -1,12 +1,21 @@
 import { NextResponse } from "next/server";
-import { BLUETTI_REDIRECTS } from "@/lib/bluettiAffiliates";
+import { buildBluettiCjUrl } from "@/lib/bluettiAffiliates";
 
 export async function GET(
-  _request: Request,
+  request: Request,
   context: { params: Promise<{ slug: string }> }
 ) {
   const { slug } = await context.params;
-  const target = BLUETTI_REDIRECTS[slug.toLowerCase()] ?? BLUETTI_REDIRECTS["bluetti-5off"];
+  const url = new URL(request.url);
+  const srcParam = url.searchParams.get("src") ?? "";
+  const referer = (request.headers.get("referer") ?? "").toLowerCase();
+
+  // Route web calculator clicks via Website PID (101761537) and direct YouTube description clicks via GridSpec Lab YouTube PID (101930704)
+  const isCalculatorClick =
+    srcParam === "calc" || referer.includes("homepilot-iota.vercel.app");
+
+  const target = buildBluettiCjUrl(slug, isCalculatorClick);
+
   return NextResponse.redirect(target, {
     status: 302,
     headers: {
