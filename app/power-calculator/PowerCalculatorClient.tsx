@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { BLUETTI_MODELS } from "@/lib/bluettiAffiliates";
 
 interface AppliancePreset {
@@ -80,6 +80,36 @@ export function PowerCalculatorClient() {
   const [outageHours, setOutageHours] = useState<number>(24);
   const [solarWatts, setSolarWatts] = useState<number>(0);
   const [copiedCode, setCopiedCode] = useState<string | null>(null);
+  const [activePreset, setActivePreset] = useState<string>("24h");
+
+  const applyPreset = (presetKey: string) => {
+    setActivePreset(presetKey);
+    if (presetKey === "72h") {
+      setSelectedIds(["modern-fridge", "wifi", "cpap", "sump-pump"]);
+      setOutageHours(72);
+      setSolarWatts(200);
+    } else if (presetKey === "apartment") {
+      setSelectedIds(["modern-fridge", "wifi"]);
+      setOutageHours(72);
+      setSolarWatts(200);
+    } else if (presetKey === "winter") {
+      setSelectedIds(["modern-fridge", "gas-furnace", "sump-pump", "wifi"]);
+      setOutageHours(72);
+      setSolarWatts(400);
+    } else {
+      setSelectedIds(["modern-fridge", "wifi"]);
+      setOutageHours(24);
+      setSolarWatts(0);
+    }
+  };
+
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const p = (params.get("preset") ?? "").toLowerCase();
+    if (p === "72h" || p === "apartment" || p === "winter") {
+      applyPreset(p);
+    }
+  }, []);
 
   const toggleAppliance = (id: string) => {
     setSelectedIds((prev) =>
@@ -140,6 +170,41 @@ export function PowerCalculatorClient() {
 
   return (
     <div className="space-y-8">
+      {/* One-Click US FEMA & EU 72-Hour Emergency Readiness Presets */}
+      <div className="rounded-2xl border border-amber-300 bg-amber-50/70 p-4 shadow-sm">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <span className="text-xs font-extrabold uppercase tracking-wider text-amber-900">
+              ⚡ Quick Scenario Presets (US FEMA &amp; EU 72-Hour Readiness Standard • 120V / 230V Wh Math)
+            </span>
+            <p className="text-xs text-amber-800">
+              Tap a preset to load official 3-day emergency power profiles instantly:
+            </p>
+          </div>
+          <div className="flex flex-wrap gap-2">
+            {[
+              { id: "72h", label: "🚨 72-Hour Home Blackout (US/EU)" },
+              { id: "apartment", label: "🏢 72-Hour Apartment / Flat (No Gas)" },
+              { id: "winter", label: "❄️ 72-Hour Winter Freeze (Heating)" },
+              { id: "24h", label: "⚡ 24-Hour Standard Storm" }
+            ].map((p) => (
+              <button
+                key={p.id}
+                type="button"
+                onClick={() => applyPreset(p.id)}
+                className={`rounded-xl px-3.5 py-2 text-xs font-bold transition ${
+                  activePreset === p.id
+                    ? "bg-neutral-950 text-emerald-400 shadow"
+                    : "border border-neutral-300 bg-white text-neutral-800 hover:bg-neutral-100"
+                }`}
+              >
+                {p.label}
+              </button>
+            ))}
+          </div>
+        </div>
+      </div>
+
       {/* Step 1 + Live Engineering Math Grid */}
       <div className="grid gap-6 lg:grid-cols-12">
         <div className="rounded-2xl border border-neutral-200 bg-white p-6 shadow-sm lg:col-span-7">

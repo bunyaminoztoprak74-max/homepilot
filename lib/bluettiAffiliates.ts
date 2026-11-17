@@ -18,29 +18,45 @@ export interface BluettiModelSpec {
 export const CJ_PID_WEBSITE = "101761537"; // HomePilot Web Property
 export const CJ_PID_GRIDSPEC_YT = "101930704"; // GridSpec Lab Official YouTube Property
 
-// Verified Bluetti Global (6191107) Link IDs & CJ Tracking Domains
-export const BLUETTI_LINK_SPECS: Record<string, { host: string; linkId: string }> = {
-  "elite-100-v2": { host: "https://www.kqzyfj.com", linkId: "17331988" },
-  "elite-100-mini": { host: "https://www.kqzyfj.com", linkId: "17347374" },
-  "elite-200-v2": { host: "https://www.tkqlhce.com", linkId: "16961653" },
-  "ac200l": { host: "https://www.dpbolvw.net", linkId: "17110659" },
-  "apex-200": { host: "https://www.tkqlhce.com", linkId: "17373661" },
-  "elite-300": { host: "https://www.dpbolvw.net", linkId: "17258101" },
-  "apex-300": { host: "https://www.anrdoezrs.net", linkId: "17071597" },
-  "home-backup": { host: "https://www.anrdoezrs.net", linkId: "15816209" },
-  "fridgepower": { host: "https://www.tkqlhce.com", linkId: "17306584" },
-  "charger-2": { host: "https://www.dpbolvw.net", linkId: "17227807" },
-  "bluetti-5off": { host: "https://www.anrdoezrs.net", linkId: "16981946" },
-  "bluetti-store": { host: "https://www.tkqlhce.com", linkId: "15736238" }
+// Verified Bluetti Global (6191107) Link IDs & CJ Tracking Domains (US Default + CA Geo-Targeted)
+export const BLUETTI_LINK_SPECS: Record<string, { host: string; linkId: string; caLinkId?: string; euLinkId?: string }> = {
+  "elite-100-v2": { host: "https://www.kqzyfj.com", linkId: "17331988", caLinkId: "17347375" },
+  "elite-100-mini": { host: "https://www.kqzyfj.com", linkId: "17347374", caLinkId: "17347375" },
+  "elite-200-v2": { host: "https://www.tkqlhce.com", linkId: "16961653", caLinkId: "17130962" },
+  "ac200l": { host: "https://www.dpbolvw.net", linkId: "17110659", caLinkId: "17130962" },
+  "apex-200": { host: "https://www.tkqlhce.com", linkId: "17373661", caLinkId: "17130962" },
+  "elite-300": { host: "https://www.dpbolvw.net", linkId: "17258101", caLinkId: "17258110" },
+  "apex-300": { host: "https://www.anrdoezrs.net", linkId: "17071597", caLinkId: "17071597" },
+  "home-backup": { host: "https://www.anrdoezrs.net", linkId: "15816209", caLinkId: "17130962" },
+  "fridgepower": { host: "https://www.tkqlhce.com", linkId: "17306584", caLinkId: "17130962" },
+  "charger-2": { host: "https://www.dpbolvw.net", linkId: "17227807", caLinkId: "17130962" },
+  "bluetti-5off": { host: "https://www.anrdoezrs.net", linkId: "16981946", caLinkId: "17130962" },
+  "bluetti-store": { host: "https://www.tkqlhce.com", linkId: "15736238", caLinkId: "17130962" }
 };
 
-export function buildBluettiCjUrl(slug: string, isCalculatorClick: boolean): string {
+const EU_COUNTRIES = new Set([
+  "DE", "FR", "NL", "SE", "AT", "BE", "IT", "ES", "PL", "DK", "FI", "IE", "PT", "CZ", "GR", "HU", "RO", "CH", "NO", "GB"
+]);
+
+export function buildBluettiCjUrl(slug: string, isCalculatorClick: boolean, countryCode = "US"): string {
   const cleanSlug = slug.toLowerCase();
   const spec = BLUETTI_LINK_SPECS[cleanSlug] ?? BLUETTI_LINK_SPECS["bluetti-5off"];
   const pid = isCalculatorClick ? CJ_PID_WEBSITE : CJ_PID_GRIDSPEC_YT;
+  const cc = countryCode.toUpperCase();
+
+  let chosenLinkId = spec.linkId;
+  if (cc === "CA" && spec.caLinkId) {
+    chosenLinkId = spec.caLinkId;
+  } else if (EU_COUNTRIES.has(cc) && spec.euLinkId) {
+    chosenLinkId = spec.euLinkId;
+  } else if (EU_COUNTRIES.has(cc)) {
+    // Evergreen Bluetti Global link (15736238) allows Bluetti's storefront region banner for EU/UK visitors until dedicated EU PID links are added
+    chosenLinkId = spec.linkId;
+  }
+
   const sidPrefix = isCalculatorClick ? "calc" : "gridspec_yt";
-  const safeSid = `${sidPrefix}_${cleanSlug.replace(/[^a-z0-9_-]/g, "")}`;
-  return `${spec.host}/click-${pid}-${spec.linkId}?sid=${safeSid}`;
+  const safeSid = `${sidPrefix}_${cleanSlug.replace(/[^a-z0-9_-]/g, "")}_${cc.toLowerCase()}`;
+  return `${spec.host}/click-${pid}-${chosenLinkId}?sid=${safeSid}`;
 }
 
 export const BLUETTI_MODELS: BluettiModelSpec[] = [
